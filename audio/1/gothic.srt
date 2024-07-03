@@ -1,0 +1,1048 @@
+﻿1
+00:00:00,000 --> 00:00:04,120
+There are not many games in Poland surrounded by such a cult as the good old Gothic,
+
+2
+00:00:04,120 --> 00:00:08,260
+whose first installment ended as early as 23 years ago this year.
+
+3
+00:00:08,260 --> 00:00:13,360
+On the scale of the phenomenon of this series, it may be that an official remake of the first installment is being created,
+
+4
+00:00:13,360 --> 00:00:19,600
+over two years ago there was the premiere of the great, huge mod to the second Gothic - Chronicles of Myrtana Archolos,
+
+5
+00:00:19,600 --> 00:00:24,960
+or that quite recently the first two Gothic games have reached their ports on Switch.
+
+6
+00:00:24,960 --> 00:00:27,560
+Although far from perfect, but still.
+
+7
+00:00:27,560 --> 00:00:31,800
+In addition, the community of fans is constantly creating smaller mods to these games,
+
+8
+00:00:31,800 --> 00:00:37,480
+including the development of Gothic Online, which you may have seen several times on my channel.
+
+9
+00:00:37,480 --> 00:00:43,800
+As some of you probably know, from time to time I tend to look closer at larger or more ambitious projects,
+
+10
+00:00:43,800 --> 00:00:46,440
+mainly related to the Witcher or Gothic universe,
+
+11
+00:00:46,440 --> 00:00:51,480
+and this time I came across this second game and a very ambitious project called Veritas RP,
+
+12
+00:00:51,480 --> 00:00:53,800
+which I will try to tell you about today.
+
+13
+00:00:53,800 --> 00:00:55,800
+Enjoy the video!
+
+14
+00:00:57,560 --> 00:00:59,160
+[Veritas RP]
+
+15
+00:00:59,160 --> 00:01:04,120
+A team of over 20 enthusiasts decided to create a role-playing server,
+
+16
+00:01:04,120 --> 00:01:07,400
+thanks to which each of us will be able to live in the new,
+
+17
+00:01:07,400 --> 00:01:11,640
+set in the Gothic universe, fan-made princedom, entitled Veritas.
+
+18
+00:01:11,640 --> 00:01:16,200
+I recently had the opportunity to talk to three people from the team responsible for this project.
+
+19
+00:01:16,200 --> 00:01:19,240
+Pawel Jaroslaw Olszak, the main programmer,
+
+20
+00:01:19,240 --> 00:01:21,800
+Konrad Jaged Zawiszek, the leader of the 3D department,
+
+21
+00:01:21,800 --> 00:01:26,200
+and Daniel Hoffman-Kamiński, the owner and creator of the server.
+
+22
+00:01:26,200 --> 00:01:29,800
+And the fragments of the conversation with them will be intertwined during the episode.
+
+23
+00:01:29,800 --> 00:01:35,080
+♫ Although my heart longs for you, ♫
+
+24
+00:01:35,080 --> 00:01:40,280
+♫ a year is waiting for you. ♫
+
+25
+00:01:40,280 --> 00:01:44,360
+♫ Veritas is safe ♫
+
+26
+00:01:44,360 --> 00:01:50,040
+♫ when you take a quiet step. ♫
+
+27
+00:01:50,040 --> 00:01:55,160
+Where did the idea for creating this server come from and why Gothic?
+
+28
+00:01:55,160 --> 00:01:58,200
+You know what, it's a pretty interesting story,
+
+29
+00:01:58,200 --> 00:02:01,080
+because almost three years ago,
+
+30
+00:02:01,080 --> 00:02:03,960
+my friend and I wanted to play roleplay,
+
+31
+00:02:03,960 --> 00:02:06,520
+because we've been playing roleplay since 2007,
+
+32
+00:02:06,520 --> 00:02:10,440
+but in a timely, earlier release.
+
+33
+00:02:10,440 --> 00:02:12,200
+We had three different approaches,
+
+34
+00:02:12,200 --> 00:02:15,000
+because at first we assumed that we wanted to create something of our own,
+
+35
+00:02:15,000 --> 00:02:18,360
+so we thought about Bannerlord,
+
+36
+00:02:18,360 --> 00:02:24,280
+but we did it because of the small Polish community,
+
+37
+00:02:24,280 --> 00:02:28,680
+quite a large threshold due to the hardware requirements and the price of the game itself,
+
+38
+00:02:28,680 --> 00:02:30,200
+so we abandoned it.
+
+39
+00:02:30,200 --> 00:02:34,360
+The second thing was a project that fell apart very quickly,
+
+40
+00:02:34,360 --> 00:02:38,680
+and it was a multiplayer platform for The Witcher 3, which fell apart.
+
+41
+00:02:38,680 --> 00:02:40,440
+And Gothic remained.
+
+42
+00:02:40,440 --> 00:02:43,080
+At that time, there was a project, we played it for a while,
+
+43
+00:02:43,080 --> 00:02:47,480
+we realized that it was something completely different than what we are used to.
+
+44
+00:02:47,480 --> 00:02:52,120
+And that's how my idea to make Veritas came about.
+
+45
+00:02:52,120 --> 00:02:54,520
+The number of people is hard to estimate,
+
+46
+00:02:54,520 --> 00:02:58,040
+as I said, over the two years,
+
+47
+00:02:58,040 --> 00:03:01,400
+the rotation was what it was, a lot of people came, a lot of people left.
+
+48
+00:03:01,400 --> 00:03:06,360
+At this point, I didn't count, there are probably over 20 people.
+
+49
+00:03:06,360 --> 00:03:08,520
+At this point, we have 27 people.
+
+50
+00:03:08,520 --> 00:03:12,120
+Exactly, at this point 27 people, and there are different people.
+
+51
+00:03:12,120 --> 00:03:16,680
+The project is divided into many sectors that work relatively autonomously,
+
+52
+00:03:16,680 --> 00:03:20,840
+we have a game design, which is responsible for designing all the game solutions
+
+53
+00:03:20,840 --> 00:03:23,160
+in terms of how a given system is supposed to work,
+
+54
+00:03:23,160 --> 00:03:26,280
+and ultimately there are game masters and supporters,
+
+55
+00:03:26,280 --> 00:03:29,080
+so there are people who design the world presented together with me,
+
+56
+00:03:29,080 --> 00:03:31,480
+or will ultimately serve the player in the first line.
+
+57
+00:03:31,480 --> 00:03:35,400
+We have a script department with a representative, with Jarek,
+
+58
+00:03:35,400 --> 00:03:38,600
+who is with us at the conversation, who is implementing this design,
+
+59
+00:03:38,600 --> 00:03:39,800
+he has already signed up for the code.
+
+60
+00:03:39,800 --> 00:03:43,080
+We have a 3D department, which is represented by Jaged, who is also present with us.
+
+61
+00:03:43,080 --> 00:03:48,600
+Here we have a 2D department, we have a music department, and we have a department responsible for the web,
+
+62
+00:03:48,600 --> 00:03:53,800
+which is responsible for all the issues of the forum, the blending page,
+
+63
+00:03:53,800 --> 00:03:57,080
+or web applications, in which both the administration and the players
+
+64
+00:03:57,080 --> 00:04:01,000
+will be able to manage most of the aspects related to the game.
+
+65
+00:04:01,000 --> 00:04:03,560
+For the sake of the project, the team will create an author's map,
+
+66
+00:04:03,560 --> 00:04:08,120
+which will be mostly surrounded by the city itself, playing the role of the capital of the principality.
+
+67
+00:04:08,120 --> 00:04:11,000
+Anyway, the Veritas map should be displayed on your screen.
+
+68
+00:04:11,000 --> 00:04:15,880
+According to the description of the plot, the Veritas principality is an autonomous feudal entity,
+
+69
+00:04:15,880 --> 00:04:18,840
+which was created in its time as a result of the Veritas Union.
+
+70
+00:04:18,840 --> 00:04:25,000
+A few years before the union, the Veritas city law was passed by the king of the Robar I, who was then the lord of Myrtana.
+
+71
+00:04:25,000 --> 00:04:28,360
+Veritas has a long and rich history.
+
+72
+00:04:28,360 --> 00:04:32,120
+The principality includes vast areas in the south of the Kingdom of Myrtana,
+
+73
+00:04:32,120 --> 00:04:36,440
+including three slaves, three cities and 25 villages.
+
+74
+00:04:36,440 --> 00:04:43,160
+Taking into account that our country and our entire universe is something completely new,
+
+75
+00:04:43,160 --> 00:04:48,280
+not related to any mod, no canon, so it's a completely new creation,
+
+76
+00:04:48,280 --> 00:04:53,080
+we also had to think about how we want to introduce it into the Gothic universe.
+
+77
+00:04:53,080 --> 00:04:58,040
+And while such final dates are not yet finalized,
+
+78
+00:04:58,040 --> 00:05:04,520
+due to the fact that Gothic itself is quite empty and not quite easy to work with when it comes to dating,
+
+79
+00:05:04,520 --> 00:05:10,760
+I can say that when it comes to the plot itself, which will take place during the project,
+
+80
+00:05:10,760 --> 00:05:13,240
+when the players will start playing it,
+
+81
+00:05:13,240 --> 00:05:17,960
+we assumed that we would consider the entire Gothic 1 canon,
+
+82
+00:05:17,960 --> 00:05:23,480
+the entire Gothic 2, but Gothic 2 ends in our timeline,
+
+83
+00:05:23,480 --> 00:05:28,520
+that the hero defeated the beast, sailed to the sea and the hearing about him disappeared.
+
+84
+00:05:28,520 --> 00:05:31,000
+So everything related to Gothic 2 is canon,
+
+85
+00:05:31,000 --> 00:05:38,040
+Gothic 3 is no longer related to the start of the project, it is dated to about 15-20 years after the events of Gothic 2.
+
+86
+00:05:38,040 --> 00:05:44,600
+The war is still going on, although the front does not move towards the Kingdom of Myrtana as it takes place in Gothic 3.
+
+87
+00:05:44,600 --> 00:05:49,560
+However, when it comes to the history of Veritas and its creation,
+
+88
+00:05:49,560 --> 00:05:52,600
+or the existence for a few hundred years,
+
+89
+00:05:52,600 --> 00:05:58,360
+they will be intertwined with the main timeline of Myrtana's life.
+
+90
+00:05:58,360 --> 00:06:04,680
+When it comes to the general outline that introduces the total layman from the outside,
+
+91
+00:06:04,680 --> 00:06:07,320
+it introduces him more or less in what we are dealing with here,
+
+92
+00:06:07,320 --> 00:06:11,800
+the story that we will build within the boundaries of our principality,
+
+93
+00:06:11,800 --> 00:06:15,640
+precisely within the boundaries of its capital, because the game will take place there,
+
+94
+00:06:15,640 --> 00:06:20,440
+it is really only and exclusively dependent on where the players will go, what ideas they will have,
+
+95
+00:06:20,440 --> 00:06:22,440
+and what trend we will eventually take.
+
+96
+00:06:22,440 --> 00:06:25,320
+In addition to its own map or unique plot,
+
+97
+00:06:25,320 --> 00:06:29,560
+the team responsible for Veritas will also create original armor,
+
+98
+00:06:29,560 --> 00:06:32,200
+weapons for both close and long-range combat,
+
+99
+00:06:32,200 --> 00:06:35,960
+a new professional soundtrack or various interesting innovations.
+
+100
+00:06:35,960 --> 00:06:40,440
+My attention was drawn to the fact that players will be able to buy a flat in the city,
+
+101
+00:06:40,440 --> 00:06:43,400
+which they will be able to equip according to their own preferences,
+
+102
+00:06:43,400 --> 00:06:46,280
+but in order not to significantly limit the number of such apartments,
+
+103
+00:06:46,280 --> 00:06:51,640
+it will work on the principle that after entering their home, the player will move to a separate room,
+
+104
+00:06:51,640 --> 00:06:55,800
+which in reality will be located somewhere deep underground.
+
+105
+00:06:55,800 --> 00:06:59,480
+At the beginning, we will be able to create our character with the help of the editor,
+
+106
+00:06:59,480 --> 00:07:02,280
+and we will be able to join almost anyone we want.
+
+107
+00:07:02,280 --> 00:07:05,480
+Veritas, as it turned out in the capital of the principality, i.e. a large city,
+
+108
+00:07:05,480 --> 00:07:07,880
+is to have a lot to offer.
+
+109
+00:07:07,880 --> 00:07:09,960
+There will be many districts in it -
+
+110
+00:07:09,960 --> 00:07:13,640
+Central, Portowa, to which Slams and Port Koronny will also belong,
+
+111
+00:07:13,640 --> 00:07:19,160
+then the residential district, Klasztorna, Rzemieślnicza, Burżuazyjna and Górne Miasto.
+
+112
+00:07:19,160 --> 00:07:23,080
+And looking at the map, today we can find an amphitheater,
+
+113
+00:07:23,080 --> 00:07:26,680
+a basement of the Crown Guard, a university, a town hall and a dresser,
+
+114
+00:07:26,680 --> 00:07:32,200
+a shipyard, a citadel, a crown port, a Torino Palace or even a palace of the Duchess.
+
+115
+00:07:32,200 --> 00:07:35,000
+You know what, when it comes to signed buildings,
+
+116
+00:07:35,000 --> 00:07:40,680
+we wanted to designate such icons that have some permanent functions,
+
+117
+00:07:40,680 --> 00:07:45,160
+so as not to, to put it bluntly, to put a label on the whole map.
+
+118
+00:07:45,160 --> 00:07:49,480
+However, most buildings are either generic, I will explain what it is about in a moment,
+
+119
+00:07:49,480 --> 00:07:51,480
+or have some function.
+
+120
+00:07:51,480 --> 00:07:58,920
+We are talking about buildings that will either be intended for the user as a place to live for a given character,
+
+121
+00:07:58,920 --> 00:08:04,120
+so it will be a building to be bought by the player and managed under him,
+
+122
+00:08:04,120 --> 00:08:10,680
+or a building as an object intended for the group will be purchased.
+
+123
+00:08:10,680 --> 00:08:16,440
+So either for a workshop or some project, someone can play an association and want to play something there,
+
+124
+00:08:16,440 --> 00:08:19,160
+so you can buy a hall and play it there.
+
+125
+00:08:19,160 --> 00:08:24,360
+In general, we have over 200 unique buildings, so there is a lot of it.
+
+126
+00:08:24,360 --> 00:08:27,720
+The choice of what we will be able to do will be large.
+
+127
+00:08:27,720 --> 00:08:30,360
+What should be emphasized, the map will be devoid of NPCs,
+
+128
+00:08:30,360 --> 00:08:34,280
+so all the roles in the city will have to be occupied by players.
+
+129
+00:08:34,280 --> 00:08:37,000
+Players who, despite the great freedom in the world of Veritas,
+
+130
+00:08:37,000 --> 00:08:39,560
+will have to follow certain rules.
+
+131
+00:08:39,560 --> 00:08:42,760
+First of all, the regulations of the economy in the city,
+
+132
+00:08:42,760 --> 00:08:47,560
+or the players will have to stick to the scenario and try not to leave their roles.
+
+133
+00:08:47,560 --> 00:08:49,960
+But how does such a PRP work?
+
+134
+00:08:49,960 --> 00:08:51,480
+After all, some may not know it.
+
+135
+00:08:51,480 --> 00:08:57,000
+The roleplay is not equal and I think that the Gothic 2 Online platform itself shows it well.
+
+136
+00:08:57,000 --> 00:09:03,640
+I think that the project owner has a different vision, more or less different from the original.
+
+137
+00:09:03,640 --> 00:09:09,080
+However, we are creating a project based on classic platform roleplay,
+
+138
+00:09:09,080 --> 00:09:14,360
+such as players of older age who played on Samp or MTA,
+
+139
+00:09:14,360 --> 00:09:19,640
+from such top servers as The Gaming or LSRP, will associate.
+
+140
+00:09:19,640 --> 00:09:25,320
+So, to put it simply, for people from the outside, roleplay in our edition
+
+141
+00:09:25,320 --> 00:09:29,080
+is nothing more than a world presented by us.
+
+142
+00:09:29,080 --> 00:09:34,280
+We put all traditions, customs, customs, structures,
+
+143
+00:09:34,280 --> 00:09:39,240
+city, state, history, possibilities of development, roles, social castes into it.
+
+144
+00:09:39,240 --> 00:09:42,520
+And each player creates his own avatar, his own character.
+
+145
+00:09:42,520 --> 00:09:44,280
+Of course, you can create more than one,
+
+146
+00:09:44,280 --> 00:09:47,640
+each character can be introduced in a completely different way and have a different story.
+
+147
+00:09:47,640 --> 00:09:50,200
+And it's not like everyone is nameless,
+
+148
+00:09:50,200 --> 00:09:53,480
+that he has some kind of a top-down scenario prepared that he has to go through.
+
+149
+00:09:53,480 --> 00:09:54,440
+Absolutely not.
+
+150
+00:09:54,520 --> 00:10:00,200
+In such brutal words, it's a bit of a life simulator,
+
+151
+00:10:00,200 --> 00:10:05,160
+I won't say in the Middle Ages, but in the universe created by us in the Gothic universe.
+
+152
+00:10:05,160 --> 00:10:09,480
+If there are already several RP servers, what will Veritas stand out for?
+
+153
+00:10:09,480 --> 00:10:12,440
+The servers that were created, and of course I do not diminish them in any way,
+
+154
+00:10:12,440 --> 00:10:16,120
+because I think that the definition of entertainment is that the player has fun
+
+155
+00:10:16,120 --> 00:10:20,840
+and maybe someone else's way of playing and playing roleplay is more suitable.
+
+156
+00:10:20,840 --> 00:10:23,880
+However, if we notice the projects that have been created so far,
+
+157
+00:10:23,880 --> 00:10:27,400
+these are such mixes, I would call them roleplay and MMORPG,
+
+158
+00:10:27,400 --> 00:10:29,880
+where we have all the mechanics of exp,
+
+159
+00:10:29,880 --> 00:10:33,400
+how to level up on singleplayer, how to develop these statistics,
+
+160
+00:10:33,400 --> 00:10:37,160
+how to do some quests on singleplayer, even some conversations with NPCs.
+
+161
+00:10:37,160 --> 00:10:41,320
+We, on the other hand, as I said, we depart from this mix
+
+162
+00:10:41,320 --> 00:10:45,560
+and return to this pure gameplay resulting from the interaction between players,
+
+163
+00:10:45,560 --> 00:10:52,520
+between groups of players and such a more narrative than mechanical MMO.
+
+164
+00:10:52,520 --> 00:10:57,400
+I think that we definitely have something that has been rarely seen for the past few years,
+
+165
+00:10:57,400 --> 00:10:58,280
+if at all.
+
+166
+00:10:58,280 --> 00:11:01,320
+For sure, here we want to introduce our own fighting system,
+
+167
+00:11:01,320 --> 00:11:06,280
+which completely deviates from the basic one that we saw in Gothic 1 or 2.
+
+168
+00:11:06,280 --> 00:11:09,800
+Unlock the camera scene so that the player, like in GTA,
+
+169
+00:11:09,800 --> 00:11:13,160
+could freely look around the character,
+
+170
+00:11:13,160 --> 00:11:16,680
+and of course changing a little bit the movement of the character itself.
+
+171
+00:11:16,680 --> 00:11:19,480
+And this is definitely one of such innovative things.
+
+172
+00:11:19,480 --> 00:11:26,840
+The second, probably, big element is our integration between the website and the game itself,
+
+173
+00:11:26,840 --> 00:11:32,920
+where we put a lot of things aside so that in real time they just communicate with each other,
+
+174
+00:11:32,920 --> 00:11:35,320
+if we want to ban someone, remove,
+
+175
+00:11:35,320 --> 00:11:38,680
+and also whether there is a leader of some group, whether it is a criminal one,
+
+176
+00:11:38,680 --> 00:11:42,920
+or something like that, they want to change something, add some ranks to their structures.
+
+177
+00:11:42,920 --> 00:11:49,080
+Well, it all works in real time and it is definitely something that has not been done on a larger scale yet.
+
+178
+00:11:49,080 --> 00:11:52,920
+Okay, so basically, how much of the map is ready at the moment?
+
+179
+00:11:52,920 --> 00:11:57,720
+When it comes to the map, the model of the map itself is already finished,
+
+180
+00:11:57,720 --> 00:12:00,280
+except that we still have to make some minor corrections,
+
+181
+00:12:00,280 --> 00:12:05,000
+where and where you have to put collisions, add some visible walls so that the player does not come across the map,
+
+182
+00:12:05,000 --> 00:12:09,800
+but these are rather such finishing touches rather than adding some new terrain or something,
+
+183
+00:12:09,800 --> 00:12:12,120
+so in this regard, the map is finished,
+
+184
+00:12:12,120 --> 00:12:14,760
+only its ovaling remained,
+
+185
+00:12:14,760 --> 00:12:21,880
+that is, adding all these static objects in the form of trees, benches, some other smaller decorations.
+
+186
+00:12:21,880 --> 00:12:25,800
+And now it reminds me more of a game in the Sims,
+
+187
+00:12:25,800 --> 00:12:32,520
+we have a man with a shovel, who actually goes in after hours and puts these shovels on the map.
+
+188
+00:12:32,520 --> 00:12:39,080
+As for the ovaling itself at the moment, if I count correctly, we have 4 districts ready,
+
+189
+00:12:39,080 --> 00:12:41,800
+5 is slowly finished,
+
+190
+00:12:41,800 --> 00:12:43,560
+and there will be 4 more,
+
+191
+00:12:43,560 --> 00:12:45,560
+due to the fact that the map has also been completed,
+
+192
+00:12:45,560 --> 00:12:53,160
+we will be able to delegate a little more people to ovaling than to make models of buildings or maps,
+
+193
+00:12:53,160 --> 00:12:54,680
+so it should also speed up.
+
+194
+00:12:54,680 --> 00:12:56,680
+The map, the model itself is ready,
+
+195
+00:12:56,680 --> 00:12:59,240
+only it still needs to be polished a bit.
+
+196
+00:12:59,240 --> 00:13:03,320
+Model + textures, of course, now we are talking about our main map.
+
+197
+00:13:03,320 --> 00:13:06,280
+Yes, yes, yes, exactly, model + textures.
+
+198
+00:13:06,280 --> 00:13:08,200
+And what about the area outside the city?
+
+199
+00:13:08,200 --> 00:13:10,360
+Residents must finally get food from somewhere.
+
+200
+00:13:10,360 --> 00:13:14,200
+They will not be dependent on the trade with the neighbors.
+
+201
+00:13:14,200 --> 00:13:18,600
+An important aspect is that we are not an island,
+
+202
+00:13:18,600 --> 00:13:23,400
+Veritas is located on the continent, we are in the southern part of Myrtana.
+
+203
+00:13:23,400 --> 00:13:27,960
+The Veritas principality is in the vassal state of Myrtana,
+
+204
+00:13:27,960 --> 00:13:32,840
+but with a very large autonomy, with its own army, with its own politicians, etc.
+
+205
+00:13:32,840 --> 00:13:37,560
+As for the out-of-town areas, they are quite limited, as you can also see on the map.
+
+206
+00:13:37,560 --> 00:13:44,360
+But the vast majority, not to mention 90% of the map, is the whole city and it is a target.
+
+207
+00:13:44,360 --> 00:13:51,400
+As for these out-of-town areas, we have a rock shelf in the western part of the city,
+
+208
+00:13:51,400 --> 00:13:55,960
+where there is an amphitheater, a subordinate to the crown, and a beach.
+
+209
+00:13:55,960 --> 00:14:03,160
+As for the north, we left classic farms, grain farms and dense forests there.
+
+210
+00:14:03,160 --> 00:14:12,120
+And this is a bias towards players who want to introduce something to their gameplay with hunting or farming.
+
+211
+00:14:12,120 --> 00:14:16,520
+Looking at all this, I couldn't help but ask one more question.
+
+212
+00:14:16,520 --> 00:14:20,920
+Looking at the scope of your project, the effort you put into creating all this,
+
+213
+00:14:20,920 --> 00:14:25,160
+you make a big, complicated city, armor and even a music path,
+
+214
+00:14:25,160 --> 00:14:29,000
+it's hard for me to stop and not ask you if your ambitions are not reaching even further.
+
+215
+00:14:29,000 --> 00:14:31,960
+Have you thought about releasing any story modifications?
+
+216
+00:14:31,960 --> 00:14:38,120
+I think that everyone who does Gothic, sooner or later, has such a thought.
+
+217
+00:14:38,120 --> 00:14:41,240
+However, at the moment I do not want to reveal anything more,
+
+218
+00:14:41,240 --> 00:14:45,240
+but in the future, maybe someone knows, something may appear.
+
+219
+00:14:45,240 --> 00:14:50,360
+At the moment, we are focusing on getting to this project, i.e. the multiplayer server.
+
+220
+00:14:50,360 --> 00:14:55,640
+If there are any desires, we will not rule out that something else may appear.
+
+221
+00:14:55,640 --> 00:14:59,800
+I guess it's hard to estimate when the server will start.
+
+222
+00:14:59,800 --> 00:15:05,880
+As I said before, it's hard to estimate the project as a whole for a very simple reason.
+
+223
+00:15:05,880 --> 00:15:10,760
+The project is divided into several teams that work autonomously,
+
+224
+00:15:10,760 --> 00:15:13,160
+and everyone progresses at their own pace.
+
+225
+00:15:13,160 --> 00:15:17,000
+This results from many things, either from the complexity of tasks, their difficulties,
+
+226
+00:15:17,000 --> 00:15:21,080
+or from the number of people involved, so in fact also the processing power.
+
+227
+00:15:21,080 --> 00:15:27,880
+So it's hard to say for sure, progress in some calculated percentage.
+
+228
+00:15:27,880 --> 00:15:32,760
+However, I can say that we do everything to release it as soon as possible,
+
+229
+00:15:32,760 --> 00:15:36,760
+with the same behavior, as high quality.
+
+230
+00:15:36,760 --> 00:15:39,560
+And it rather depends on the fact that at the start,
+
+231
+00:15:39,560 --> 00:15:43,880
+no one feels discomfort resulting from any shortcomings on our part.
+
+232
+00:15:43,880 --> 00:15:49,320
+Finally, I would like to add that Veritas will be present at this year's CD Action Expo in Łódź at the beginning of June,
+
+233
+00:15:49,320 --> 00:15:52,120
+and in the same month at Pyrkon in Poznań.
+
+234
+00:15:52,120 --> 00:15:55,000
+And what can we expect from them at these events?
+
+235
+00:15:55,000 --> 00:16:01,400
+As for CD Action Expo, we cordially invite all fans or those interested in our project.
+
+236
+00:16:01,400 --> 00:16:05,560
+At the CD Action Expo itself, we will have 6 computer stands,
+
+237
+00:16:05,560 --> 00:16:11,800
+where everyone will be able to sit down and see what the project looks like at the moment.
+
+238
+00:16:11,800 --> 00:16:16,280
+We will be able to visit our map or test systems that are already ready,
+
+239
+00:16:16,280 --> 00:16:19,560
+and we decided to release them for this demo version.
+
+240
+00:16:19,560 --> 00:16:24,280
+However, as for Pyrkon, as for CD Action Expo, there will also be 6 computer stands,
+
+241
+00:16:24,280 --> 00:16:27,240
+where you can test what I have already mentioned.
+
+242
+00:16:27,240 --> 00:16:32,520
+Perhaps something new will appear in these two weeks, which we will add to the whole.
+
+243
+00:16:32,520 --> 00:16:36,760
+But apart from that, we have the pleasure of conducting 3 pre-lectures.
+
+244
+00:16:36,760 --> 00:16:40,280
+One will be about our project "Veritas in the world of Gothic",
+
+245
+00:16:40,280 --> 00:16:44,040
+where we will tell you exactly what the work with the project looks like,
+
+246
+00:16:44,040 --> 00:16:49,320
+how each of the sections works, what novelties and technical and artistic are related.
+
+247
+00:16:49,320 --> 00:16:53,560
+The second pre-lecture, a little smaller, will be about the expansion of the Gothic world.
+
+248
+00:16:53,560 --> 00:16:58,520
+It will tell you what we at Veritas do to make this Gothic world,
+
+249
+00:16:58,520 --> 00:17:05,800
+despite 20 years and hundreds of mods, make the game fresh and attractive for the player.
+
+250
+00:17:05,800 --> 00:17:11,800
+And the third, smallest pre-lecture will be about the architecture of the Gothic world in 2D and 3D.
+
+251
+00:17:11,800 --> 00:17:14,040
+We cordially invite each of you.
+
+252
+00:17:14,040 --> 00:17:18,280
+In this case, I have nothing left but to wish the Veritas team good luck
+
+253
+00:17:18,280 --> 00:17:20,920
+and keep your fingers crossed for the ingenuity of the project.
+
+254
+00:17:20,920 --> 00:17:24,120
+In the description of the film, you will be able to find a link to the Discord server,
+
+255
+00:17:24,120 --> 00:17:27,720
+where those interested will be able to get to know their project better
+
+256
+00:17:27,720 --> 00:17:31,160
+and to Patronite if someone wants to support them.
+
+257
+00:17:31,160 --> 00:17:34,360
+That's all I had to present to you in today's video.
+
+258
+00:17:34,360 --> 00:17:38,200
+Be sure to let me know in the comments what you think about the Veritas RP project.
+
+259
+00:17:38,200 --> 00:17:42,280
+And besides, I invite you to subscribe, like and support the channel.
+
+260
+00:17:42,280 --> 00:17:45,320
+In the description, you will also find links to my Facebook and TikTok.
+
+261
+00:17:45,320 --> 00:17:46,120
+Bye!
+
+262
+00:17:46,200 --> 00:17:55,960
+[music]
+

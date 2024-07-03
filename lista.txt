@@ -1,0 +1,4 @@
+C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\gothic.wav
+C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\Probka_Radio.wav
+C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\Radio.wav
+C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\2\Probka_Radio.wav
