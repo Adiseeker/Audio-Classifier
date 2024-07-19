@@ -1,19 +1,16 @@
+@echo off
+echo 'Witaj w whisper!!!'
 
-    echo 'Witaj w whisper!!!'
+:: Wybierz sciezke do modelu
+set model_path="D:\Ai\Audio-Classifier\whisper\Whisper-1.11.0\models\large.bin"
 
-    :: Wybierz sciezke do modelu
-    set model_path="C:\SEdit\Whisper\Models\large.bin"
-    ::Wybierz sciezke do whispera
-	
-	set whisper_folder="whisper\Whisper-1.11.0\x64\Debug\main.exe"
+:: Wybierz sciezke do whispera
+set whisper_folder="D:\Ai\Audio-Classifier\whisper\Whisper-1.11.0\x64\Release\main.exe"
 
-    ::usuwa wszytskie CRLF z lista.txt i tworzy jeden string zawierajacy sciezki plikow oddzielone spacj¹
-    setlocal enabledelayedexpansion
-    set "line="
-    for /f "delims=" %%a in (lista.txt) do set "line=!line!%%a "
+:: Iterate through each line in lista.txt and call whisper for each file
+for /f "delims=" %%a in (lista.txt) do (
+    echo Przetwarzanie %%a
+    %whisper_folder% -tr -l pl -m %model_path% -f "%%a" -osrt
+)
 
-    :: odpala whispera z atrybutami (-translate -langue  -model -file -save as srt)
-    %whisper_folder% -tr -l pl -m %model_path% -f %line% -osrt 
-
-    exit
-    
+exit

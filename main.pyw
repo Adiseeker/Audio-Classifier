@@ -57,21 +57,15 @@ def run_whisper():
             if os.path.exists(srt_file):
                 txt_file = os.path.splitext(srt_file)[0] + '.txt'
                 with open(srt_file, 'r', encoding='utf-8') as srt:
-                    lines = srt.readlines()[1:]  # Read all lines except the first one
                     with open(txt_file, 'w', encoding='utf-8') as txt:
-                        for line in lines:
-                            line = line.strip()
-                            if not (line.isdigit() or '-->' in line or line == ''):
-                                txt.write(line + '\n')
+                        for line in srt:
+                            if not (line.strip().isdigit() or '-->' in line or line.strip() == ''):
+                                txt.write(line)
                 print(f"Converted {srt_file} to {txt_file}")
             else:
                 print(f"Subtitle file {srt_file} not found.")
 
         messagebox.showinfo("Conversion Completed", "Subtitle files have been converted to text files.")
-    except FileNotFoundError as fnf_error:
-        messagebox.showerror("File Not Found", f"FileNotFoundError: {str(fnf_error)}")
-    except IOError as io_error:
-        messagebox.showerror("IO Error", f"IOError: {str(io_error)}")
     except Exception as e:
         messagebox.showerror("Error", f"An error occurred: {str(e)}")
 

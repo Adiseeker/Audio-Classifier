@@ -9,7 +9,7 @@ nlp = spacy.load('en_core_web_sm')
 file_path = 'lista.txt'
 
 # Read the file content
-with open(file_path, 'r') as file:
+with open(file_path, 'r', encoding="utf8") as file:
     lines = file.readlines()
 
 # Initialize lists for CSV columns
@@ -26,7 +26,7 @@ for line in lines:
 
     # Read content of the corresponding txt file
     try:
-        with open(txt_filename, 'r') as txt_file:
+        with open(txt_filename, 'r', encoding="utf8") as txt_file:
             content = txt_file.read()
     except FileNotFoundError:
         content = 'File not found'

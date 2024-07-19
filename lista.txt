@@ -1,4 +1,98 @@
-C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\gothic.wav
-C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\Probka_Radio.wav
-C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\1\Radio.wav
-C:/Users/Adi/pythonProject1/pythonProject/audiolocalization/audio\2\Probka_Radio.wav
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\aud14012023.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_01_2023_01_14.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_02_2023_01_21.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_03_2023_01_28.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_04_2023_02_04.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_05_2023_02_11.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_06_2023_02_18.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_07_2023_02_25.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_08_2023_03_04.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_09_2023_03_11.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_10_2023_03_18.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_11_2023_03_25.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_12_2023_04_01.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_13_2023_04_08.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_14_2023_04_15.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_15_2023_04_22.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_16_2023_04_29.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_17_2023_05_06.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_18_2023_05_13.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_19_2023_05_20.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_20_2023_05_27.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_21_2023_06_03.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_22_2023_06_10.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_23_2023_06_17.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_24_2023_06_24.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_25_2023_07_01.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_26_2023_07_08.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_27_2023_07_15.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_28_2023_07_22.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_29_2023_07_29.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_30_2023_08_05.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_31_2023_09_09.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_32_2023_09_16.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_33_2023_09_23.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_34_2023_09_30.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_35_2023_10_07.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_36_2023_10_14.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_37_2023_10_21.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_38_2023_10_28.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_39_2023_11_04.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_40_2023_11_11.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_41_2023_11_18.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_42_2023_11_25.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_43_2023_12_02.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_44_2023_12_09.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_45_2023_12_16.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_46_2023_12_23.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_47_2023_12_30.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_48_2024_01_06.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_49_2024_01_13.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_50_2024_01_20.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\CJG_51_2024_01_27.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - AI 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - ambergold 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - anheuser-busch 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - C40 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - dawne zapowiedzi 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - długi 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - emigracja 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - evergrande 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - firmy w polsce cz1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - fotowoltaika 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - hamas 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - inflacja i nbp 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - influencerzy 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - japonia 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - jastrzab 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - jubileusz 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - kataster 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - kierowcy 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - koniec roku 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - kurczaki 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - los klasy średniej 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - mieszkania cz1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - mieszkania dla młodych 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - miliarderzy 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - monopol energetyczny 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - niemcy 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - orlen 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - paliwo wyborcze 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - pompy ciepla 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - punkt zwrotny usa 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - robaki 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - rok 2022 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - rosja 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - samochody elektryczne mk2 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - si 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - upadek banków 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - wagner 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - wojna 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - woke cz1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - wyrownana plus wierszyk.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - węgiel cz1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - węgiel po zimie 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - zarobki 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - zasoby strategiczne 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - zus 1.mp3
+C:/Users/G/Documents/GitHub/audycje.com.pl/content/audio\shorts\CJG - łapówki 1.mp3
