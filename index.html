@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Audycje Database</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Search Audycje Database</h1>
+        <input type="text" id="search-bar" placeholder="Search..." onkeyup="performSearch()">
+        <table id="results-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Filename</th>
+                    <th>Content</th>
+                    <th>Keyphrases SpaCy</th>
+                    <th>Keyphrases RAKE</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Results will be appended here -->
+            </tbody>
+        </table>
+    </div>
+    <script>
+        function performSearch() {
+            const searchTerm = document.getElementById('search-bar').value;
+            fetch(`search.php?q=${encodeURIComponent(searchTerm)}`)
+                .then(response => response.json())
+                .then(data => {
+                    const tableBody = document.querySelector('#results-table tbody');
+                    tableBody.innerHTML = ''; // Clear previous results
+                    data.forEach(row => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td>${row.id}</td>
+                            <td>${row.filename}</td>
+                            <td>${row.content}</td>
+                            <td>${row.keyphrases_spacy}</td>
+                            <td>${row.keyphrases_rake}</td>
+                        `;
+                        tableBody.appendChild(tr);
+                    });
+                });
+        }
+    </script>
+</body>
+</html>
