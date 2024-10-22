@@ -10,11 +10,13 @@ import zipfile
 import rarfile
 import os
 
+
+
 # Load environment variables
 env = dotenv_values(".env")
 
 # Constants
-model_name = 'word2vec.model'
+model_name = 'word2vec-google-news-300'   #'word2vec.model'
 EMBEDDING_DIM = 300
 QDRANT_COLLECTION_NAME = "transcripts"
 
@@ -45,8 +47,8 @@ def assure_db_collection_exists():
 def load_word2vec_model(model_name):
     try:
         st.write("Loading Word2Vec model, please wait...")
-        # word2vec_model = gensim.downloader.load(model_name)
-        word2vec_model=gensim.models.Word2Vec.load(model_name)
+        word2vec_model = gensim.downloader.load(model_name)
+        #word2vec_model=gensim.models.Word2Vec.load(model_name)
         st.success("Word2Vec model loaded successfully!")
         return word2vec_model
     except Exception as e:
@@ -59,11 +61,11 @@ def get_embeddings(text, word2vec_model):
     embeddings = []
     
     for word in words:
-        if word in word2vec_model.wv:  # Access the word vectors directly
-            embeddings.append(word2vec_model.wv[word])  # Correct way to access word vectors
+        if word in word2vec_model:
+            embeddings.append(word2vec_model[word])
     
     if embeddings:
-        return np.mean(embeddings, axis=0)  # Average embedding
+        return np.mean(embeddings, axis=0)
     else:
         st.warning("No valid words found for embedding.")
         return None
@@ -98,11 +100,21 @@ def list_notes_from_db(query, word2vec_model, search_type="semantic"):
         notes = qdrant_client.scroll(collection_name=QDRANT_COLLECTION_NAME, limit=10)[0]
         return [{"title": note.payload.get("title", ""), "text": note.payload["text"], "score": None} for note in notes]
     
+    # if search_type == "full_text":
+    #      # Note: Qdrant does not support full-text search with the filter as intended
+    #     # You might want to implement a workaround if you expect many results
+    #     st.warning("Full-text search is not supported directly in Qdrant. Please use semantic search.")
+    #     return []
     if search_type == "full_text":
-         # Note: Qdrant does not support full-text search with the filter as intended
-        # You might want to implement a workaround if you expect many results
-        st.warning("Full-text search is not supported directly in Qdrant. Please use semantic search.")
-        return []
+        notes = []
+        qdrant_client = get_qdrant_client()
+        points = qdrant_client.scroll(collection_name=QDRANT_COLLECTION_NAME, limit=1000)[0]
+        for point in points:
+            payload = point.payload
+            text = payload["text"]
+            if query.lower() in text.lower():
+                notes.append({"title": payload["title"], "text": text, "score": None})
+        return notes
     elif search_type == "semantic":
         # Semantic search using embeddings
         embedding = get_embeddings(query, word2vec_model)
@@ -114,7 +126,7 @@ def list_notes_from_db(query, word2vec_model, search_type="semantic"):
             )
             return [{"title": note.payload.get("title", ""), "text": note.payload["text"], "score": note.score} for note in notes]
     
-    return []
+    
 
 # Function to extract text from zip or rar files
 def extract_text_from_files(uploaded_files):
@@ -199,18 +211,22 @@ with add_tab:
                 st.success("All notes have been saved to the database.")
 
 with search_tab:
-    query = st.text_input("Wyszukaj notatkę")
+    query = st.text_input("Wyszukaj notatkę", key="search_query")
 
-    # Add a switch to choose between full-text and semantic search
-    search_type = st.radio("Wybierz tryb wyszukiwania", ["Semantic", "Full-text"])
+    # Add a toggle to choose between full-text and semantic search
+    search_type = st.toggle("Semantic search", value=True)
 
-    # Convert switch value to lower-case for internal use
-    search_mode = "semantic" if search_type == "Semantic" else "full_text"
+    # Convert toggle value to search mode
+    search_mode = "semantic" if search_type else "full_text"
 
     if st.button("Szukaj"):
-        for note in list_notes_from_db(query, word2vec_model, search_mode):
-            with st.container():
-                st.markdown(f"**Title:** {note['title']}")
-                st.write(note['text'])
-                if note['score'] is not None:
-                    st.write(f"Score: {note['score']:.4f}")
+        if query is not None and query != "":
+            for note in list_notes_from_db(query, word2vec_model, search_mode):
+                with st.container():
+                    expander = st.expander(note['title'])
+                    with expander:
+                        st.write(note['text'])
+                    if note['score'] is not None:
+                        st.write(f"Score: {note['score']:.4f}")
+        else:
+            st.error("Please enter a search query")
