@@ -1,8 +1,0 @@
-LIBRARY
-EXPORTS setupLogger
-EXPORTS loadModel
-EXPORTS initMediaFoundation
-EXPORTS findLanguageKeyW
-EXPORTS findLanguageKeyA
-EXPORTS getSupportedLanguages
-EXPORTS listGPUs

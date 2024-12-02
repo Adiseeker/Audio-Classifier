@@ -2,10 +2,10 @@
 echo 'Witaj w whisper!!!'
 
 :: Wybierz sciezke do modelu
-set model_path="D:\Ai\Audio-Classifier\whisper\Whisper-1.11.0\models\large.bin"
+set model_path="D:\Ai\Audio-Classifier\whisper\Whisper-1.12.0\models\large_v3.bin"
 
 :: Wybierz sciezke do whispera
-set whisper_folder="D:\Ai\Audio-Classifier\whisper\Whisper-1.11.0\x64\Release\main.exe"
+set whisper_folder="D:\Ai\Audio-Classifier\whisper\Whisper-1.12.0\x64\Release\main.exe"
 
 :: Iterate through each line in lista.txt and call whisper for each file
 for /f "delims=" %%a in (lista.txt) do (
