@@ -1,0 +1,291 @@
+tag_name,cosine_similarity
+EU requirements for renewable energy sources,0.6123
+green energy network,0.5734
+and the drawbacks of certain policies such as wind farms. The main themes revolve around economic growth at any cost,0.5674
+geothermal,0.5661
+green energy production,0.5220
+energy supplier,0.5007
+green energy,0.4952
+geothermal,0.4838
+energy policy,0.4742
+green energy,0.4697
+photovoltaic panels,0.4559
+renewable-energy,0.4480
+renewable-energy,0.4480
+clean energy alternatives<|/im_start|>,0.4436
+green energy,0.4430
+power production,0.4383
+photovoltaics,0.4321
+5g,0.4303
+"technology comparison
+</s>
+Geothermal Energy",0.4279
+alternative energy sources,0.4259
+environmental policy,0.4242
+grid-management,0.4157
+state capital growth in Poland,0.4152
+greenenergy,0.4088
+Renewable Energy Transition,0.4020
+transmission network,0.3964
+"""renewable-energy""",0.3904
+poland,0.3876
+climate change,0.3872
+renewable-energy,0.3827
+"""grid-management""",0.3809
+subsidies,0.3783
+poland,0.3761
+economy,0.3738
+energy supply,0.3703
+countries need to take measures such as lowering taxes on certain industries so that businesses can afford better equipment like electric cars.</p>,0.3696
+renewable energy,0.3684
+environmentalism,0.3668
+poland,0.3596
+energy production,0.3580
+energy solution,0.3520
+sustainability,0.3419
+sustainability,0.3411
+alternative-energy,0.3374
+"renewable sources of energy.
+ 
+Part #2: Identify related or secondary subjects or themes
+Usage: ""sustainability"" is a secondary theme - it's mentioned alongside the primary topics to suggest that managing these resources in an environmentally friendly way is crucial for their efficient use. This word emphasizes concerns about environmental impact and future planning.
+ 
+Part #3: Keep tags simple and single-word only
+Usage: We stick with simple",0.3359
+carbon pricing,0.3294
+but right now it's suffering because of artificially high wages that are making their overall operation less efficient than it could be. This isn't just a problem in one place; the whole industry is facing this challenge. In order to survive and succeed in the global economy,0.3290
+future,0.3290
+"sustainability
+</s>
+Part #1: Identify primary subjects or themes in the text
+Usage: ""technology"" and ""renewable-energy"" are primary topics mentioned in the text. These two words can capture main ideas like technology being used for solving energy issues (like photovoltaic farms)",0.3283
+geothermal,0.3240
+renewable-energy,0.3218
+infrastructure,0.3204
+depth,0.3187
+cars,0.3163
+political-parties,0.3161
+subsidies,0.3152
+economic impact,0.3128
+electricity,0.3110
+environmental sustainability<|/im_start|>,0.3101
+eu standards,0.3098
+"renewable energy
+</im_start|>",0.3084
+transmission,0.3066
+wages,0.3058
+subsidy,0.3058
+development plan,0.3038
+government,0.3036
+greenhouse-gas,0.3018
+business dynamics,0.3017
+5G networks,0.2995
+19th Century Technology,0.2961
+climate-change,0.2955
+ecology,0.2955
+investment,0.2912
+self-sufficiency,0.2888
+smart cities,0.2812
+electricity,0.2807
+but still contains some grammatical errors. Here's an example:</p><div><ol><li><strong>What is the role of Poland in the global economy?</strong></li></ol></div><p>The role of Poland is to not be cheater and to stay competitive while also being sensible about its wages. The electric car market needs more efficiency,0.2804
+energy efficiency,0.2802
+environmental sustainability,0.2792
+project financing|</s>,0.2782
+renewables,0.2781
+consumer awareness,0.2763
+gasification,0.2737
+eco-system,0.2721
+electric cars,0.2720
+and negative consequences for future generations. Therefore,0.2713
+power distribution,0.2596
+economy,0.2563
+greed,0.2552
+availability of private capital,0.2547
+parrot-tv,0.2535
+smartpolicies,0.2511
+energy,0.2507
+energy,0.2501
+climate-stabilization,0.2499
+fossil fuels,0.2494
+energy-transition,0.2479
+"""sustainability"" all fit this criterion as they are clearly related to their respective themes and do not form phrases.
+ 
+Part #4: Separate the tags with commas only (no spaces)
+Usage: We separate our three chosen words/tags with a comma like so - ""technology",0.2475
+market changes,0.2474
+socialpolicy,0.2452
+dynamic pricing,0.2445
+regulation,0.2434
+overproduction,0.2414
+Internet of Things,0.2408
+poland,0.2382
+refrigerators,0.2377
+technological development,0.2355
+environmentalism,0.2349
+suppliers,0.2331
+internet,0.2323
+energy,0.2323
+technology,0.2297
+eco-miracles,0.2284
+thermal,0.2282
+solar,0.2271
+"""profit""",0.2265
+environment,0.2257
+climate-change,0.2247
+financialprofitable,0.2243
+sustainability,0.2234
+sun,0.2223
+environmental-impact,0.2223
+investment strategy,0.2182
+environmentalmovement,0.2180
+independence,0.2168
+resources,0.2158
+destruction,0.2138
+renewable energy,0.2095
+business strategy,0.2094
+financial profits gained through dishonest means,0.2075
+technology,0.2074
+"businessman
+The text primarily discusses topics related to modern business practices",0.2071
+eu regulations,0.2068
+government,0.2064
+infrastructure,0.2064
+interview,0.2055
+economy,0.2034
+profit,0.2034
+europe,0.2031
+eco-trap,0.2007
+"""modern""",0.1996
+"and ""businessman"" are relevant tags that capture these central ideas.",0.1971
+investment,0.1955
+parliament,0.1946
+waste,0.1919
+financial economist,0.1912
+politics,0.1899
+profitability,0.1890
+future-proofing,0.1881
+sustainability,0.1874
+"straightforward tagging. The words ""technology""",0.1869
+mrs.mariusz,0.1868
+technology,0.1863
+"grid-management"". There's no need for any additional formatting as per the guidelines given; just ensuring to keep the list of tags neatly separated by commas is enough.",0.1855
+renewable energy,0.1843
+economy,0.1819
+finance,0.1816
+geology,0.1782
+scams,0.1765
+europe,0.1750
+music,0.1743
+environment,0.1733
+financial-cost,0.1732
+efficiency,0.1712
+economic trends,0.1709
+investmentscheme,0.1704
+financier,0.1702
+devices,0.1688
+technology,0.1686
+citizens,0.1643
+citizens,0.1622
+economy,0.1598
+sustainability,0.1597
+economy,0.1594
+technology,0.1586
+government,0.1584
+economicstupidity,0.1581
+internet,0.1555
+equipment installation,0.1553
+technology,0.1551
+transmission-network,0.1529
+automation,0.1519
+modern,0.1514
+electricity,0.1474
+storage,0.1465
+green living,0.1445
+economist,0.1442
+smartgrid<|/im_start|>,0.1431
+cost,0.1374
+wealth,0.1364
+projects,0.1349
+influence,0.1348
+environment,0.1330
+blocking,0.1296
+networks,0.1294
+policy implementation,0.1277
+parliamentary-debate,0.1269
+"energytransition
+</d>",0.1257
+communications,0.1234
+health,0.1229
+regulation,0.1210
+innovation,0.1203
+subsidy,0.1200
+borrowing,0.1170
+recipients,0.1168
+urban areas,0.1167
+media manipulation,0.1150
+signing documents,0.1111
+storage,0.1111
+china,0.1109
+production,0.1084
+modern-society,0.1071
+illiterate,0.1049
+music,0.1039
+urbanization,0.1028
+solarpanels,0.1004
+Timing Issues,0.0949
+policy,0.0945
+time management,0.0938
+economy,0.0924
+Avoidance of Solutions,0.0922
+idiocy,0.0919
+one-word terms because we're not providing explanations or detailed descriptions of the topics; our goal is to provide concise,0.0900
+growth,0.0885
+energy,0.0842
+maps,0.0838
+maps,0.0838
+efficiency,0.0838
+illusions,0.0823
+signal,0.0809
+progress,0.0790
+growth,0.0778
+program,0.0742
+invitation,0.0738
+automation,0.0718
+utility,0.0707
+finance,0.0706
+environmentalawareness,0.0702
+payingmore,0.0697
+development,0.0677
+future,0.0675
+financial,0.0602
+energy,0.0593
+networking<|/im_start|>,0.0520
+market,0.0496
+tuning,0.0418
+environment,0.0413
+absurd,0.0400
+money,0.0391
+mapped,0.0380
+unethical behavior,0.0380
+idiot,0.0369
+incompetence,0.0346
+progressive,0.0333
+rule setting,0.0329
+politics,0.0306
+energy,0.0306
+stupidity,0.0279
+environment,0.0279
+people,0.0253
+finance,0.0205
+usefulthings,0.0198
+europe,0.0168
+hardship,0.0165
+combine,0.0130
+conglomerates,0.0125
+break,0.0080
+failure,-0.0052
+"topics
+</d><p>Your text generator has completed the first paragraph. It now generates a second paragraph that is more coherent with your previous paragraph",-0.0065
+invitation,-0.0359
+clean,-0.0498
+thanks,-0.0583

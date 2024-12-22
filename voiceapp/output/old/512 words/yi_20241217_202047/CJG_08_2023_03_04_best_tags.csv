@@ -1,0 +1,972 @@
+tag_name,cosine_similarity
+utility of electric cars,0.6414
+electric car production,0.5932
+electric cars,0.5906
+electric car use,0.5879
+"""electric car dangers""",0.5844
+electric car dangers,0.5784
+electric-cars,0.5599
+electric vehicle adoption,0.5585
+electric vehicles,0.5559
+electric-vehicles,0.5406
+electric hybrid cars,0.5332
+"""electricity"" and ""cars"" directly relate to the main topics being discussed (the technology behind electric vehicles)",0.5299
+electric car utilization,0.5174
+eco-friendly driving,0.5131
+zero-emission vehicles,0.5125
+"electric cars
+<|im_continue|>1. Corruption
+2. Economics
+3. Monopolists",0.5018
+"""electric vehicle""",0.4979
+electric car,0.4961
+electricvehicles,0.4936
+zero emission vehicles,0.4864
+eco-friendly transportation,0.4719
+electric vehicle efficiency,0.4650
+electric vehicle,0.4515
+eco-friendly practices,0.4460
+gasoline cars,0.4452
+carbon-emissions,0.4448
+clean energy generation,0.4387
+car industry challenges,0.4363
+vehicle emissions,0.4326
+alternative fuels,0.4308
+car technology,0.4287
+"""electricity""",0.4264
+carbon emissions,0.4238
+"environment<|/im_start|>`
+The text discusses the production and ecological effects of electric cars",0.4226
+carbon emissions reduction,0.4215
+"""gasoline cars""",0.4204
+emissions reduction,0.4131
+"""carbon emissions""",0.4109
+sustainable transportation,0.4099
+clean energy,0.4089
+"eco-suffocating source of energy
+</s>",0.4079
+eco-friendliness,0.4052
+natural gas vehicles,0.4050
+combustion-cars,0.4021
+hybrid cars,0.4003
+environmental policies,0.3975
+"renewable energy sources
+</s>",0.3971
+electric_cars,0.3969
+electric power,0.3941
+e-cars,0.3883
+electric car charging stations,0.3882
+electricity,0.3863
+environmental-concerns,0.3862
+gasoline production,0.3859
+combustion cars,0.3857
+alternative-fuels,0.3854
+electrification,0.3851
+environmental issues,0.3845
+environmentalconcerns,0.3833
+environmental concerns,0.3817
+environmental policy,0.3801
+sustainability-batteries,0.3788
+alternative fuel sources,0.3761
+electric mobility,0.3744
+"""e-cars""",0.3727
+eco-friendly,0.3720
+environmental sustainability,0.3716
+environmentalism,0.3707
+environmental crisis,0.3673
+energy sources,0.3668
+car-charging,0.3649
+trucking emissions,0.3637
+electricity generation,0.3632
+banpetrolcars,0.3627
+hydroelectric plants,0.3622
+"""environmental issues""",0.3616
+electric_vehicles,0.3593
+car industry,0.3581
+renewable energies,0.3565
+and pollution. Therefore,0.3553
+renewable energy,0.3547
+emission standards,0.3528
+electric grid,0.3526
+carbon emission,0.3518
+zero-emission transportation,0.3516
+emissions,0.3515
+electric,0.3513
+renewables,0.3498
+environmental sustainability goals,0.3492
+renewable energy sources,0.3491
+eco-terrorism,0.3468
+green energy,0.3452
+eco-suffocating,0.3442
+green-energy,0.3428
+renewable-energy,0.3422
+ecological principles|,0.3418
+ecological problems,0.3414
+fuel consumption,0.3371
+automotive technology,0.3370
+exhaust emissions,0.3361
+carbon footprint,0.3338
+fuel efficiency,0.3331
+energy crisis,0.3330
+carbon dioxide emissions,0.3302
+alternative energy sources,0.3300
+"""environmental impact""",0.3273
+energy-efficiency,0.3272
+cars,0.3267
+environmental impact,0.3260
+energy policy,0.3245
+"while ""environment"" touches upon broader implications related to sustainability and ecological impacts.",0.3234
+hydrogen fuel cells,0.3217
+energy challenges,0.3217
+energy production,0.3204
+Tesla Model S,0.3197
+nuclear energy,0.3187
+gas emission,0.3177
+sustainability,0.3175
+automobile industry,0.3174
+energy-production,0.3173
+"which suggests that ""energy"" and ""infrastructure"" are major themes. 
+- The mention of ""electricity"" is also relevant because it's directly connected to the issue being discussed. 
+- Lastly",0.3167
+energy efficiency,0.3167
+environmental_policy,0.3164
+biofuels,0.3154
+environmental-impact,0.3143
+car-industry|</text>,0.3115
+car charging,0.3115
+dangerous technologies,0.3082
+ecology,0.3074
+eu parliament,0.3072
+green technology,0.3064
+european-parliament,0.3062
+green vehicles,0.3049
+nuclear power,0.3035
+green economy,0.3029
+pollution reduction,0.3023
+pollution control,0.3015
+solar car charging stations,0.2982
+natural gas production,0.2974
+ecological,0.2973
+renewable,0.2965
+alternative energy,0.2964
+alternative fuel options,0.2961
+automobiles,0.2957
+europaparliament,0.2938
+carbon_emissions,0.2938
+renewable resources,0.2907
+environmental protection,0.2906
+sustainable development,0.2894
+and economic costs. Therefore,0.2892
+clean transportation,0.2887
+automotive industry,0.2868
+pollution,0.2858
+"and the negative impact on the energy situation. Relevant tags for these themes are:
+
+1. Science Fiction
+2. Unfeasibility
+3. Energy Crisis<|/im_start|>",0.2849
+diesel engine,0.2841
+sustainable-living,0.2840
+emissions analysis,0.2839
+"fuel efficiency|</|im_start|>
+I used the definition to come up with tags that are relevant to the main topics and themes of the text. The text discusses various issues related to diesel engines",0.2818
+combustion engines,0.2802
+autonomous vehicles,0.2799
+car-modifications,0.2796
+combustion-engines,0.2794
+environmental degradation,0.2787
+car-fixing,0.2787
+Nissan Leaf,0.2779
+renewable_energy,0.2779
+energy grid,0.2776
+energy-management,0.2761
+electricity transmission,0.2757
+climate change mitigation,0.2745
+fuel,0.2744
+energy consumption efficiency,0.2721
+car mechanics,0.2712
+ecosystem,0.2707
+vehicles,0.2697
+energy consumption,0.2697
+green car transit,0.2689
+environmental,0.2684
+economic feasibility,0.2664
+green initiatives,0.2662
+car-tech,0.2661
+energy supply,0.2621
+carbon reduction,0.2594
+combustion car maintenance|<|/im_start|>,0.2585
+combustion_cars,0.2550
+nissan,0.2537
+automotive,0.2517
+car buying,0.2516
+european union,0.2506
+car,0.2483
+eu,0.2461
+free energy,0.2459
+smart grids,0.2441
+sustainability efforts,0.2437
+"fuel_consumption
+</|im_end|>",0.2414
+corporate greed,0.2404
+gas,0.2388
+European Union,0.2387
+tesla,0.2370
+automobile,0.2359
+"we need to focus on real improvements that will actually benefit society as a whole.
+
+In summary",0.2353
+highlighting their importance in transitioning towards a healthier and safer environment. Therefore,0.2340
+energy situation,0.2339
+green politics,0.2338
+europe,0.2338
+carbon dioxide reduction,0.2328
+greenpeace-poland,0.2324
+consumerism,0.2324
+ecologist,0.2318
+economic policies,0.2302
+eu_politics,0.2298
+climate change,0.2284
+environmental_impact,0.2284
+environmental\|end\>,0.2273
+charging infrastructure,0.2266
+eu-union,0.2256
+environment,0.2248
+carbon capture,0.2237
+european,0.2236
+"""combustion""",0.2226
+battery technology,0.2221
+"""car maintenance""",0.2220
+hybrid_cars,0.2215
+nvironmental impact,0.2211
+"political climate in Poland
+</s>
+<|im_continue|>less developed network",0.2204
+climate action,0.2199
+"""safety concerns""",0.2197
+solar power,0.2195
+automotive_industry,0.2189
+"""engine problems""",0.2183
+electronics,0.2174
+carbon dioxide,0.2172
+emission-reduction,0.2169
+global warming,0.2168
+smart-grid,0.2160
+"""hybrid systems""",0.2160
+environmental studies,0.2160
+smart grid technology,0.2157
+batteries,0.2153
+battery production,0.2153
+safety concerns,0.2152
+it's not necessarily something we should be investing billions in. Instead,0.2144
+car-sharing,0.2139
+power grid reliability,0.2134
+economy-crime,0.2124
+solar panels,0.2123
+public transportation,0.2113
+public-mobility,0.2098
+nissan leaf,0.2092
+car maintenance,0.2088
+non-emission-stove,0.2086
+safety issues,0.2079
+automotive sector,0.2077
+smart grid,0.2076
+"economy
+
+I used the definition provided to identify the main topics and themes in the given text. The text primarily discusses energy sources",0.2062
+economy,0.2062
+"and suddenly everyone will say there's no difference.
+
+The government won't boast about it because people won't vote anymore since they can't see a clear improvement or benefit. It's all just ""quantum computing is amazing"" talk with no real impact.
+
+Only a tiny group of experts might appreciate this",0.2052
+not far-fetched ones. And no one will notice the positive change that comes from investing billions in the transmission network. The TV will work exactly the same way as before,0.2047
+smoking stoves,0.2046
+climate-change,0.2023
+wind turbines,0.2018
+"""energy",0.2012
+car switch,0.1992
+charging stations,0.1978
+gas stations,0.1976
+battery,0.1975
+economic impact,0.1969
+unethical practices,0.1969
+"fuel_consumption_reduction
+</d>",0.1963
+"incompetence
+</im_end>The text discusses the idea of introducing solutions that are not beneficial for the customer but rather benefi",0.1951
+wind farms,0.1945
+"""economy""",0.1945
+energy_efficiency,0.1939
+global monopolies,0.1938
+power transmission,0.1936
+energy networks,0.1936
+electrical-engineering,0.1934
+smart charging solutions,0.1928
+"""greenpeace""",0.1903
+smoking,0.1896
+industry control,0.1894
+natural environment,0.1894
+lithium-ion batteries,0.1890
+battery_powered_devices,0.1889
+capitalism,0.1884
+"industrialization
+</im_end>",0.1881
+automotive maintenance,0.1879
+the text discusses issues related to old electrical infrastructure in a specific context (high-voltage transmission lines),0.1877
+"and ""technology"".",0.1877
+economic,0.1877
+misconceptions,0.1867
+mobility solutions,0.1866
+carbon,0.1859
+smart cities,0.1856
+natural-resources,0.1851
+technology misuse,0.1841
+cost efficiency,0.1837
+vehicle,0.1830
+future trends,0.1819
+solar technology,0.1817
+industry,0.1815
+garage fires,0.1810
+global challenges,0.1793
+industries,0.1784
+and the European Union (EU) union. I then provided these three tags as the answer.,0.1783
+ideological policies,0.1777
+energy network,0.1775
+politic|end|,0.1774
+private transportation,0.1771
+battery_production,0.1770
+hybrid systems,0.1770
+energy,0.1756
+economics,0.1752
+conservation strategies,0.1749
+energy conservation,0.1733
+charging-station,0.1728
+taxes,0.1727
+powerful countries,0.1717
+"harmful
+</|im_start|>",0.1713
+geothermal energy,0.1708
+technology adoption,0.1703
+clean_environment,0.1698
+"economy"" are the relevant tags for this text.",0.1690
+taxpayers' money,0.1670
+"""economics"" could be used as a tag for discussions about money and economic activities",0.1666
+high-voltage,0.1663
+economist,0.1661
+bans,0.1661
+rich-companies,0.1659
+combustion,0.1658
+transportation,0.1657
+poland,0.1656
+profit-driven,0.1655
+ethics</duplicate>,0.1650
+transportation system,0.1634
+economic theory,0.1629
+"cars
+</|im_start|>No additional information is provided in this response. The user did not ask a question or request an answer to a question. Therefore",0.1624
+car repairs,0.1623
+industry-transform,0.1601
+what does all this mean? It means that while some may think quantum computing is revolutionary,0.1598
+consumer-money,0.1590
+tesla model s,0.1588
+energy independence,0.1586
+socialism,0.1584
+non-emission,0.1578
+greed,0.1563
+scarcity of resources,0.1561
+safety hazards,0.1557
+politics,0.1555
+futurism,0.1548
+unfeasibility due to limited investment and network development,0.1532
+resource-efficiency,0.1529
+ban,0.1524
+hydrogen production,0.1522
+Economist,0.1519
+autonomous,0.1498
+user safety,0.1496
+monopolists,0.1495
+green solutions,0.1492
+electrical engineering,0.1491
+production costs,0.1487
+rare earth elements,0.1485
+unfeasibility,0.1480
+competition,0.1476
+no politics,0.1475
+political economy,0.1475
+automotive repair,0.1469
+political correctness,0.1468
+political-activism,0.1463
+Poland,0.1454
+"the further we move from the solution that will make a real difference to us.
+The key themes in this text revolve around the unrealistic portrayal of science fiction",0.1453
+wind technology,0.1453
+technology,0.1448
+global-impact,0.1446
+future scenarios,0.1443
+government officials' decisions,0.1439
+years driving,0.1435
+technology transition,0.1419
+innovation,0.1417
+consumer rights</duplicate>,0.1405
+manufacturing industry,0.1397
+plants,0.1385
+innovation ecosystem,0.1370
+Greenpeace,0.1367
+industry transformation,0.1359
+smoke,0.1357
+economic development,0.1357
+monopolization,0.1355
+vehicle-repairs,0.1350
+manufacturers,0.1349
+communism,0.1340
+free market,0.1336
+regulation,0.1331
+carbon_dioxide,0.1325
+utility,0.1324
+braking,0.1323
+kwh,0.1318
+invention,0.1318
+safety,0.1315
+government involvement,0.1315
+future planning,0.1313
+power,0.1311
+green-tech,0.1311
+super-rich companies,0.1306
+feasibility,0.1301
+nature,0.1293
+manufacturing,0.1291
+monopoly,0.1288
+engine problems,0.1287
+free_energy,0.1284
+"economics
+</d>",0.1283
+common-sense,0.1282
+dystopia,0.1279
+geopolitics,0.1279
+"the most relevant tags are ""ołazy""",0.1266
+progressivism,0.1264
+electrical grid,0.1258
+political,0.1253
+natural,0.1249
+"""political-activism""",0.1239
+modernization,0.1238
+greenpeace,0.1238
+"eu-union
+I used the guidelines to identify the main topics and themes in the text",0.1235
+fairness,0.1228
+libertarian,0.1228
+economic growth,0.1225
+government policy,0.1224
+democraticelections,0.1218
+solar,0.1218
+user-experience,0.1214
+production,0.1214
+open discussion,0.1213
+future_transportation,0.1212
+government-corruption,0.1211
+voting,0.1208
+"manufacturing
+</s>",0.1206
+geothermal,0.1201
+far-fetched scenarios,0.1191
+"the discussion about potential government involvement (""investment"" and ""planning"") adds another layer of relevance to these topics. 
+
+Part #2: Stick with single word tags.
+- The guidelines specify that each tag must be a single word",0.1191
+dangers,0.1186
+Swedish scientists,0.1182
+smuggling stoves,0.1181
+"and ""corruption"" which are all related topics that we can use as our main themes.
+Part #2: Choose relevant tags for each identified theme.
+Explanation: Based on our identified themes",0.1181
+ołazy,0.1179
+future-automation,0.1179
+"instead of ""old infrastructure modernization"" as a tag",0.1179
+network energy,0.1178
+"dystopia
+</im_start|>",0.1175
+"corporate-governance
+</|im_start|>The given text discusses the use of artificial intelligence (AI) in creating brilliant solutions but also mentions issues like overpriced officials and idiotic decisions made by companies. These topics can be categorized as AI",0.1174
+user-friendly,0.1166
+engine damage,0.1158
+economic analysis,0.1149
+public awareness,0.1146
+"economics
+</|im_start|><|im_cont|>user
+You are correct! Those tags accurately represent the main topics and themes of the given text. Well done! If you have any more texts to tag or other questions",0.1144
+mądrości,0.1144
+political corruption,0.1138
+technology adoption rate,0.1128
+false assumptions,0.1123
+powerful,0.1118
+and corporate governance.,0.1113
+government,0.1110
+technological shift,0.1099
+transmission,0.1098
+vehicle repair,0.1098
+swedish_scientists,0.1095
+future changes,0.1086
+consumer behavior,0.1080
+swedish scientists,0.1080
+efficiency,0.1076
+consumer,0.1074
+exploitation,0.1073
+unfair,0.1070
+policy changes,0.1064
+mobility,0.1058
+power dynamics,0.1058
+challenges,0.1057
+futuristic,0.1053
+global economy,0.1048
+unpopular,0.1047
+"while ""corruption"" is relevant for describing wrongdoing or dishonesty involving public officials.
+Part #3: Combine all chosen tags into one result.
+Explanation: Once we have our individual theme-tags ready",0.1046
+political-debate,0.1044
+future implications,0.1042
+us-poland comparison,0.1039
+hybrids,0.1030
+market-system,0.1025
+opposition,0.1016
+crisis,0.1015
+scientists,0.1011
+harmful,0.1002
+lithium-ion,0.0999
+mechanics,0.0999
+infrastructure,0.0997
+"so we should avoid creating phrases or combining multiple words into one tag.
+- For example",0.0992
+combustion process,0.0987
+policy implications,0.0984
+prospective planning,0.0984
+absurd,0.0981
+experts,0.0979
+energy transition,0.0977
+idiocy,0.0967
+"""repair costs""",0.0965
+which are corruption,0.0965
+"""crime""",0.0961
+hybrid,0.0952
+social justice,0.0942
+"I provided tags such as ""dangers""",0.0939
+safety_enhancement,0.0932
+policy,0.0930
+poles,0.0921
+political impact,0.0913
+low-cost,0.0912
+world politics,0.0912
+candidates,0.0910
+Poles,0.0910
+charging,0.0907
+clean-stove,0.0905
+corruption,0.0904
+crashily say,0.0904
+congestion,0.0901
+solutions_mandatory,0.0890
+world economy,0.0888
+"we need to combine them using commas without spaces in between. This will give us a final output that meets the format guidelines of providing only tags and separating them with commas. The combined tags are ""economics""",0.0885
+power supply,0.0877
+user experience,0.0875
+world power,0.0873
+political manipulation,0.0872
+corporate,0.0871
+mariusz stefaniak,0.0870
+crime,0.0862
+democracy,0.0858
+genius-claims,0.0858
+decision-making,0.0857
+"grane
+The main topics and themes of the text are: crime",0.0856
+incompetence,0.0853
+advantages,0.0852
+maintenance costs,0.0849
+automation,0.0845
+survival prospects,0.0843
+misinformation,0.0836
+peer-to-peer-sharing,0.0835
+"PARROT TV
+</|im_start|>",0.0826
+reconstruction,0.0823
+money,0.0816
+charge,0.0815
+danger,0.0801
+falsification,0.0800
+"maybe even better if you believe in those things. But it's worth remembering that they also have the power to read your messages and hack your devices with just a few lines of code.
+
+So",0.0798
+"we would simply use ""infrastructure"" and ""modernization"" separately because they are distinct concepts.
+
+Part #3: Separate the tags with commas without spaces.
+- The guidelines mention that each tag must be separated from the next by a comma (",0.0796
+safety_increases,0.0791
+issues,0.0776
+market control,0.0775
+transportationsystems,0.0773
+incompetent,0.0773
+public perception,0.0773
+"planning
+</s>
+Part #1: Identify the main topics and themes of the text.
+- In this case",0.0773
+solution,0.0772
+planning,0.0770
+mechanic,0.0767
+potential,0.0758
+transport,0.0756
+strangeness,0.0755
+carrepairshops,0.0733
+open-discussion,0.0732
+truth,0.0729
+theoretical,0.0728
+arrrot,0.0726
+fairy tales,0.0725
+libertarym,0.0725
+module,0.0718
+news,0.0713
+infrastructure development,0.0712
+self-repair,0.0709
+suppliers,0.0697
+costs,0.0696
+taking a second break from discussing the topic,0.0695
+"""corruption""",0.0689
+collaboration,0.0686
+conspiracy theories,0.0686
+governance,0.0683
+corruption cases,0.0679
+life,0.0670
+bypass,0.0663
+simplicity,0.0661
+standards,0.0659
+"maybe even better if you believe in those things. They might be able to read your messages and hack your devices with just a few lines of code.
+
+But is it worth all this? No one will care because they are dealing with current affairs",0.0655
+raremetals,0.0655
+lies,0.0651
+sense,0.0647
+"""incompetent officials""",0.0644
+instability,0.0641
+philosophy,0.0641
+idiots,0.0638
+stefaniak,0.0637
+future,0.0637
+benefit,0.0634
+greedy,0.0629
+producers,0.0629
+decisions,0.0626
+energy_recovery,0.0625
+financial conditions,0.0624
+President of Więcej Mądrości Foundation,0.0623
+citizens,0.0622
+theoretical possibilities,0.0622
+people,0.0620
+grid stability,0.0618
+fossil,0.0618
+parrot-tv,0.0618
+challenge,0.0618
+fake news,0.0616
+więcej,0.0611
+supply,0.0610
+mandatory,0.0609
+alternative,0.0601
+exactly-the-same-way,0.0600
+combustible,0.0599
+market advantage,0.0598
+investment opportunities,0.0596
+money-stealing,0.0591
+serious,0.0590
+relatively easy to repair,0.0590
+maintenance,0.0589
+"""government-finance""",0.0587
+lives,0.0585
+"""Więcej Mądrości""",0.0583
+market trends,0.0579
+based on these key terms,0.0579
+work,0.0579
+self-service,0.0578
+change,0.0563
+mobility transformation,0.0560
+supplier,0.0560
+terrorism,0.0559
+smart,0.0553
+simpler,0.0551
+science,0.0551
+producer,0.0539
+market dynamics,0.0538
+repair shops,0.0538
+market behavior,0.0533
+future analysis,0.0527
+we need to read through the provided text and identify key subjects or issues discussed in it. For example,0.0526
+tv,0.0524
+clean,0.0523
+corporate strategy,0.0522
+we need to select appropriate single-word tags or keywords that describe the general concepts or subjects within those themes. For instance,0.0518
+expert,0.0514
+government spending,0.0514
+technology transfer,0.0511
+no,0.0511
+mariusz,0.0510
+demand response,0.0506
+inequality,0.0504
+media influence,0.0491
+corrupt candidates,0.0490
+ste,0.0486
+demand-response,0.0486
+public funds,0.0484
+market manipulation,0.0480
+united states,0.0474
+"parrottv
+Part #1: Analyze the given text and find main topics/themes.
+Explanation: In this step",0.0473
+impossible,0.0470
+Mariusz Stefaniak,0.0467
+bribes,0.0462
+value proposition,0.0461
+sudden-change,0.0460
+introductions,0.0458
+development,0.0458
+bureaucracy,0.0457
+interview,0.0456
+difference,0.0453
+"""expense""",0.0448
+strategy,0.0445
+surd,0.0445
+theory,0.0439
+political capital,0.0435
+life satisfaction,0.0433
+we need to ensure that our final output adheres strictly to this formatting rule,0.0428
+reduction,0.0428
+PARROT TV channel,0.0426
+"producers
+<|im_complete|>",0.0423
+marketbehavior,0.0423
+business,0.0420
+object,0.0420
+financial,0.0417
+demand,0.0416
+strange,0.0415
+grane,0.0412
+stealing people,0.0411
+tragedy,0.0410
+technical expertise,0.0407
+abuseful,0.0402
+interviews,0.0401
+deception,0.0400
+grid,0.0395
+"105
+
+The given text mentions ""ołazy"" which is a Polish word for ""lazy""",0.0394
+switch,0.0391
+olazy,0.0390
+utilization,0.0385
+communication,0.0385
+usz,0.0384
+fiction,0.0381
+substandard,0.0379
+"2
+</|im_start|><|im_continue|>The given text mentions ""ołazy"" which is a Polish word meaning ""lazy"" or ""drowsy"". It also references ""area 105"" and the number ""2"". Therefore",0.0378
+crushing mess,0.0372
+growth,0.0371
+stations,0.0370
+advantage,0.0369
+stove,0.0367
+problem,0.0360
+progress,0.0359
+financial abuse,0.0357
+health,0.0354
+questions,0.0354
+welfare,0.0351
+parrot tv,0.0348
+transmission-network,0.0341
+"project management
+</no_entailment>",0.0336
+wind,0.0330
+boast,0.0330
+independence,0.0326
+union,0.0325
+transit,0.0325
+evidence,0.0323
+slander,0.0321
+communication break,0.0321
+comparisons,0.0320
+garden,0.0318
+fairytale,0.0316
+"these are the main topics and themes in this text:
+
+1. Laziness/Drowsiness
+2. Area 105 (could refer to an area or a song)
+3. Number 2 (could represent a concept",0.0314
+extraction challenges,0.0310
+truthfulness,0.0308
+community,0.0306
+sciences,0.0303
+luxury,0.0299
+transforming,0.0299
+bribery,0.0294
+talking,0.0289
+imagine-anyone,0.0287
+diagnostics,0.0283
+treatment,0.0277
+wisdom,0.0273
+security,0.0270
+"green_tech
+<|im_complete|>tags for the given text",0.0259
+categorical,0.0257
+customer_pushback,0.0255
+transmission network,0.0254
+reform,0.0254
+stove-repair,0.0250
+cost comparison,0.0248
+expert group,0.0246
+congress,0.0244
+liars,0.0241
+YouTube,0.0237
+cost,0.0236
+travel,0.0230
+ruin,0.0225
+control,0.0221
+forecast,0.0214
+complicated,0.0206
+improvement,0.0199
+expense,0.0189
+worldview,0.0179
+revenue,0.0174
+network resilience,0.0172
+media,0.0167
+conversation,0.0163
+capital,0.0160
+self-selection,0.0157
+the previous response about asking questions and providing answers does not apply here.,0.0157
+video,0.0155
+unwillingness,0.0146
+Christmas,0.0144
+swedish,0.0140
+weekends,0.0140
+comparison,0.0138
+genius,0.0127
+government-finance,0.0126
+government budget,0.0126
+repair costs,0.0125
+healthcare,0.0121
+green,0.0115
+prospects,0.0109
+connections,0.0108
+national image,0.0106
+"and ""parrottv"" which represent the main topics/themes found in the provided text.",0.0103
+deserve,0.0099
+holidays,0.0096
+investment,0.0090
+financier,0.0083
+world,0.0077
+clever,0.0066
+transition,0.0064
+resource allocation,0.0063
+build,0.0062
+market,0.0051
+investment decision,0.0048
+created something that works like a quantum computer,0.0045
+global-view,0.0042
+moving,0.0041
+"the relevant tags are:
+quantum",0.0041
+finance expert,0.0036
+project management,0.0032
+"gigantic amount of money
+</|im_end|>",0.0032
+connectors,0.0029
+") instead of any other symbol or space. 
+- Therefore",0.0021
+diagnostic,0.0018
+feel free to ask.,0.0016
+"and ""Grane"".",0.0002
+origins,-0.0005
+customer,-0.0015
+global,-0.0016
+world affairs,-0.0017
+report,-0.0022
+small minority,-0.0026
+repair-at-home,-0.0028
+delivery,-0.0028
+computing,-0.0030
+holiday,-0.0031
+silence,-0.0036
+scenario,-0.0037
+stage,-0.0039
+who have created something that works like a quantum computer,-0.0040
+customer service,-0.0050
+pricing comparison,-0.0063
+impact,-0.0064
+origin,-0.0065
+overloading,-0.0067
+skipping,-0.0070
+caught,-0.0070
+back-up,-0.0079
+study,-0.0083
+viewpoint,-0.0089
+videos,-0.0093
+even if it requires adding a trailing comma at the end if there are no more tags following.,-0.0098
+"and ""105"".",-0.0099
+repair,-0.0100
+neighbor's,-0.0111
+outofbusiness,-0.0126
+"the text mentions ""state budget""",-0.0133
+backup,-0.0140
+break,-0.0147
+transformation,-0.0149
+additional,-0.0153
+lost,-0.0157
+or person named 'two'),-0.0158
+budget,-0.0183
+goingsout,-0.0186
+catching-up,-0.0215
+possible,-0.0217
+second-break,-0.0218
+finance,-0.0225
+recovery,-0.0230
+free,-0.0231
+2,-0.0240
+current-affairs,-0.0246
+exceptional,-0.0246
+tv-channel,-0.0264
+pricing,-0.0276
+"""area""",-0.0285
+optimization,-0.0289
+tiny-group,-0.0289
+area105,-0.0308
+specialized,-0.0308
+opponent,-0.0310
+state budget,-0.0346
+payments,-0.0347
+minus,-0.0350
+catchers,-0.0361
+neighbor,-0.0363
+payment,-0.0364
+money management,-0.0364
+"sligh
+</|im_start|>",-0.0376
+disappearing,-0.0408
+"and ""area 105"" which is an airspace used by drones in the United States. The phrase ""2"" could be referring to area number or just a random number sequence. Therefore",-0.0427
+balance,-0.0435
+repairshop,-0.0438
+slab,-0.0445
+combatice,-0.0473
+prices,-0.0474
+media company,-0.0478
+president,-0.0485
+additional payment,-0.0487
+officials,-0.0488
+upgrades,-0.0499
+gift,-0.0511
+price,-0.0513
+network,-0.0544
+area,-0.0546
+director,-0.0595
+network issues,-0.0605
+ton,-0.0620
+ai,-0.0627
+network capacity,-0.0679
+content streaming,-0.0747
+foundation,-0.0773
+bag without a bottom,-0.0794
+current affairs,-0.0822
+receivers,-0.0948

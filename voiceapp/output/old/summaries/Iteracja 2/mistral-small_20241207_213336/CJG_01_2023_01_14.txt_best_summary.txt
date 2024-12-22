@@ -1,0 +1,26 @@
+ ---
+
+### Key Themes:
+1. **Inaccuracy of Expert Forecasts**: The text highlights the frequent inaccuracies of expert predictions across various fields, such as inflation and housing market forecasts.
+2. **Pressure on Experts**: Mariusz discusses how experts often face external pressures that can influence their opinions and decisions.
+3. **Speculative Markets**: He mentions speculative markets like cryptocurrency and real estate, noting their profitability and the role of government and corporations in driving these markets.
+4. **Unpredictable Events and Information Control**: The text raises concerns about the predictability of major events like wars and pandemics, suggesting that crucial information is sometimes withheld from the public.
+5. **Impact of Global Events on Public Opinion**: Mariusz reflects on how global events such as the COVID-19 pandemic dominate public opinion for a while before fading away.
+
+### Impacts:
+- **Economic**: Inaccurate forecasts and speculative markets can lead to economic instability and misallocation of resources. The influence of governments and corporations in these markets can exacerbate inequality.
+- **Technological**: Speculative markets like cryptocurrency rely heavily on technological advancements, which can be both opportunities for innovation and risks for financial stability.
+- **Political**: The control and manipulation of information by governments and media outlets can have significant political implications, shaping public opinion and policy decisions.
+- **Social**: Inaccurate predictions and withheld information can erode trust in institutions and experts, leading to social unrest and confusion. Events like pandemics can have profound social impacts, influencing behavior and attitudes globally.
+
+### Examples and Evidence:
+1. **Inflation Forecasts**: The president of the National Bank of Poland was wrong about inflation predictions, showing that even expert forecasts can be inaccurate.
+2. **Real Estate Market**: Optimistic housing market forecasts were driven by potential profits for developers, landowners, and governments, as seen in China's extreme example.
+3. **Cryptocurrency Market**: Speculative predictions about Bitcoin prices illustrate the volatility and profit-driven nature of cryptocurrency markets.
+4. **War Predictions**: The Russian attack on Ukraine was predicted by major governments months in advance but kept from public opinion, demonstrating information control.
+5. **COVID-19 Pandemic**: Initially dominating global news, the pandemic's economic and social impacts are often more significant than its direct health threat.
+
+### Conclusion:
+Mariusz highlights the complexities of predicting global events and the influence of external pressures on expert opinions. He suggests that while threats like COVID-19 exist, their primary impact is economic and social rather than solely biological. The control and dissemination of critical information play a significant role in shaping public perception and response to these events.
+
+---

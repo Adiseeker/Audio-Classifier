@@ -1,0 +1,31 @@
+tag_name,cosine_similarity
+Russia,0.4048
+corruption,0.4007
+diplomacy,0.3667
+corruption,0.3604
+gold mining,0.3567
+corruption,0.3480
+illegal funds,0.3215
+corruption,0.3093
+influence,0.2974
+illicit trade,0.2791
+political intrigue,0.2631
+money,0.2361
+rivalry,0.2328
+profits,0.2166
+military conflict,0.2082
+rebellion,0.2057
+conflict,0.2027
+politics,0.1858
+government,0.1858
+heists,0.1614
+politics,0.1540
+Central Africa,0.1443
+cryptography,0.1262
+conflict,0.1178
+military,0.1111
+gangsters,0.0939
+power struggle,0.0678
+budget,0.0608
+history,0.0504
+power,0.0339

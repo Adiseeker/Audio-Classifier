@@ -1,0 +1,83 @@
+tag_name,cosine_similarity
+taxes,0.5031
+taxation,0.4637
+poland,0.4562
+departments,0.4534
+"recreation
+</d>
+<|im_complete|>The given task was to identify the three most relevant topics and themes in the provided sentence ""I invite you to take a break."" The tags generated are: invitation",0.4224
+taxes,0.3915
+break,0.3780
+break,0.3780
+control-phobia,0.3746
+governance,0.3582
+house meters,0.3451
+governance,0.3214
+"energy_efficiency
+You might find these tags highly relevant to the themes and topics discussed in the provided text. The analysis process involves identifying the main subjects of discussion such as checking data for apartments' emissions database",0.3171
+all falling under environmental control and data verification categories. Energy efficiency is also a key theme since it's being talked about in relation to how buildings can be more environmentally friendly.,0.3150
+officer,0.3044
+invitation,0.2873
+government,0.2727
+control,0.2689
+wealth,0.2640
+tax,0.2594
+radio,0.2520
+poor,0.2502
+digital-rights,0.2407
+liberty,0.2278
+citizenship,0.2277
+recreation. These tags reflect the primary theme of the text which is inviting someone for a temporary pause or break from their current activity,0.2251
+environmental_control,0.2165
+and controlling energy efficiency,0.2155
+and possibly engaging in leisure activities like relaxation or entertainment.,0.2091
+tech-freedom,0.2083
+regulation,0.2070
+authority,0.1997
+economy,0.1996
+surveillance,0.1956
+fearless,0.1903
+data_verification,0.1822
+polit,0.1775
+official,0.1770
+investments,0.1769
+"democracy
+</|im_start|>",0.1734
+documentation,0.1706
+poles,0.1640
+free-speech,0.1568
+tv,0.1517
+"politics
+</|im_start|>",0.1488
+authoritarianism,0.1455
+people,0.1365
+data,0.1326
+exchange,0.1309
+information,0.1283
+nobility,0.1265
+action,0.1193
+censorship,0.1174
+revolution,0.1139
+real estate,0.1129
+communism,0.1059
+mess,0.1048
+community,0.0993
+democracy,0.0972
+libertarianism,0.0970
+examples,0.0867
+gaps,0.0840
+open-society,0.0827
+anarchy,0.0802
+simplicity,0.0782
+tyranny,0.0778
+equality<|/im_start|>,0.0697
+rebellion,0.0687
+socialism,0.0658
+subscription,0.0520
+voivodes,0.0506
+garden,0.0395
+preparation,0.0198
+perspective,0.0122
+streaming,-0.0025
+future,-0.0050
+free-spirit,-0.0462

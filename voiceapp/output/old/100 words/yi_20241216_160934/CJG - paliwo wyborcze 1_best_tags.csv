@@ -1,0 +1,107 @@
+tag_name,cosine_similarity
+fuel economy,0.4532
+democracy,0.4504
+poland,0.4312
+energy pricing,0.4225
+fuelprices,0.3502
+oil,0.3446
+economy,0.3432
+democracy,0.3376
+politics,0.3361
+economic policy,0.3243
+foreign policy,0.3188
+government,0.3133
+resort-children,0.3110
+economics,0.3062
+economy,0.3053
+society,0.2934
+economics,0.2897
+economist perspective,0.2869
+taxes,0.2828
+economy,0.2818
+nationalism,0.2760
+geopolitics,0.2757
+political manipulation,0.2712
+political system,0.2707
+invitation,0.2684
+government,0.2652
+socio-economic policies,0.2623
+multilateralism,0.2601
+fuel,0.2590
+oil industry,0.2583
+and economic policies being implemented by governments. The context of the passage revolves around discussions about whether these policies are fair or not. Thus,0.2581
+demand,0.2558
+price fluctuations,0.2551
+sovereignty,0.2520
+ignorance,0.2515
+politic,0.2463
+economic decisions,0.2421
+European Union,0.2299
+knowledge,0.2288
+regional cooperation,0.2288
+economic integration,0.2279
+"economy
+Part #1: Analyze the given text and return 3 highly relevant tags to the main topics and themes of the text.
+Usage: The sample input provided contains a clear discussion about ""the market"" and ""excuses."" The third tag ""economy"" also relates to this context since it's mentioned in the text multiple times. Thus",0.2225
+fuel,0.2165
+diplomacy,0.2138
+NATO,0.2037
+political landscape,0.1993
+globalization,0.1988
+culture,0.1946
+market,0.1939
+supply,0.1916
+international relations,0.1870
+free trade,0.1852
+break,0.1802
+voting rights,0.1744
+idiocy,0.1685
+governmentplay,0.1601
+germans,0.1516
+disappointment,0.1496
+"and ""economics"" encapsulate its main themes.",0.1474
+surprising,0.1365
+United Nations,0.1340
+elections,0.1337
+dementia,0.1336
+consumption,0.1291
+voters,0.1275
+"economics
+
+These tags are relevant to the text because it discusses topics such as profits",0.1241
+moment,0.1216
+human rights,0.1147
+excise,0.1136
+prices,0.1131
+protests,0.1125
+economics,0.1110
+czechs,0.1077
+pandemic,0.1073
+asking,0.1019
+citizens,0.0904
+polandqueues,0.0890
+politics,0.0874
+prices,0.0730
+neurodegenerative diseases,0.0702
+"""profit""",0.0675
+migration,0.0640
+price,0.0624
+excuses,0.0597
+social issues,0.0551
+why<|/im_start|>,0.0501
+interesting,0.0483
+"these words are chosen as highly relevant tags for the given text. 
+
+Explanation: We followed the guideline of only providing the tags with no additional information or formatting (as seen above) and separate them by commas without spaces. The choice of words is also justified since they represent clear themes in the provided sample input. 
+
+Note that other potential tags could be used depending on how one interprets the text",0.0464
+human behavior,0.0370
+profit,0.0351
+"""success""",0.0200
+success,0.0186
+border,0.0144
+selling more products,0.0032
+integration,-0.0038
+but these are examples of what a professional tagger might consider highly relevant based on the direct content within the given text.,-0.0061
+ideology,-0.0113
+itchingteeth,-0.0235

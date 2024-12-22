@@ -1,0 +1,376 @@
+tag_name,cosine_similarity
+is it so difficult to predict what inflation will be like? Our president of our National Bank of Poland,0.8311
+and an economist named Mr. Mariusz Stefaniak who is offering his insights on these matters. The relevant tags for this content are: inflation,0.6998
+inflation,0.6673
+the very institution of the National Bank of Poland is already something that is suspected in the economy. Because,0.6443
+inflation,0.6435
+free market<|/im_start|><string>Today we are working on inflation. Mr. Mariusz,0.6308
+poorly managed countries,0.6034
+hyperinflation,0.5987
+inflation,0.5912
+inflation,0.5905
+Głuchołazy,0.5780
+National Bank of Poland,0.5647
+inflation,0.5620
+"entrepreneurship
+</|im_start|>The text is discussing topics related to inflation",0.5619
+hyperinflation,0.5512
+inflation rate,0.5474
+inflation,0.5464
+inflation,0.5382
+inflation,0.5168
+inflation,0.5135
+inflation,0.5129
+Venezuela,0.5106
+inflation,0.5010
+communism,0.4937
+inflation,0.4883
+"which revolves around health issues leading to pandemics. Other tags like ""environmental-impact"" and ""economic-collapse"" also match the context of the text as it talks about the effects of a pandemic on the environment and economy. These three words are highly relevant to the given text's main themes",0.4647
+"""Więcej Modrości""",0.4601
+inflation,0.4534
+currency,0.4462
+Mariusz Stefaniak,0.4388
+currency,0.4364
+więcej modrości,0.4335
+arms purchases,0.4218
+inflation,0.4215
+mariusz,0.4105
+wealth,0.4009
+NATO,0.3984
+poland,0.3925
+economic state,0.3841
+debt internally,0.3831
+debt,0.3801
+management issues in finance,0.3784
+Poland,0.3758
+finance,0.3744
+finance,0.3744
+globalization,0.3733
+"monetary policy
+</s>",0.3725
+min wage,0.3714
+"economic-collapse
+Part #1: Analyze a given text and return 3 highly relevant tags to the main topics and themes of the text.
+Usage: ""pandemic"" is a tag related to the main theme in the input text because it discusses disease spread and its consequences on people's lives. It is directly connected to the subject matter",0.3588
+"investments
+</s>",0.3477
+economy,0.3468
+economy,0.3458
+finance,0.3451
+if we have a free market,0.3441
+nuclear war,0.3419
+poland,0.3397
+poland,0.3397
+arms_expenses,0.3312
+free market,0.3306
+economics,0.3305
+economics,0.3305
+debt,0.3262
+"nothing else.
+Usage: ""pandemic""",0.3255
+economic policy,0.3239
+GDP,0.3238
+arms purchases,0.3228
+finance,0.3214
+economy,0.3211
+investment,0.3195
+business,0.3188
+pandemic,0.3186
+for two years became a target because his forecasts were completely wrong. He said it would be lower,0.3172
+policy,0.3163
+Adam Glapiński,0.3137
+central bank,0.3099
+financier,0.3072
+financier,0.3064
+economic growth,0.3031
+demand,0.3019
+politicians,0.3000
+economy,0.2975
+economy,0.2975
+end,0.2902
+monetary policy</string></im_start|>,0.2887
+statistics,0.2841
+economic,0.2836
+economy,0.2818
+economy,0.2800
+austerity,0.2789
+economy,0.2786
+spending,0.2785
+economics,0.2754
+"economy
+This text discusses various topics such as living conditions",0.2725
+communism,0.2717
+"why do we need""
+<|/string|>
+
+inflation",0.2698
+fatal economy,0.2683
+government,0.2637
+"""economic-collapse""
+Explanation: This response only includes the required words (single-word tags) and does not include any additional information or explanation",0.2630
+policy,0.2621
+pensions,0.2583
+"not a phrase.
+Usage: ""pandemic""",0.2555
+world war ii,0.2554
+government,0.2532
+military_spending,0.2526
+government,0.2519
+benefits,0.2502
+growth,0.2477
+economy,0.2441
+finance,0.2434
+deficit,0.2431
+economist,0.2399
+destroy,0.2389
+economics,0.2379
+radio,0.2377
+prediction,0.2367
+prediction,0.2367
+"""environmental-impact""",0.2358
+"""environmental-impact""",0.2358
+management,0.2346
+management,0.2346
+lies,0.2343
+internal debt,0.2342
+foreign_investment,0.2330
+income,0.2299
+economy,0.2284
+election,0.2278
+government,0.2253
+finance,0.2229
+corruption,0.2225
+environmental-impact,0.2220
+music,0.2216
+borrowing,0.2204
+economy,0.2204
+finance,0.2192
+security_dependence,0.2191
+break,0.2142
+money,0.2126
+money,0.2121
+debt,0.2113
+money,0.2085
+governmental-response,0.2077
+Venezuela,0.2070
+weimar republic,0.2066
+money,0.2060
+phone number,0.2046
+entrepreneurship.,0.2042
+economy,0.2029
+benefit,0.2028
+driver,0.2022
+society,0.2004
+public_budget,0.1980
+parliament,0.1973
+exchange,0.1973
+enrichment,0.1966
+prices,0.1964
+finance,0.1951
+centralization,0.1948
+growth,0.1943
+savings,0.1940
+talk show,0.1936
+economic,0.1929
+and it was higher. Can we count it somehow? There are many lies here that could be decoded. First of all,0.1914
+wage,0.1910
+economics,0.1894
+armaments,0.1887
+economic_activity,0.1866
+counter-measures,0.1857
+mariusz,0.1838
+economy,0.1835
+income,0.1824
+music station,0.1819
+corrupt,0.1815
+economics,0.1797
+"""economic-collapse""
+Explanation: All three tags are single words; there are no phrases or combinations of multiple words in any of the responses. This meets the guideline for each tag being a single word as stated by the task description.",0.1789
+labor,0.1789
+deficit,0.1786
+hitler,0.1786
+president,0.1780
+budget_impact,0.1762
+forecasts,0.1752
+incompetence,0.1751
+government,0.1732
+survival,0.1726
+broadcast,0.1725
+broadcast,0.1725
+misfortune,0.1725
+example,0.1721
+finance,0.1709
+management,0.1706
+economist,0.1704
+expenses,0.1689
+healthcare,0.1689
+economics,0.1638
+explanation,0.1625
+explanation,0.1625
+government,0.1625
+budget,0.1606
+politics,0.1587
+finance,0.1582
+mr. mariusz,0.1549
+forecast,0.1548
+cure,0.1532
+independence,0.1505
+politics,0.1499
+conversation,0.1474
+manipulation,0.1464
+business,0.1456
+economy and the idea of survival under difficult circumstances which makes these the relevant tags for this text. There is no information about technology or artificial intelligence in the given paragraph so the other options like automation or ai are not suitable.,0.1449
+control,0.1445
+monetary,0.1434
+government,0.1430
+addiction,0.1428
+invitation,0.1423
+"prediction
+</d>
+<|im_complete|>",0.1414
+politics,0.1410
+redistribution,0.1406
+management,0.1387
+stupidity,0.1382
+fictional,0.1381
+increase,0.1365
+vaccine,0.1322
+numbers,0.1321
+president,0.1312
+eu,0.1304
+influence,0.1301
+leader,0.1300
+freedom,0.1299
+entrepreneurship,0.1279
+politics,0.1273
+discussion,0.1265
+discussion,0.1265
+purchasing,0.1243
+"syphilis
+</subtask:tags>",0.1227
+protests,0.1193
+meeting,0.1190
+uncertainty,0.1183
+questions,0.1180
+decision,0.1172
+program,0.1165
+waiting,0.1165
+groups,0.1148
+science,0.1141
+foundation,0.1131
+nature,0.1117
+central bank,0.1100
+values,0.1096
+wrong,0.1093
+communication,0.1088
+leg-bandage,0.1079
+influence,0.1072
+order,0.1066
+advisor,0.1065
+work,0.1044
+medical-remedy,0.1043
+decision makers,0.1035
+coronavirus,0.1028
+influence,0.1021
+antiviral,0.1015
+idiocy,0.0999
+defend,0.0990
+election,0.0980
+think about it,0.0959
+borrow,0.0958
+influence,0.0952
+independence_loss,0.0926
+leg,0.0913
+time,0.0894
+wounds,0.0858
+social,0.0853
+"Latin America
+</d>",0.0850
+value,0.0846
+patches,0.0846
+rulers,0.0827
+money,0.0822
+loss,0.0817
+leverage,0.0813
+"madman
+</s>",0.0809
+duties,0.0804
+understanding,0.0792
+"thus adhering to the guidelines provided for this task. It is concise and directly meets the instruction requirements. 
+
+Part #3: Each tag must be a single word",0.0784
+conversation,0.0778
+position,0.0727
+pandemic,0.0724
+fire,0.0718
+failure,0.0703
+work,0.0685
+rise,0.0684
+international,0.0681
+fiction,0.0681
+"making them appropriate responses for this task.
+
+Part #2: Only provide the tags",0.0672
+crime,0.0669
+value,0.0654
+automation,0.0616
+manipulation,0.0600
+anecdote,0.0596
+speculation,0.0594
+people,0.0576
+manipulation,0.0567
+punishment,0.0565
+stronger,0.0560
+painkiller,0.0517
+humanity,0.0490
+area,0.0489
+life,0.0480
+trade,0.0478
+unpopular,0.0477
+work,0.0458
+averages,0.0389
+red hand,0.0377
+comparisons,0.0372
+manufacturing,0.0344
+truth,0.0342
+differences,0.0332
+manipulation,0.0310
+success,0.0281
+thieves,0.0281
+gigantic,0.0264
+route,0.0247
+decisions,0.0241
+comparison,0.0214
+conditions,0.0211
+management,0.0201
+tears,0.0183
+behavior,0.0163
+create,0.0158
+"deception
+</d>
+<|response_end|",0.0121
+truth,0.0103
+transportation,0.0091
+crrency,0.0067
+healthcare,0.0054
+value,0.0015
+control,0.0006
+winners,0.0005
+bows,-0.0017
+lies,-0.0029
+manipulate,-0.0073
+weaken,-0.0074
+automation,-0.0078
+impact,-0.0079
+technology,-0.0102
+hike,-0.0126
+honest,-0.0173
+power,-0.0190
+minority,-0.0270
+nominal,-0.0307
+take,-0.0341
+choose,-0.0352
+appointment,-0.0423
+choosing,-0.0464
+taking,-0.0523
+gdp,-0.0672

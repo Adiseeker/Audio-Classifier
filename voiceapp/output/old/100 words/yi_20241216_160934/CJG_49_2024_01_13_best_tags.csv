@@ -1,0 +1,213 @@
+tag_name,cosine_similarity
+coal trade,0.6096
+coal stocks,0.5251
+carbon pricing,0.5021
+billion,0.4995
+coal,0.4992
+crude oil prices,0.4730
+inflation,0.4523
+inflation,0.4523
+natural gas prices,0.4517
+war-east,0.4496
+billionaires,0.4428
+trillion,0.4418
+trading behavior,0.4322
+stock market manipulation,0.4141
+energy markets,0.4126
+coal industry,0.4097
+percentage profit,0.4078
+wholesaler,0.4036
+corruption,0.3864
+conflict-history,0.3848
+energy market,0.3795
+economy,0.3734
+novice trader,0.3600
+currency,0.3567
+ukraine-soviet,0.3481
+'energy' and 'market' are relevant tags. 'Discussion' could also be a tag but it might not be as highly relevant since it repeats so many times in the text.,0.3445
+trading strategies,0.3404
+international trade in commodities,0.3402
+billionaires,0.3349
+profit,0.3348
+eco-craziness,0.3304
+production,0.3304
+global economy,0.3289
+commodity,0.3226
+investments,0.3215
+coal,0.3213
+investment,0.3140
+price fluctuation,0.3124
+investment,0.3094
+coal,0.3080
+wealth,0.3049
+coal industry,0.3043
+"geopolitics
+</s>",0.3029
+winter,0.3024
+price increase,0.3007
+capitalism,0.2977
+evil,0.2888
+refugee,0.2873
+profit,0.2843
+ukraine-nazi,0.2825
+price drop,0.2823
+economics,0.2767
+happiness,0.2750
+money,0.2749
+speculation,0.2715
+"""discussion"" completes the set of highly relevant tags for this excerpt.",0.2711
+billions,0.2706
+soviet-era,0.2698
+russia,0.2681
+price,0.2662
+"""energy"" and ""market"" are central topics",0.2652
+economic sanctions,0.2622
+finance,0.2622
+"so ""energy"" and ""market"" are primary tags. The third tag represents the repetitive nature of the discussion which can be inferred from the text's structure. Therefore",0.2585
+music,0.2561
+poland,0.2551
+financial gains,0.2549
+opportunity,0.2546
+russia,0.2493
+Poland,0.2473
+speculation,0.2464
+fuel,0.2439
+propaganda,0.2438
+market,0.2437
+financial gain,0.2387
+demand,0.2351
+price shock,0.2314
+prices,0.2295
+economics,0.2283
+multiplication,0.2279
+"and ""discussion"" relates to how these themes are being discussed.",0.2273
+crazy,0.2253
+"discussion
+The text is discussing various topics related to the energy market",0.2245
+economy,0.2225
+"discussion
+The text is focused on discussions related to energy and the energy market. The repetition of ""discussion"" throughout the text emphasizes this main theme. Therefore",0.2202
+price volatility,0.2201
+financial,0.2151
+Poland,0.2122
+financial crisis,0.2108
+"discussion
+The text is focused on discussing the energy market multiple times. Thus",0.2098
+value,0.2092
+value,0.2092
+money,0.2075
+money,0.2075
+business,0.2056
+economic situation,0.2047
+zero-price,0.2026
+OPEC countries,0.1973
+electricity market,0.1947
+price,0.1941
+recession,0.1937
+energy,0.1937
+wealth,0.1923
+success,0.1912
+mariusz,0.1876
+energy markets,0.1867
+stations,0.1859
+market,0.1840
+zlotys,0.1818
+environmental policy implications,0.1814
+knowledge,0.1802
+finance,0.1781
+wealth,0.1779
+profitable,0.1767
+renewable energy,0.1711
+renewable energy,0.1711
+renewable energy,0.1711
+coal,0.1710
+future,0.1633
+speculation,0.1601
+carbon emissions,0.1597
+economic,0.1539
+collapse,0.1523
+historical-context,0.1522
+Energy,0.1515
+geopolitics,0.1508
+fuel cost,0.1507
+lie,0.1504
+politics,0.1488
+profit,0.1448
+business,0.1431
+industrialization,0.1411
+money,0.1399
+conflict,0.1329
+communication,0.1324
+energy,0.1313
+energy,0.1313
+energy,0.1313
+audition,0.1312
+audition,0.1312
+Ukraine,0.1299
+energy,0.1293
+energy,0.1291
+energy,0.1291
+energy,0.1291
+energy,0.1291
+energy,0.1291
+influence,0.1274
+energy,0.1265
+energy,0.1265
+manipulation,0.1233
+energy,0.1218
+media-bias,0.1186
+miracles,0.1165
+jump,0.1157
+panic,0.1147
+political instability,0.1127
+multiple,0.1123
+discussion,0.1102
+discussion,0.1102
+electricity prices,0.1088
+finance,0.1060
+person,0.0961
+economics,0.0938
+change,0.0933
+crisis,0.0915
+energy efficiency,0.0896
+speculation,0.0865
+coal-mines,0.0841
+market trends,0.0841
+"make a difference
+<|next_turn|>end|",0.0824
+control,0.0822
+control,0.0822
+attention,0.0819
+media,0.0802
+discussion,0.0782
+discussion,0.0782
+discussion,0.0782
+market,0.0765
+market,0.0765
+market,0.0765
+market,0.0765
+market,0.0765
+group,0.0702
+market,0.0683
+market,0.0683
+market,0.0683
+market,0.0683
+ton,0.0666
+discussions,0.0663
+growth,0.0662
+market,0.0652
+market,0.0631
+market,0.0631
+politics,0.0494
+governments,0.0492
+war,0.0451
+discussions,0.0364
+discussions,0.0364
+inequality,0.0351
+trick,0.0288
+narrow,0.0085
+connections,0.0060
+element,0.0017
+history,0.0007
+pandemic,-0.0211
+memory,-0.0465

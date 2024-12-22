@@ -1,0 +1,115 @@
+tag_name,cosine_similarity
+china,0.5411
+land ownership,0.5076
+market manipulation,0.4483
+series,0.4367
+series,0.4058
+series,0.4058
+series,0.4058
+series,0.4045
+series,0.4045
+series,0.3964
+series,0.3964
+series,0.3964
+series,0.3954
+series,0.3954
+series,0.3954
+stock_market,0.3913
+series,0.3879
+series,0.3879
+series,0.3879
+series,0.3836
+series,0.3836
+series,0.3836
+series,0.3805
+series,0.3805
+series,0.3805
+continuation,0.3802
+continuation,0.3719
+continuation,0.3719
+series,0.3703
+series,0.3703
+series,0.3703
+continuation,0.3675
+continuation,0.3675
+continuation,0.3675
+series,0.3666
+series,0.3666
+series,0.3666
+continuation,0.3652
+continuation,0.3652
+continuation,0.3652
+continuation,0.3644
+continuation,0.3644
+continuation,0.3528
+corporate_debt,0.3479
+bankruptcy,0.3402
+financial speculation,0.3351
+economy,0.3034
+completion,0.3017
+real estate,0.3001
+economic systems,0.2922
+conclusion,0.2921
+conclusion,0.2896
+conclusion,0.2896
+conclusion,0.2849
+conclusion,0.2849
+conclusion,0.2849
+conclusion,0.2827
+conclusion,0.2827
+sequence,0.2755
+conclusion,0.2717
+conclusion,0.2717
+conclusion,0.2717
+conclusion,0.2698
+conclusion,0.2698
+economy,0.2691
+storytelling,0.2664
+storytelling,0.2609
+market manipulation,0.2578
+storytelling,0.2550
+repetition,0.2341
+repetition,0.2341
+bankruptcy,0.2299
+finance,0.2252
+repetition,0.2249
+repetition,0.2249
+repetition,0.2249
+repetition,0.2180
+finance,0.2033
+real estate,0.2018
+narrative,0.1993
+real estate,0.1977
+literature,0.1922
+overdevelopment,0.1874
+narrative,0.1874
+narrative,0.1854
+narrative,0.1854
+narrative,0.1854
+narrative,0.1836
+narrative,0.1817
+narrative,0.1817
+narrative,0.1796
+narrative,0.1796
+narrative,0.1755
+narrative,0.1755
+closure,0.1735
+narrative,0.1718
+narrative,0.1718
+government control,0.1651
+government,0.1619
+finance,0.1564
+china,0.1513
+debt,0.1487
+governance,0.1463
+real estate,0.1380
+power,0.1303
+political influence,0.1292
+banking,0.1157
+fraud,0.1042
+continuity,0.0814
+control,0.0812
+culture,0.0760
+continuity,0.0759
+policy,0.0537
+face,0.0207

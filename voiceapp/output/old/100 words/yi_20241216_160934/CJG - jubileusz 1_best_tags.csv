@@ -1,0 +1,73 @@
+tag_name,cosine_similarity
+management-experience,0.5577
+limited-academic-knowledge,0.5548
+key-to-knowledge,0.5260
+knowledge,0.4810
+adult learning,0.4592
+us-knowledge,0.4400
+teaching,0.4062
+european funds,0.3991
+senior-manager-career,0.3950
+millionaire,0.3895
+economy,0.3613
+university,0.3593
+academic-ambitions,0.3569
+learning,0.3478
+management,0.3384
+professional development,0.3323
+ministry,0.3275
+sharing,0.3186
+learning,0.3079
+continuing education,0.2929
+work-life balance,0.2871
+quotes,0.2856
+career transition,0.2725
+president-position,0.2662
+experience,0.2661
+education,0.2642
+books,0.2577
+"topics
+</im_start|>",0.2569
+mentorship,0.2434
+politics,0.2397
+media,0.2355
+education,0.2231
+profession,0.2166
+conversation,0.2143
+education,0.2138
+"university
+<|process_end|>The given text revolves around personal experiences and academic interactions",0.2090
+criticism,0.2053
+industry,0.2013
+life,0.2007
+politics,0.2002
+practitioners,0.1950
+beer,0.1926
+projects,0.1751
+expert,0.1737
+collaboration,0.1574
+life,0.1520
+teaching,0.1483
+and education. These are the relevant tags.,0.1439
+finance,0.1422
+career,0.1401
+effort,0.1374
+choice,0.1310
+manual,0.1291
+discussing systems,0.1279
+business,0.1223
+quote,0.1216
+understanding,0.1156
+authority,0.1145
+I,0.1076
+book,0.1074
+policy,0.1017
+experience,0.0986
+self-reflection,0.0792
+secrets,0.0635
+motivation,0.0578
+fake,0.0457
+policies,0.0006
+distribu,-0.0107
+manipulation,-0.0108
+pln,-0.0266

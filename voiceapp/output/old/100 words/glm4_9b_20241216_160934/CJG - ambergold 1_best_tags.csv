@@ -1,0 +1,37 @@
+tag_name,cosine_similarity
+pyramid schemes,0.4819
+corruption,0.4624
+financial fraud,0.4512
+government,0.4299
+police,0.4091
+corruption,0.3944
+police,0.3897
+scams,0.3871
+fraud,0.3856
+mafia,0.3728
+organized crime,0.3720
+police,0.3556
+policing,0.3530
+corruption,0.3524
+corruption,0.3454
+law enforcement,0.3423
+judiciary,0.3386
+taxFraud,0.3309
+consumer protection,0.3184
+ethical investment,0.3092
+fraud,0.2995
+scam,0.2776
+scandal,0.2765
+fraud,0.2743
+financial literacy,0.2619
+justice,0.2389
+scam,0.2388
+financialScheme,0.1971
+financial,0.1707
+justice,0.1444
+publicorder,0.1378
+politics,0.1350
+speculation,0.1156
+economic,0.1145
+finance,0.0754
+community,0.0417

@@ -1,0 +1,59 @@
+tag_name,cosine_similarity
+electric cars,0.5456
+and the difficulty in maintaining or repairing such vehicles due to their electronic nature (maintenance).,0.5402
+carbonemissions,0.5333
+specifically electric vehicles (electric_cars),0.4961
+"tragedy
+The text discusses the potential for monopoly in the electric car industry and its negative impact on consumers. It also mentions a brief interruption",0.4885
+"sustainability<|/im_start|>
+The tagger has identified these topics based on the keywords present in the text: battery technology and electric cars as a form of sustainable transportation. The mention of rare metals for production suggests consideration of environmental impact and economic feasibility",0.4833
+which ties into broader discussions of sustainability and economics within the automotive sector.,0.4790
+electric car,0.4757
+electricity,0.4605
+electric_cars,0.4308
+electriccars,0.4268
+eco-friendly vehicles,0.4258
+electric_cars,0.4250
+"maintenance
+
+The text discusses the complexities and dangers of repairing electric cars compared to traditional internal combustion engines like diesel. The tags highlight the central themes: technological aspects (technology)",0.4232
+carbon_emissions,0.4075
+rare metals,0.3777
+nissan,0.3375
+"eu policies
+</s>",0.3337
+battery_production,0.3235
+industry development,0.3080
+ecological_consequences,0.3060
+energy,0.3012
+battery,0.2953
+eco,0.2923
+environmentalimpact,0.2866
+emission_calculations,0.2862
+automotive,0.2701
+tesla_model_s,0.2606
+electric_vehicles,0.2593
+eu,0.2583
+automotive sector,0.2550
+leaf_car,0.2496
+economics,0.2459
+monopoly,0.2339
+"total_emissions
+</intent>",0.2279
+economy,0.2268
+production,0.2204
+manufacturing,0.2165
+economist,0.2137
+environment,0.2134
+alternative energy,0.2120
+production,0.1945
+environment,0.1709
+repair,0.1334
+technology,0.1233
+current_system,0.1222
+which seems to be unrelated to the main topics but is acknowledged by the speaker before concluding their message.,0.1037
+money,0.0997
+communism,0.0935
+mechanic,0.0739
+swedish_scientists,0.0482
+tech,0.0110

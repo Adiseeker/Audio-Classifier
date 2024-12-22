@@ -1,0 +1,357 @@
+tag_name,cosine_similarity
+israeli internal intelligence,0.6693
+Gaza displacement,0.6671
+gaza,0.5630
+refugees,0.5512
+palestine,0.5484
+Israel-Palestine conflict,0.5392
+israel-gaza conflict,0.5377
+gaza,0.5232
+"terrorism
+</s>
+The given text discusses themes related to Islamic laws (Zakat) and its relation to terrorism. Thus",0.4703
+israeli politics,0.4698
+Iran,0.4658
+israel,0.4616
+israeli-palestinian,0.4606
+mariusz,0.4604
+"""This is what the international community is for",0.4569
+"right? But suddenly this voice disappeared. Nobody says anything"" - These statements express concern over injustice and suggest a moral judgment on certain behaviors or acts. This part meets the criteria of focusing on ethics as an underlying theme.
+
+Part #3: Seek out discussions about accountability in actions that have negative impacts on large groups of people.
+Usage: ""These are war crimes. Why do we allow this?"" - This statement is a call for justice and accountability regarding actions deemed morally wrong or even illegal",0.4486
+"""impose sanctions""",0.4439
+Mariusz Stefaniak,0.4379
+Warsaw uprising,0.4366
+palestine,0.4224
+forced resettlement,0.4169
+state intelligence agencies,0.4090
+MiddleEast,0.4058
+israel-palestine,0.4024
+extremists,0.4009
+foreignpolicy,0.3910
+migrants,0.3894
+humanitarian crisis,0.3870
+"such as cutting off the means of sustaining life for two million people (which it implies is a form of murder). It meets the criteria of focusing on accountability in these discussions.
+
+Part #4: Examine how this text reflects broader concerns about the Western civilization's approach to issues that challenge its ethical foundations.
+Usage: ""I think this is a test for the entire Western civilization. Are we able to put an end to actions that are unethical",0.3863
+intelligence agencies,0.3856
+israeli politics,0.3804
+refugees,0.3780
+hegemony,0.3725
+geopolitics,0.3698
+sheikhs,0.3672
+poland,0.3640
+Nazi occupation,0.3614
+military intervention,0.3613
+israel,0.3603
+holocaust,0.3578
+israel,0.3529
+Nazi genocide,0.3501
+gaza,0.3498
+"the relevant tags are ""islam""",0.3473
+hamas,0.3452
+zionism,0.3435
+ethnic cleansing,0.3431
+Zionist state,0.3412
+israel,0.3400
+German atrocities,0.3372
+islam,0.3361
+Egypt,0.3337
+"that are criminal"" - The author of this passage suggests that these challenges may be crucial tests for how well the West deals with ethical dilemmas or illegal activities. This aspect meets the criteria of discussing broader implications for the Western civilization's stance on such issues.
+
+By analyzing each section of the text according to these four parts",0.3330
+"and predicting deaths."" These are key elements that define the primary themes of the text - warfare",0.3323
+diplomacy,0.3257
+hamas,0.3252
+music,0.3215
+Netanyahu,0.3205
+Netanyahu,0.3203
+military strategies),0.3123
+diplomacy,0.3074
+intelligence gathering,0.3073
+palestinian,0.3058
+islam,0.3042
+massacre,0.3037
+gas_zone,0.3034
+news,0.2999
+israeli,0.2989
+Polish history,0.2982
+western-civilization.,0.2965
+Hamas,0.2961
+human rights abuses,0.2949
+terrorist attacks,0.2948
+middle east politics,0.2933
+islamists,0.2909
+borders,0.2908
+militant groups,0.2888
+political power,0.2851
+"fighters
+Part #1: Analyze the text for main topics/themes
+Usage: The given text mentions ""perfect military technology",0.2840
+oilindustry,0.2836
+finanacial-advisor,0.2821
+counter-terrorism measures,0.2808
+extremism,0.2790
+promised-profits,0.2735
+mujahideen,0.2730
+terrorism,0.2710
+palestinian,0.2688
+economy,0.2643
+middle_east,0.2622
+terrorism,0.2620
+Poland,0.2620
+terrorism,0.2615
+mega-profit,0.2611
+war_crimes,0.2604
+hamas,0.2595
+Islamism,0.2573
+global politics,0.2570
+surveillance,0.2567
+economist,0.2564
+terrorism,0.2561
+armed conflicts,0.2545
+exterminationcamp,0.2534
+apartheid,0.2518
+conflict,0.2515
+hama,0.2508
+geopolitics,0.2506
+hamas,0.2500
+poverty,0.2496
+poverty,0.2496
+poverty,0.2496
+border,0.2479
+appeasement,0.2476
+international relations,0.2474
+mossad,0.2462
+humanitarian aid,0.2454
+civilian population,0.2438
+terrorism,0.2433
+gaza strip,0.2432
+palestinian,0.2430
+evacuation planning,0.2413
+economist,0.2399
+ethics,0.2397
+ethics,0.2397
+"and ""terrorism"".",0.2395
+parrot tv,0.2379
+financial situation,0.2378
+economics,0.2376
+"""equal rules"" - These statements emphasize the importance of treating all people equally according to certain principles or laws. Thus",0.2362
+zakat,0.2361
+terrorism,0.2317
+world_news,0.2267
+polish_philanthropist,0.2245
+warsawghetto,0.2243
+politics,0.2227
+terrorism,0.2217
+humanitarian,0.2215
+genocide,0.2208
+secrets,0.2199
+conflict,0.2192
+conflictresolution,0.2189
+humanitarian crisis,0.2188
+politics,0.2170
+insurgency,0.2157
+world-affairs,0.2156
+diplomacy,0.2153
+secondworldwar,0.2138
+insurgency,0.2135
+humanitarian,0.2127
+"western-civilization
+Part #1: Identify topics and themes related to equality",0.2119
+financial,0.2112
+migration,0.2109
+conflict,0.2103
+history,0.2102
+war crimes,0.2079
+conspiracy,0.2066
+region knowledge,0.2052
+politico-military conflict,0.2046
+money,0.2043
+martyrdom,0.2043
+human_rights,0.2039
+politics,0.2035
+miningindustries,0.2033
+"palestinian
+</im_start|>",0.2026
+"and military strategies. This meets the criteria because it identifies the major subjects being discussed in the provided text.
+
+Part #2: Extract relevant single-word tags from these themes
+Usage: From the identified themes (warfare",0.2021
+investigation,0.2011
+pyramids,0.2002
+war,0.2000
+"including discussions about fairness in rules.
+Usage: ""Let's have equal rules for everyone""",0.1992
+human rights violations,0.1985
+conversation,0.1979
+end,0.1975
+"""zakat""",0.1963
+territory defense,0.1937
+"it meets the criteria of focusing on equality as a theme.
+
+Part #2: Look for ethical discussions that involve right and wrong actions.
+Usage: ""condemn it""",0.1930
+destruction,0.1923
+Russian,0.1897
+economy,0.1895
+peace,0.1888
+criminals,0.1857
+opposition,0.1845
+politics,0.1830
+human-interest<|/im_start|>,0.1823
+"""warfare""",0.1818
+international law,0.1811
+international relations,0.1809
+conflict,0.1797
+war,0.1792
+civilization,0.1776
+international,0.1773
+finance,0.1758
+politics,0.1757
+wojciech_borucki,0.1757
+conflict,0.1733
+situation,0.1732
+economics,0.1729
+responsibility,0.1701
+judicial reform,0.1674
+military tactics,0.1657
+conflict,0.1653
+warfare,0.1646
+warfare,0.1646
+military,0.1629
+conflict,0.1609
+conflict resolution,0.1607
+palestinians,0.1598
+victims,0.1592
+religion,0.1584
+Ukraine,0.1580
+economy,0.1574
+poverty,0.1563
+dualism,0.1550
+"we can derive three single-word tags - ""military""",0.1545
+gunfire,0.1534
+conflict,0.1531
+politics,0.1522
+"humanitarian_assistance
+</|im_start|>",0.1517
+nazibarracks,0.1513
+manipulation,0.1505
+energy supply,0.1501
+international,0.1494
+accountability,0.1492
+accountability,0.1492
+budget,0.1485
+conspiracy theories,0.1482
+luck,0.1479
+victims,0.1454
+resources,0.1447
+violence,0.1445
+World War II,0.1441
+disaster management,0.1424
+jewish history,0.1422
+justice,0.1414
+economics,0.1398
+conflict,0.1383
+globalpowerstruggles,0.1373
+economics,0.1355
+culture,0.1353
+military,0.1343
+humanity,0.1308
+bandit_ways,0.1298
+opinions,0.1295
+foundation,0.1286
+normal people,0.1285
+borrowing,0.1272
+defensive capabilities,0.1253
+gas supply,0.1209
+foresight,0.1196
+conflict,0.1191
+muslim,0.1186
+politics,0.1180
+government,0.1179
+intelligence,0.1169
+soldier,0.1138
+"and ""conflict"". This meets the criteria because each tag is a distinct word that captures one of the main topics/themes discussed in the text.
+
+Part #3: Separate the tags with commas without spaces or additional formatting
+Usage: Military",0.1132
+influence,0.1130
+infidels,0.1129
+humanities,0.1125
+society,0.1089
+analysis,0.1087
+economy,0.1083
+Soviet era,0.1082
+terrorism,0.1080
+Chinese,0.1070
+military,0.1051
+geopolitics,0.1043
+billions,0.1028
+resistance movement,0.1019
+desperation,0.1015
+"funding
+</|im_start|>",0.1015
+economic systems,0.1011
+fighting,0.1007
+water supply,0.1005
+georgia,0.0999
+American,0.0990
+break,0.0963
+despair,0.0929
+hopelessness,0.0915
+political ideologies,0.0905
+slogans,0.0901
+president,0.0871
+inequality,0.0853
+waiting,0.0846
+"politics
+<|response finished|>",0.0840
+Supreme Court of Justice,0.0822
+europe,0.0807
+radicalization,0.0796
+competition,0.0791
+minds_etude,0.0788
+approaches,0.0774
+concentrationcamp,0.0746
+united nations,0.0735
+crime,0.0725
+naive,0.0717
+judaism,0.0701
+conflict,0.0675
+conflict,0.0675
+conflict,0.0675
+business,0.0673
+civil rights,0.0661
+equality,0.0631
+elites,0.0621
+advanced_tech_and_education,0.0614
+finance,0.0608
+clash,0.0603
+alex_kirshner,0.0600
+pragmatism,0.0600
+forensic evidence,0.0579
+allies,0.0565
+state institutions,0.0553
+aid,0.0537
+expulsion,0.0497
+conspiracy,0.0380
+unfairness,0.0333
+interview,0.0274
+conspiracy,0.0262
+old women,0.0243
+environmental issues,0.0230
+we can generate a list of tags that reflect the main topics and themes: equality,0.0225
+apologies,0.0207
+action,0.0162
+massacres,0.0137
+radical,0.0113
+conflict - These are the three highly relevant tags to the main themes of the text and they're separated by a comma for clarity and ease of use. This meets the criteria because it provides the necessary separation between the individual tags while adhering to the format guidelines mentioned in the instructions.,0.0097
+work,0.0007
+power struggle,-0.0131
+money,-0.0207
+difficulties,-0.0225
+Poles,-0.0251
+support,-0.0637

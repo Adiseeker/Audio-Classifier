@@ -1,0 +1,54 @@
+tag_name,cosine_similarity
+cinema,0.8858
+"""The Lord of the Rings",0.8953
+box office,0.8895
+earnings,0.8709
+hollywood,0.8788
+slogans,0.8874
+viewers,0.8819
+representation,0.8859
+political,0.8740
+propaganda,0.8930
+society,0.8812
+power,0.8660
+""" expectations",0.8929
+race,0.8676
+discrimination,0.8734
+actors,0.8849
+equality,0.8737
+Peter_Jackson,0.8799
+studio,0.8867
+showrunners,0.8775
+apocalypse,0.8881
+finance,0.8834
+ratings,0.8796
+audience,0.8760
+quality,0.8673
+rebellion,0.8850
+failure,0.8846
+saga,0.8674
+success,0.8686
+woke,0.8747
+directors,0.8813
+series,0.8667
+communism,0.8890
+victims,0.8780
+film industry,0.8932
+""" ""Rings of Power",0.9016
+entertainment,0.8903
+movie,0.8731
+ideology,0.8854
+studios,0.8837
+film,0.8662
+criticism,0.8868
+comparison,0.8752
+oppression,0.8805
+television,0.8783
+Oscar,0.8797
+Star Wars,0.8781
+film_rating,0.8875
+hit,0.8623
+production,0.8722
+financial results,0.8931
+cultural values,0.8910
+""" ""The Hobbit",0.8915

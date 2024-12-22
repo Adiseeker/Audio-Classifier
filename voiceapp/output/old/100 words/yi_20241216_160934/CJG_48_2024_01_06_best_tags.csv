@@ -1,0 +1,334 @@
+tag_name,cosine_similarity
+virus prevention,0.6214
+"""virus"" and ""prevention"" which represent actions and concerns related to controlling the disease's transmission. The other repetitive words indicate focus on these three key concepts only.",0.5851
+"prevention
+The text revolves around preventing the spread of a virus. So",0.5831
+COVID-19,0.5766
+"it's ""covid-19""; and for the economy",0.5408
+"the relevant tags are:
+- Legal
+- Necessity
+- Military
+- Vaccine
+- Pharmaceuticals
+- Pandemic
+- Obligation
+- Contract
+- Payment
+- Pfizer
+- Refusal
+- Property
+- Immunity
+- Protection<|/im_start|>",0.5247
+vaccine controversy,0.5200
+vaccines,0.5188
+virus,0.5176
+"1. Pandemic
+2. Prevention
+3. Virus Spread",0.5123
+virus,0.5121
+virus,0.4921
+virus,0.4921
+virus,0.4832
+virus,0.4832
+virus,0.4800
+virus,0.4768
+virus,0.4768
+tanzanian-president,0.4768
+"a suitable tag would be ""pandemic""; for COVID-19",0.4764
+covid-19,0.4763
+covid-19,0.4763
+vaccine,0.4594
+virus,0.4561
+illegal payments,0.4475
+"protection<|/im_start|>
+The text is primarily focused on legal issues related to the use of vaccines and contracts. Therefore",0.4414
+corruption,0.4413
+poland,0.4370
+epidemic,0.4306
+necessity,0.4280
+vaccine distribution<|/im_start|>,0.4258
+governmental malpractice,0.4193
+epidemic,0.4096
+political corruption,0.4019
+employment,0.3969
+covid-19,0.3951
+prevent,0.3912
+economic destruction,0.3796
+industry,0.3766
+shady dealings,0.3755
+financial gain,0.3717
+and pandemic handling strategies. Therefore,0.3691
+economic crisis,0.3679
+responsibility,0.3620
+underhanded transactions,0.3620
+"african-health-statistics
+</font>",0.3615
+prevention,0.3611
+socio-economic change,0.3607
+covid-19-vaccines,0.3595
+epidemiology,0.3579
+vaccines,0.3573
+prevention,0.3531
+vaccine,0.3524
+'epidemiology',0.3516
+pandemic prevention|<|/im_start|>,0.3510
+prevent,0.3496
+prevention,0.3468
+prevention,0.3425
+economy,0.3401
+epidemiology (study of spread of diseases),0.3380
+money laundering,0.3369
+prevention,0.3368
+prevention,0.3368
+"economy
+Part #1: Identify main topics and themes in the text.
+Usage: The main topics include pandemics",0.3340
+public funds,0.3331
+epidemic,0.3326
+prevention,0.3309
+undemocratic practices,0.3268
+unregulated capitalism,0.3229
+vaccination,0.3213
+""" ""epidemiologist",0.3210
+pandemic,0.3207
+tax dollars,0.3200
+spread,0.3176
+pfizer,0.3167
+vaccine,0.3151
+spread,0.3140
+spread,0.3140
+corporate governance,0.3136
+economic decline,0.3089
+spread,0.3059
+spread,0.3059
+secretive deals,0.3017
+pandemic,0.2987
+authority,0.2972
+law,0.2967
+"pandemic handling
+</im_start|> 
+I used the definition provided by analyzing keywords and concepts within the text such as ""vaccines",0.2943
+economic impact,0.2943
+misuse of authority,0.2940
+legislation,0.2918
+economic outlook,0.2908
+politics,0.2894
+government oversight,0.2887
+virus,0.2861
+financial expert,0.2852
+accountability,0.2844
+prevention measures,0.2819
+foreign investment,0.2816
+social unrest,0.2813
+accountability failures,0.2796
+financial losses,0.2786
+pharmaceuticals,0.2763
+criminal,0.2761
+spread,0.2719
+long-term consequences,0.2692
+absurd-claims,0.2688
+contingency,0.2672
+economy,0.2671
+economic impact,0.2663
+unaccountability,0.2661
+"""economy"" is appropriate. These words are chosen because they directly relate to the main subjects in the text. They are concise single-word tags that accurately represent the central themes of the passage without any additional context or information.
+
+Part #3: Separate the generated tags with commas and ensure no spaces or formatting is added between them.
+Usage: ""pandemic",0.2660
+"and economy. This is because the provided text revolves around these three subjects throughout the entire content.
+
+Part #2: Generate relevant single-word tags for each identified topic or theme.
+Usage: For pandemics",0.2627
+ineffective governance,0.2621
+destructive measures,0.2610
+contract,0.2565
+government,0.2562
+"the main themes or topics are ""spread""",0.2561
+healthcare,0.2552
+necessity,0.2530
+abuse of power,0.2527
+societal disruption,0.2508
+Africa,0.2476
+exemption,0.2462
+zlotys,0.2444
+crisis,0.2428
+crisis management,0.2401
+economy,0.2377
+public knowledge,0.2367
+influence,0.2362
+pandemic,0.2353
+necessity,0.2344
+politics,0.2333
+information,0.2331
+influence peddling,0.2330
+trump-speeches,0.2312
+blame shifting,0.2279
+health,0.2272
+government,0.2267
+epidemiologists,0.2263
+pandemic,0.2218
+government actions,0.2208
+Pfizer,0.2108
+surprise-results,0.2104
+summary,0.2096
+effects,0.2074
+lack of supervision,0.2070
+common interest,0.2069
+emergencies,0.2067
+societal impact,0.2064
+refusal,0.2062
+media,0.2057
+political conflict,0.2040
+economics,0.2027
+pandemic,0.2026
+society,0.2009
+economy,0.2006
+pharmaceuticals,0.1999
+political actions,0.1993
+pandemic,0.1985
+media coverage,0.1984
+employment,0.1963
+misinformation,0.1963
+financial matters,0.1929
+questionable decisions,0.1920
+official misconduct,0.1915
+national bankruptcy,0.1908
+economy,0.1907
+pandemic response,0.1903
+public-health,0.1898
+political response,0.1870
+society,0.1852
+history,0.1832
+call,0.1822
+immunity,0.1817
+medicine,0.1802
+survival strategy,0.1801
+entrepreneurship,0.1800
+decision-making,0.1787
+global competition,0.1766
+global,0.1753
+crisis management,0.1721
+""" and ""data."" These topics collectively revolve around pharmacology (study of drugs)",0.1672
+reform,0.1672
+mobilization,0.1641
+society,0.1641
+media,0.1637
+population,0.1619
+pandemic,0.1610
+score,0.1590
+crisis,0.1589
+government policy,0.1568
+assessment,0.1550
+future generations,0.1548
+government,0.1546
+accountability,0.1539
+government,0.1537
+existence,0.1535
+ignorance,0.1534
+ruler,0.1507
+responsibility,0.1493
+vulnerability,0.1452
+war,0.1427
+awareness,0.1420
+population,0.1418
+suspend,0.1418
+municipal affairs,0.1409
+procedure,0.1402
+responsibility,0.1397
+government assistance,0.1391
+awareness,0.1388
+explanation,0.1366
+payment,0.1366
+deception,0.1357
+medicine,0.1334
+public health,0.1328
+vaccine,0.1319
+responsibility allocation,0.1290
+health,0.1280
+accountability measures,0.1276
+economist,0.1270
+refugee,0.1269
+pandemic,0.1268
+"economy"". This format meets all criteria because it clearly separates the three chosen tags for each theme identified in a clear",0.1265
+statistics,0.1263
+decision,0.1263
+worldwide,0.1257
+politics,0.1255
+health crisis,0.1252
+aid,0.1243
+actions,0.1230
+responsibility,0.1211
+health,0.1196
+budget,0.1184
+legal battles,0.1163
+president,0.1156
+""" ""source of the problem",0.1142
+treatment,0.1122
+calculation,0.1104
+finance,0.1094
+illegal activities,0.1092
+alternative scenario,0.1061
+information,0.1033
+special,0.1010
+pandemic,0.0996
+observation,0.0986
+pharmacology,0.0977
+financial,0.0954
+release,0.0945
+and 'pandemic handling'.,0.0903
+foundation,0.0899
+years,0.0896
+debate,0.0880
+rewards,0.0870
+obligation,0.0857
+legal,0.0854
+illegality,0.0854
+nepotism,0.0847
+avoidance,0.0847
+expert,0.0826
+public health,0.0822
+Gates,0.0816
+health,0.0816
+the relevant tags are 'pharmacology',0.0814
+education,0.0798
+Ukrainian,0.0738
+second-dose,0.0716
+military,0.0690
+finance,0.0688
+four,0.0684
+poland,0.0674
+behavior,0.0671
+stretch,0.0617
+refusal,0.0607
+conspiracy,0.0600
+lockdown policy,0.0600
+cronyism,0.0579
+ban,0.0578
+production,0.0570
+guarantee,0.0558
+official,0.0552
+puzzle solving,0.0542
+report,0.0462
+power,0.0451
+expert,0.0429
+contract,0.0427
+data,0.0389
+econo,0.0387
+reward,0.0381
+international relations,0.0345
+ai,0.0325
+consequences,0.0310
+pandemic,0.0296
+science,0.0255
+countries,0.0244
+numbers,0.0182
+"no-action
+</s>
+<|response_end|>1527164368009|",0.0175
+deception,0.0150
+legitimacy,0.0045
+property,-0.0119
+genesis,-0.0230
+readable manner without adding any unnecessary spaces or other formatting elements that could confuse or alter their meaning.,-0.0569
+ai,-0.0646

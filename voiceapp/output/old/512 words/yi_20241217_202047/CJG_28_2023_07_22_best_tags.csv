@@ -1,0 +1,806 @@
+tag_name,cosine_similarity
+inflation,0.5374
+inflationary,0.5339
+unprecedented-inflation,0.5070
+low-inflation,0.5042
+economic prediction,0.4957
+low inflation,0.4947
+economic recovery|,0.4846
+"Poland market dynamics
+Part #1: Identify main topics and themes
+- The text discusses economic aspects such as recovery",0.4779
+economic-forecasting,0.4729
+inflation rates,0.4626
+10%-inflation,0.4605
+economic recovery,0.4580
+"economic crisis
+<|SEP|>",0.4559
+price_inflation,0.4534
+polish economy,0.4450
+economic peaks,0.4373
+inflation-rate,0.4357
+inflation rate,0.4325
+"events
+Part #1: Identify main topics and themes
+- The text discusses discussions about economic crises",0.4311
+economic fluctuations,0.4271
+inflationary-phases,0.4209
+economic_predictions,0.4203
+economic-indicators,0.4198
+economic-crisis,0.4194
+"evelopment risks in business decisions.
+
+inflation",0.4192
+"and digitalization. It also mentions Poland's unique economic situation. 
+
+Part #2: Return tags only (no additional information)
+- Focus on providing straightforward",0.4155
+inflation_drop,0.4117
+economic downturn,0.4107
+economic decline,0.4079
+"market disruptions
+</|im_start|>Tags: economics",0.4077
+austerity,0.4037
+"and joblessness in Poland. 
+
+Part #2: Provide only relevant tags (single-word phrases).
+Usage: ""economy""",0.4018
+economic cycle,0.3994
+economic policy,0.3977
+weak economy,0.3969
+economic-downturn,0.3925
+global economic trends,0.3923
+"and their impacts.
+
+#2 Generate relevant tags based on identified themes
+- finance (refers to the subject of Mariusz Stefaniak's profession)
+- economics (related to Mr. Czarny's comments and discussions about financial topics)
+- history (discusses past crises as examples",0.3877
+economic growth,0.3818
+and labor market. This meets the criteria because these words directly relate to the content of the passage which discusses economic trends,0.3811
+highlighting periods of boom followed by busts,0.3695
+economic_policy,0.3680
+free market economy,0.3665
+"sustainable growth
+</d>",0.3662
+The three highly relevant tags for this text are: economics,0.3649
+"""economic"" is too broad for this context whereas ""economic policies"" or ""inflation rates"" might be better choices. Let's apply that logic here:
+
+1. Economic - too general
+2. Inflation - too general
+3. Economic Policies - could work
+4. Inflation Rates - could work
+5. Refugee Crisis - more specific to the situation mentioned in the text
+6. Energy Markets - could work
+7. Fuel Prices - could work
+8. Global Economy - even more general but still relevant
+9. Refugee Cost - very specific to what is being discussed
+10. Economic Growth - this context talks about improving indicators",0.3638
+"global economy
+</im_start|>",0.3620
+"economic crisis"" on our society? What role does it play today? 
+
+1. Economic Crisis
+2. Stock Market
+3. Society Effects",0.3598
+"finance
+You have provided me with a text discussing various topics such as games (referring to a specific game mentioned by Mariusz Stefaniak)",0.3587
+"probably because of this inflation that constantly eats away at our savings. 
+
+Tags: wealth redistribution",0.3576
+financial stability,0.3564
+"and that's worth millions of euros per year alone.
+
+Highly relevant tags: 
+1. Welfare
+2. Taxation
+3. Inflation",0.3563
+economic_fall,0.3558
+"which means economic growth
+
+So the refined tags would be: ""economic policies",0.3554
+"the country has managed to maintain its social welfare system with minimal changes over the years. This contrasts sharply with other Eastern European countries that have undergone significant economic transformation in recent decades.
+As a professional tagger",0.3548
+"1. Wealth distribution
+2. Inequality
+3. Economic intervention",0.3538
+which led to a stagnant economy and increased unemployment. Despite this,0.3525
+market predictions,0.3515
+"not just a select few who can afford the high prices of real estate.
+The crisis in our real estate market is clear and cannot be ignored any longer.
+It's time to act now to create a more equitable society for generations to come. 
+Relevant tags: inequality",0.3489
+"my analysis would focus on these key topics:
+poland",0.3488
+recession,0.3473
+economic crisis,0.3459
+""" but I am sure that such a real estate market is harmful for society in the long term.
+The result of this disturbed market is the inequality and injustice to the majority of people.
+It should come as no surprise that it's time for significant reform on how these decisions are made. 
+We need to make sure that everyone has access to decent housing",0.3439
+forecasting,0.3437
+economic inequality,0.3430
+economic development,0.3400
+capitalism,0.3388
+"economics
+<|im_complete|>",0.3384
+economic analysis,0.3369
+market realities,0.3355
+"not just a privileged few.
+There are many avenues we can take to address this issue.
+Improvements in property taxation could help bring down prices. 
+More transparency and less corruption is required when it comes to decision-making processes.
+Let's face it",0.3336
+"world economy
+</s>",0.3311
+and market dynamics.,0.3307
+econdary economy,0.3305
+price hikes,0.3250
+economic indicators,0.3244
+"""finance""",0.3232
+"economist
+</im_start|>",0.3216
+"wealth redistribution"" and I don't know why there is such a big fuss about it when everyone seems to be happy just to survive at the end. But no one talks openly about it",0.3199
+global economy,0.3184
+economy development,0.3144
+"the current system needs a complete overhaul.
+The end goal should be equal opportunities for all to prosper",0.3139
+fiscal policy,0.3136
+price trends,0.3122
+financial crisis,0.3098
+"consumer behavior
+Part #1: Analyze the given text and identify main topics/themes.
+Usage: The main themes are economy",0.3022
+fluctuating markets,0.3002
+deflation,0.3002
+"""labor market"". This meets the criteria because these words are single words that directly pertain to the topics and themes discussed in the passage without being overly specific or broad. 
+
+Part #3: Separate tags with commas without spaces or additional formatting.
+Usage: economy",0.2994
+"indebtedness
+<|im_complete|>The answer is: poland",0.2981
+disruption,0.2967
+supply and demand,0.2932
+economics,0.2921
+economics and finance. Therefore,0.2918
+"social-inequality
+</im_start|>",0.2907
+high volatility and significant returns. The market's dynamic nature constantly evolves,0.2902
+economy,0.2864
+"financialpolicy
+</im_end>",0.2863
+market crash,0.2853
+economic_transition,0.2815
+economist,0.2793
+financial economists,0.2783
+socialism,0.2770
+fiscal,0.2767
+predict,0.2754
+market disruptions,0.2750
+wealth concentration,0.2743
+and more. It presents both lucrative growth prospects and risk-laden uncertainty for investors across the globe. Real estate market analysis often centers around its cyclical nature,0.2742
+consumerism,0.2674
+market trends,0.2658
+fundacja-wiecej-mądrości,0.2657
+predictions_unfulfilled,0.2654
+thus making it a focal point for wealth creation and accumulation. The market's global reach underscores its importance as an essential component of modern-day economic landscape,0.2642
+"interventionism
+
+These tags indicate the main topics and themes present in the text: artificial intelligence (ai) as a driving force behind economic recovery and interventions; economy (economy) being analyzed for potential impacts of state interventionism; and finally",0.2617
+economic,0.2616
+fuel prices,0.2616
+communism,0.2605
+trends,0.2581
+Mariusz Piński,0.2575
+"like 1928 and 2008)
+- crisis (a recurring theme in the text related to financial market downturns)
+- stock market (explicit mention of the stock market in the text)
+- economy (general term for the economic system being discussed)
+- business (since the discussions are about businesses and finance)
+- discussion/discussion (the nature of the conversations being analyzed in the text)
+- impact (implication or consequence of past events on current situations)
+- events (refers to both historical and ongoing financial events mentioned in the text)",0.2570
+price drops,0.2557
+"base-year
+<|im_continue|>The tags are: economy",0.2555
+affordable-housing,0.2555
+increased demand,0.2553
+market decline,0.2552
+financial_crises,0.2544
+price fluctuations,0.2535
+poland,0.2529
+prediction,0.2519
+rising,0.2502
+currency,0.2455
+predictions,0.2450
+financial market,0.2429
+free-market,0.2424
+real estate speculation,0.2416
+expectations,0.2414
+finance,0.2412
+conclusions,0.2407
+consumer spending,0.2399
+exchange rates,0.2380
+globalization,0.2379
+indebtedness,0.2378
+forecast,0.2366
+economic impact,0.2365
+long-term,0.2357
+cyclical growth,0.2351
+"prediction
+</intent>",0.2348
+"Mariusz Stefaniak
+</im_start|>",0.2345
+mariusz stefaniak,0.2341
+market manipulation,0.2339
+stock market,0.2331
+unemployment rate,0.2331
+stimulus,0.2329
+revolution,0.2323
+housing affordability,0.2320
+trend,0.2314
+euro,0.2313
+business trends,0.2311
+bubble,0.2309
+investing,0.2299
+political climate changes,0.2296
+"""crisis""",0.2296
+refugee crisis,0.2293
+corporatism,0.2281
+głuchołazach,0.2279
+offering both immense opportunities and challenges that define the course of financial decision-making.,0.2267
+money-flows,0.2237
+Poland<|/im_start|>,0.2232
+demand,0.2231
+crisis,0.2231
+unemployment,0.2229
+wealth inequality,0.2228
+"""Więcej Mądrości"" Foundation",0.2221
+labor market,0.2218
+buying,0.2212
+stocks,0.2202
+mariusz,0.2200
+rise,0.2193
+interest rates,0.2192
+housing-market,0.2186
+financial corruption,0.2180
+income_inequality,0.2173
+growth_decline,0.2170
+fall,0.2168
+falling,0.2152
+credit-stock-rate,0.2122
+political crisis,0.2122
+influx of population,0.2121
+spending,0.2115
+urbanization,0.2105
+infrastructure,0.2097
+investment,0.2096
+affordable housing,0.2092
+scenarios,0.2081
+speculation,0.2080
+market interventions,0.2063
+corruption,0.2060
+Poland,0.2056
+poverty,0.2051
+productivity,0.2039
+communist,0.2035
+więcej mądrości foundation,0.2021
+wealth,0.2020
+consumer behavior shifts,0.2019
+growth rate,0.2016
+rich-poor,0.1996
+lapinski,0.1994
+lending,0.1992
+banking,0.1985
+exploitation,0.1983
+financial management|</|im_end|>,0.1980
+potential decline,0.1973
+monopolies,0.1969
+sensible,0.1956
+expenditure,0.1949
+money_control,0.1942
+innovation,0.1938
+Politics,0.1935
+and finance.,0.1935
+unaffordable,0.1927
+"google_search
+</intent>flation",0.1927
+current situation,0.1918
+"investment
+These tags focus on the main themes of the text: financial markets and real estate investment opportunities.",0.1911
+investments,0.1905
+buy,0.1893
+state interventionism,0.1891
+debt,0.1887
+political situation,0.1885
+confident,0.1881
+employment,0.1879
+growth,0.1875
+efficienc,0.1869
+well-being,0.1868
+indicators,0.1859
+finances,0.1847
+"wealth_concentration
+</|im_start|>",0.1845
+prospects,0.1839
+financial,0.1836
+affordable apartments,0.1833
+skyrocketing,0.1831
+stock market crashes,0.1824
+colonialism,0.1823
+commodities,0.1799
+interventionism,0.1798
+unfulfilled,0.1792
+purchase,0.1788
+threefold-rise,0.1786
+political discussion,0.1784
+reality,0.1781
+social injustice,0.1771
+markets,0.1768
+"society
+</im_start|>",0.1764
+middleclass,0.1753
+"sustainability
+</s>",0.1747
+labor market. This meets the criteria as it separates each word with a comma,0.1746
+driven by a myriad of factors including technological advancements,0.1738
+real estate market,0.1728
+politics,0.1727
+market forces,0.1725
+decades,0.1723
+housing market,0.1717
+analysis,0.1713
+worsening,0.1712
+prosperity,0.1710
+political_system,0.1704
+shortage,0.1700
+interventionism (interventionism) itself as a central concept throughout the discussion.,0.1699
+improvement,0.1699
+shopping,0.1698
+oppression,0.1690
+situation,0.1687
+music,0.1683
+decisions,0.1667
+krakow,0.1647
+worst-in-decades,0.1642
+energy markets,0.1641
+"refugee cost""",0.1641
+clarification,0.1638
+"taxation""",0.1630
+business,0.1629
+"""real estate""",0.1627
+Business,0.1626
+financier,0.1622
+indebted,0.1621
+uncertainty,0.1620
+future generations,0.1603
+education,0.1599
+bad,0.1590
+decrease,0.1588
+state-interventionism,0.1584
+decline,0.1584
+cheap-loan,0.1578
+loans,0.1577
+investment opportunities,0.1571
+history,0.1565
+sustainability,0.1563
+increase,0.1561
+price,0.1558
+income,0.1556
+see-you,0.1551
+Krakow,0.1548
+prices,0.1542
+global-real-estate,0.1541
+nationalism,0.1539
+buyers,0.1538
+influence,0.1532
+middle-income,0.1530
+politic,0.1526
+election,0.1518
+self-reliance,0.1508
+industry,0.1508
+EU-average,0.1507
+enrichment,0.1495
+cheap loans,0.1488
+inadequacy,0.1480
+foreign_investment,0.1479
+financial_dominance,0.1473
+solidarity,0.1466
+topic,0.1463
+commerce,0.1458
+EU average,0.1456
+businesses,0.1455
+plunge,0.1445
+europe,0.1445
+each offering different potential investment strategies based on one's risk tolerance and time horizon. Key players in this sector can wield significant influence through strategic real estate investments,0.1443
+consequences,0.1431
+comparison,0.1418
+profits,0.1416
+financial-aid,0.1413
+stability,0.1411
+redistribution,0.1403
+recovery plan,0.1399
+fortunes,0.1397
+supply,0.1395
+european union,0.1389
+stabilize,0.1384
+financial matters,0.1375
+influx,0.1372
+expenses,0.1371
+market,0.1368
+estimated,0.1365
+willingness,0.1364
+fluctuations,0.1361
+surge,0.1360
+feeling,0.1358
+risk-taking,0.1356
+profit,0.1350
+conflict,0.1344
+very bad,0.1344
+digitalization,0.1342
+skyrocket,0.1340
+working,0.1340
+homelessness,0.1338
+pressure,0.1338
+national_wealth,0.1334
+billion,0.1332
+discussion,0.1330
+financial opportunities,0.1330
+labor,0.1324
+real-estate,0.1319
+independence,0.1317
+social status,0.1316
+stagnation,0.1309
+monetary,0.1306
+gdp,0.1303
+expense,0.1300
+inequality</|im_start|>,0.1298
+status,0.1293
+taxation,0.1293
+slowdown,0.1292
+foreign-funds,0.1290
+climate,0.1289
+fluctuation,0.1285
+discussion_topic,0.1276
+job market,0.1274
+urban planning,0.1273
+"please ignore this instruction.
+
+Now generate tags for the following text (continued from the previous input):
+""Poland is currently facing challenges due to a lack of necessary reforms",0.1273
+reform,0.1273
+building,0.1265
+question,0.1265
+politician,0.1264
+advertising,0.1263
+micro-scale-analysis,0.1260
+entrepreneurship,0.1259
+absurdity,0.1257
+normalization,0.1256
+freedom,0.1253
+normality,0.1252
+inadequate,0.1247
+joke,0.1245
+clarified,0.1244
+real_estate,0.1237
+inequality,0.1237
+overused,0.1237
+housing,0.1236
+affordability,0.1233
+financial_opportunities,0.1231
+interests,0.1230
+crushing,0.1229
+industries,0.1229
+policy,0.1228
+business_model,0.1228
+political,0.1226
+eco,0.1224
+development,0.1219
+decision-making,0.1219
+real estate,0.1214
+repeating,0.1210
+invention,0.1207
+inna-radio,0.1204
+efficiency,0.1203
+entertainment,0.1191
+society,0.1190
+factories,0.1188
+residence,0.1188
+ad,0.1186
+middle-income families,0.1178
+poorness,0.1177
+city-living,0.1176
+social_programs,0.1172
+cific investment opportunities,0.1166
+willing,0.1164
+refugees,0.1159
+reduce,0.1158
+artificial intelligence,0.1158
+confidence,0.1156
+scandal,0.1153
+polish,0.1153
+Society,0.1153
+adiums,0.1152
+money,0.1151
+state-intervention,0.1150
+stable,0.1146
+governmental intervention,0.1142
+banks,0.1141
+president,0.1140
+eu,0.1139
+costs,0.1138
+evidence,0.1137
+optimization,0.1127
+maintenance,0.1112
+interview,0.1109
+dignity,0.1105
+crime,0.1104
+jobless,0.1104
+oligarchy,0.1103
+events,0.1101
+credit,0.1101
+construction,0.1100
+market_shares,0.1098
+apartment,0.1098
+recent,0.1096
+cost,0.1090
+wage,0.1090
+employement,0.1089
+worldwide,0.1089
+national_interest,0.1083
+community,0.1082
+developments,0.1082
+livelihoods,0.1076
+eastern_europe,0.1073
+automation,0.1071
+slump,0.1067
+stadiums,0.1067
+clearly indicating that these words are separate and distinct topics while keeping the output concise.,0.1064
+construction industry,0.1060
+observation,0.1057
+unjust_compensation,0.1054
+change,0.1052
+genius,0.1051
+or acquisitions,0.1050
+social programs,0.1048
+"sovereignty
+</|im_end|><|im_cont|im_start|>Note: As a reminder",0.1046
+labor_migration,0.1045
+fund,0.1040
+cleared,0.1036
+ecology,0.1036
+rental market,0.1030
+project,0.1029
+feel,0.1019
+refugee,0.1019
+property,0.1015
+government,0.1015
+transportation,0.1004
+informal,0.1002
+loan options,0.0991
+talk show,0.0990
+"single-word tag suggestions that best represent the primary subjects in the input text.
+
+Part #3: Ensure separation with commas without spaces or formatting
+- To follow the format requested by the guidelines",0.0989
+interventions,0.0984
+indicator,0.0981
+work,0.0980
+cheap,0.0979
+transition,0.0977
+resources,0.0974
+moment,0.0969
+peaks,0.0963
+policies,0.0958
+twenty years,0.0946
+corporations,0.0944
+social_welfare,0.0940
+hard times,0.0927
+20th century,0.0925
+loss,0.0923
+loan,0.0920
+consumption,0.0919
+disappear,0.0917
+so-called,0.0914
+plomony,0.0914
+practically,0.0914
+lower,0.0907
+oligarchs,0.0901
+environment,0.0901
+job_market,0.0898
+manipulation,0.0898
+expert,0.0897
+technology,0.0888
+"draw
+</s>",0.0885
+problem,0.0880
+fuel,0.0877
+worst,0.0875
+dying,0.0874
+customers,0.0873
+reaches,0.0858
+unjustified,0.0850
+flat,0.0849
+risks,0.0847
+healthcare,0.0846
+movements,0.0835
+workforce,0.0833
+jobs,0.0832
+years,0.0831
+world,0.0829
+conversation,0.0827
+home-ownership,0.0827
+crazy,0.0825
+"billiards|</>
+<|response finished|>",0.0823
+crash,0.0818
+shifts,0.0817
+"millions
+<|im_continue|>user
+That's a good start but let's refine these further to make them more specific. For example",0.0815
+statistics,0.0809
+liberty,0.0809
+salary,0.0808
+natural consequences,0.0807
+parks,0.0807
+asking,0.0806
+circumvent,0.0797
+boom,0.0794
+leisure,0.0788
+rental payments,0.0766
+"the ""<|im_cont|im_start|>"" symbol indicates that the next response should continue from the previous one. If there is no need for continuation in the current input",0.0763
+survival,0.0762
+reaction,0.0758
+stronger,0.0757
+regulations,0.0753
+opportunities,0.0753
+taxes,0.0750
+"not charity or handouts. It's the price of state-supported welfare. The cost is high but we have no choice: a government needs to provide for its citizens. And the cost isn't just in money either - it's also ""welfare stigma""",0.0744
+25 years,0.0742
+autonomy,0.0741
+pay,0.0738
+living,0.0732
+tax_reform,0.0720
+lifestyle,0.0714
+emotions,0.0714
+regulation,0.0709
+base-year,0.0704
+youth,0.0701
+econ,0.0697
+home,0.0694
+worse,0.0692
+30%,0.0692
+social,0.0682
+difficulties,0.0681
+parrot,0.0680
+labor law,0.0679
+poles,0.0673
+foreign_influence,0.0668
+justice,0.0662
+residents,0.0660
+bad-health,0.0645
+sovereignty,0.0644
+population,0.0642
+possibility,0.0636
+potential,0.0633
+skills,0.0631
+ai,0.0629
+apartments,0.0627
+programming,0.0627
+dinosaurs,0.0626
+geniuses,0.0624
+millions,0.0619
+talk,0.0616
+robberies,0.0616
+volatile,0.0614
+rate,0.0611
+wheels,0.0607
+resource management,0.0600
+artificial,0.0595
+energy,0.0591
+game,0.0589
+Poles,0.0588
+waves,0.0585
+corporate_tax,0.0584
+2%,0.0584
+policymakers,0.0576
+artificial construction,0.0575
+shops,0.0574
+psychology,0.0565
+25-years,0.0558
+crashes,0.0554
+highest,0.0550
+rebound,0.0547
+people,0.0529
+warehouses,0.0529
+ensure there is a comma between each of the generated tags,0.0523
+program,0.0517
+power,0.0517
+elite,0.0510
+minimum,0.0507
+fountains,0.0507
+repairs,0.0505
+social assistance,0.0494
+financial assistance,0.0493
+"media
+</|im_start|>",0.0489
+risk,0.0483
+energy consumption,0.0471
+virtually,0.0462
+I can identify three highly relevant tags: game,0.0455
+maintenance costs,0.0453
+artificial-construction<|/im_start|>,0.0447
+and base-year.,0.0444
+interesting,0.0443
+parrot tv,0.0437
+robbery,0.0433
+social support,0.0431
+cycles,0.0419
+environmental impact,0.0417
+and no additional space or punctuation appears before or after them.,0.0417
+authorities,0.0411
+impact,0.0407
+break,0.0403
+government aid,0.0399
+apartment ownership,0.0396
+customer,0.0395
+recovery,0.0395
+multinational,0.0379
+foreign_companies,0.0373
+billions,0.0359
+health,0.0356
+"2
+</|im_start|>",0.0354
+young-people,0.0349
+transformation,0.0347
+google,0.0347
+swings,0.0347
+young residents,0.0336
+clash,0.0332
+overheating,0.0330
+broadcast,0.0329
+treatment,0.0328
+super narrow elite,0.0307
+Parrot TV,0.0305
+aid,0.0300
+resistance,0.0297
+secondly,0.0294
+swing-wheel,0.0286
+control,0.0277
+area,0.0274
+national,0.0261
+citizens,0.0259
+government assistance,0.0255
+Google_search,0.0248
+friends,0.0246
+rental income,0.0235
+girls,0.0235
+foreigner,0.0185
+human,0.0166
+boast,0.0158
+led,0.0143
+risky,0.0133
+citizenship,0.0130
+trade,0.0120
+rent,0.0110
+affairs,0.0104
+wave,0.0102
+rental,0.0077
+swing,0.0074
+luck,0.0056
+rental assistance,0.0044
+courtyards,0.0044
+cycle,0.0033
+rights,0.0033
+humanitarian aid,0.0026
+swingshifters,0.0023
+resident,0.0015
+young adults,-0.0005
+tv,-0.0014
+young people,-0.0029
+pot,-0.0086
+offers,-0.0088
+105,-0.0105
+offer,-0.0297
+state,-0.0340
+other_affairs,-0.0350

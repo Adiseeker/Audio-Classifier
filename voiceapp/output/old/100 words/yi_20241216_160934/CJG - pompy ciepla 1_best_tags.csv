@@ -1,0 +1,57 @@
+tag_name,cosine_similarity
+large company,0.6319
+heating industry developments,0.5753
+giant corporations,0.5271
+political financing,0.4906
+mega-rich-individuals,0.4872
+"eldorado
+</s>
+The text discusses climate policies and their impact on the heating industry in Poland. The main topics include climate change initiatives like the introduction of a ""climate package""; the development of the heat pump market; how it affects wealth distribution among individuals; discussions about the growth potential of these green energy solutions; and finally",0.4779
+heat pump,0.4638
+"the idea that this represents just the beginning of untapped opportunities or an ""Eldorado."" 
+
+The given output tags are relevant to the themes present in the text as they cover climate policies",0.4519
+Corruption,0.4443
+multinational corporations,0.4346
+corruption,0.4069
+renewable energy,0.3849
+and the overall concept of emerging green business opportunities.,0.3737
+"green initiative
+</|im_start|>",0.3569
+heatpumps,0.3567
+industrygrowth,0.3564
+heatpump,0.3532
+environmental-impact,0.3413
+environmentalpolicy,0.3130
+innovation,0.3043
+regulatory-framework,0.3009
+global politics.,0.3003
+invitation,0.2990
+climate,0.2854
+polandregulations,0.2779
+media manipulation,0.2777
+heat,0.2566
+climate,0.2534
+accidental-innovation,0.2466
+investment,0.2368
+break,0.2302
+regulations,0.2180
+package,0.2151
+subject,0.2101
+technology,0.1924
+technology,0.1912
+pump,0.1827
+bribery,0.1696
+wealthdistribution,0.1664
+efficiency,0.1651
+environment,0.1606
+environmental issues,0.1555
+public sentiment,0.1538
+tech-giants,0.1413
+wealth distribution concerns,0.1274
+child welfare,0.1185
+economic disparity,0.1133
+world-changing,0.1125
+future concerns,0.0733
+power dynamics,0.0485
+energy,0.0370

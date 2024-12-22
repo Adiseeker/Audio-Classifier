@@ -1,0 +1,85 @@
+tag_name,cosine_similarity
+russia,0.4835
+war,0.4594
+armsindustry,0.4398
+currency,0.4380
+mafia,0.4305
+national interests,0.4236
+corruption,0.4123
+russia,0.4118
+russia,0.4100
+war,0.4030
+war,0.3903
+us_intervention,0.3900
+corruption,0.3883
+economic power,0.3721
+economics,0.3667
+reconstruction,0.3538
+foreign_policy,0.3437
+genocide,0.3424
+global politics,0.3363
+global power,0.3308
+societal impact,0.3295
+charity,0.3269
+investing,0.3153
+economy,0.3135
+economy,0.3124
+war,0.3079
+war,0.2979
+armsTrade,0.2904
+war,0.2881
+economy,0.2881
+economy,0.2820
+globalization,0.2806
+gold,0.2805
+economy,0.2765
+economics,0.2681
+finance,0.2680
+economic power,0.2664
+economy,0.2655
+history,0.2602
+economy,0.2590
+investment,0.2490
+war,0.2472
+conflict,0.2403
+government,0.2285
+economy,0.2279
+finance,0.2256
+gold,0.2198
+costs,0.2176
+politics,0.2064
+fraud,0.2037
+politics,0.1991
+political_scandal,0.1980
+morality,0.1925
+economy,0.1922
+politics,0.1917
+corporate accountability,0.1800
+finance,0.1790
+conflict,0.1756
+politics,0.1709
+economy,0.1702
+economic_decisions,0.1631
+politics,0.1565
+finance,0.1529
+history,0.1511
+energy,0.1499
+rivalry,0.1477
+power,0.1397
+conflict,0.1394
+deception,0.1365
+finance,0.1330
+conflict,0.1281
+finance,0.1247
+energy,0.1227
+revolution,0.0969
+military_aid,0.0881
+materials,0.0858
+military,0.0840
+power,0.0790
+nuclear,0.0787
+politics,0.0659
+politics,0.0643
+energy,0.0466
+politics,0.0217
+finance,-0.0715

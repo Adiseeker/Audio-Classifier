@@ -1,0 +1,44 @@
+tag_name,cosine_similarity
+poland,0.4426
+Poland,0.4214
+inflation,0.4026
+economy,0.3245
+currency,0.3103
+economics,0.3002
+investment,0.2656
+deflation,0.2626
+finance,0.2447
+crisis,0.1957
+interestrates,0.1871
+growth,0.1866
+gold,0.1848
+centralbank,0.1832
+debt,0.1775
+banking,0.1768
+interest,0.1712
+bank,0.1692
+Mr. Mariusz,0.1683
+business,0.1622
+monetary,0.1568
+balance,0.1541
+politics,0.1385
+speech,0.1383
+entrepreneurship,0.1366
+rates,0.1329
+voters,0.1193
+stability,0.1171
+statistics,0.1107
+development,0.1079
+fuel,0.1044
+prices,0.0770
+vote,0.0705
+energy,0.0697
+intermission,0.0671
+break,0.0663
+a moment of break.,0.0656
+risk,0.0635
+None,0.0494
+rest,0.0399
+No relevant tags to extract,0.0344
+pause,0.0190
+trade,0.0080

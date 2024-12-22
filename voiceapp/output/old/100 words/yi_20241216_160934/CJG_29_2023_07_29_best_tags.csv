@@ -1,0 +1,350 @@
+tag_name,cosine_similarity
+""" many will answer ""yes."" We are talking about a country whose GDP contracted by more than half since the outbreak of the coronavirus pandemic. The situation has spiraled out of control and there seems to be no end in sight. It's a complex issue with multiple layers of hardship that affect every aspect of life in Poland. All these problems are deeply interconnected",0.6781
+currency reserves,0.5623
+bankruptcy,0.5041
+polish government,0.4994
+poland,0.4885
+poland,0.4764
+president_więcej_mądrości_foundation,0.4690
+economy downturn,0.4659
+china,0.4514
+poland,0.4487
+china,0.4433
+bankruptcy,0.4429
+poverty rate,0.4412
+poland,0.4367
+poland,0.4367
+china,0.4336
+poverty rate,0.4328
+economy,0.4287
+debt,0.4246
+poverty,0.4238
+extreme poverty,0.4234
+russian people,0.4230
+poland,0.4171
+ukrainian-crisis,0.4169
+debt,0.4136
+poland,0.4117
+poland,0.4092
+debt,0.4062
+poland,0.3981
+praising_putin,0.3932
+debt,0.3851
+foreign corporations,0.3847
+russian_population,0.3837
+russia,0.3784
+poland,0.3738
+russia,0.3718
+russia,0.3702
+debt,0.3655
+bankruptcy,0.3611
+debt,0.3559
+"making it clear that the country is facing a crisis unlike anything seen before. This economic state of affairs leaves little room for negotiation or debate about the future direction of the nation. The question now becomes not just about survival but also about how to navigate through this unprecedented disaster and rebuild a better economy for the future.
+
+Tags: bankruptcy",0.3553
+economic collapse,0.3483
+poland,0.3385
+scandal,0.3373
+"pandemic<|/im_start|>
+The answer is: 
+bankruptcy",0.3302
+finance,0.3287
+financial,0.3273
+humanitarian-aid-to-ukraine,0.3242
+debt,0.3238
+debt,0.3237
+economic growth,0.3228
+Poland,0.3225
+economy,0.3221
+state bankruptcy,0.3210
+debt,0.3171
+poverty,0.3164
+banana republic,0.3164
+living standards,0.3135
+finance,0.3131
+democracy,0.3063
+debt,0.3057
+debt,0.3057
+economy,0.3044
+economy,0.3044
+ukraine,0.3035
+mariusz_stefaniak,0.3035
+finance,0.3004
+economy,0.2971
+independence,0.2950
+crisis,0.2911
+refugee-aid,0.2906
+europe,0.2902
+globalization,0.2891
+china,0.2888
+economy,0.2876
+communism,0.2864
+debt,0.2864
+the_end_of_the_world,0.2860
+social-welfare,0.2841
+living conditions,0.2840
+economic condition,0.2812
+poverty,0.2806
+bottom,0.2774
+zero,0.2757
+economist,0.2739
+debt,0.2715
+ukraine,0.2692
+nation-state,0.2632
+economy,0.2621
+borrowing,0.2606
+capitalism,0.2587
+kowalski,0.2568
+economics,0.2559
+government,0.2505
+economy,0.2500
+polish,0.2464
+financier,0.2463
+economy,0.2459
+poverty,0.2450
+foreign-aid,0.2448
+economic-disparities,0.2447
+food shortage,0.2446
+economy,0.2433
+europe,0.2431
+europe,0.2428
+political-process,0.2415
+political-system,0.2403
+outside_moscow_petersburg,0.2403
+governance,0.2387
+governance,0.2387
+and animal. These words are indicative of a discussion about survival,0.2382
+economist_financier,0.2376
+statistic,0.2375
+europe,0.2370
+crisis,0.2358
+corruption,0.2353
+country,0.2336
+economic analysis,0.2329
+sri lanka,0.2327
+environmental-collapse,0.2325
+communism,0.2322
+industry,0.2319
+poverty,0.2301
+sovereignty,0.2296
+cure,0.2295
+sejm,0.2293
+poverty,0.2292
+aid-dependence,0.2281
+mariusz,0.2281
+unemployment,0.2274
+niak,0.2208
+zlotys,0.2207
+slavery,0.2200
+bigger-problem,0.2195
+bigger-problem,0.2195
+government,0.2158
+unemployment,0.2155
+economically,0.2155
+economically,0.2155
+emigration,0.2153
+united-states,0.2148
+government-efficiency,0.2143
+social minimum,0.2136
+inflation,0.2135
+inflation,0.2135
+real estate,0.2132
+crisis,0.2120
+crisis,0.2120
+society,0.2090
+eu,0.2087
+propaganda,0.2076
+economy,0.2039
+statistics,0.2012
+statistics,0.2012
+collapse,0.1988
+wealth,0.1984
+health,0.1960
+"free-country
+</|im_start|>The tags for the given text are: government",0.1948
+music,0.1945
+retirement,0.1940
+centers_with_super_rich,0.1939
+crisis,0.1896
+protest,0.1872
+economist,0.1863
+citizens,0.1862
+reality,0.1860
+self-government,0.1841
+USA,0.1832
+finance,0.1818
+impeachment,0.1790
+global-responsibility,0.1788
+economy,0.1787
+government,0.1783
+nationalism,0.1770
+citizen,0.1765
+economy,0.1754
+slave plant,0.1729
+economy,0.1724
+conclusions,0.1713
+world,0.1712
+humanitarian-aid,0.1708
+crisis,0.1702
+privatization,0.1681
+pandemic,0.1665
+development,0.1663
+financier,0.1652
+economy,0.1628
+russia,0.1626
+aid-assistance,0.1620
+justice,0.1618
+structure,0.1616
+economy,0.1606
+problem,0.1589
+passport,0.1586
+"2022
+</d-im_end>",0.1571
+"animal
+</s>
+This example output contains three tags that could be highly relevant to the main themes and topics in the given text: natural",0.1565
+state,0.1564
+globalization,0.1557
+"well-being
+</|im_start|>",0.1540
+competition,0.1531
+president,0.1527
+person,0.1513
+social-justice,0.1504
+restructuring,0.1499
+crises,0.1498
+europe,0.1488
+conflict,0.1433
+mariusz,0.1423
+strong,0.1422
+political,0.1411
+country,0.1411
+health care,0.1406
+inequality,0.1403
+finance,0.1402
+political-strife,0.1401
+lean,0.1391
+media-radio,0.1386
+healthcare,0.1353
+data,0.1351
+brutality,0.1342
+aid-distribution,0.1339
+"politics
+</d>",0.1321
+africa,0.1320
+food,0.1319
+financial-management,0.1315
+what_going_on,0.1301
+amazing,0.1293
+growth,0.1287
+national,0.1286
+budget,0.1284
+government-control,0.1273
+diplomacy,0.1252
+diplomacy,0.1252
+ordinary_people,0.1250
+budget,0.1237
+policy,0.1229
+government,0.1226
+military,0.1217
+politics,0.1202
+development,0.1176
+poles,0.1168
+humanitarian-relief,0.1163
+weak,0.1161
+finance,0.1159
+immigration,0.1120
+united states,0.1120
+latin,0.1120
+lies,0.1119
+lies,0.1119
+international-relations,0.1118
+cia,0.1114
+administration,0.1113
+future,0.1108
+bloomberg,0.1088
+coal,0.1074
+coal,0.1074
+politics,0.1053
+self-cleaning,0.1023
+free-country.,0.1006
+decline,0.0993
+calculation,0.0975
+crisis,0.0970
+statistics,0.0938
+banking,0.0931
+individuals,0.0929
+fuel,0.0925
+comparison,0.0891
+cleansing,0.0890
+development,0.0882
+and perhaps evolution among animals. The other parts of speech or additional context (e.g.,0.0877
+censorship,0.0873
+economy,0.0870
+end,0.0869
+numbers,0.0866
+natural,0.0864
+mrs,0.0859
+natural,0.0849
+21st century,0.0836
+broadcast,0.0829
+gdp,0.0822
+human-rights,0.0810
+fbi,0.0809
+relief-efforts,0.0766
+history,0.0764
+shock,0.0763
+Potential,0.0755
+history,0.0737
+international,0.0737
+global,0.0733
+prepositions or articles) do not significantly contribute to determining these three major themes.,0.0697
+human-rights,0.0691
+"early 90s
+</explanation>
+</prediction>",0.0690
+leadership,0.0689
+"statistics
+<|analyzer_end|",0.0683
+selection,0.0675
+selection,0.0675
+comparison,0.0660
+medicine,0.0658
+second_break,0.0643
+sick,0.0633
+choice,0.0614
+comparison,0.0594
+wisdom,0.0593
+political,0.0580
+company,0.0578
+trade,0.0566
+assistance,0.0550
+payoff,0.0543
+payoff,0.0543
+finance,0.0542
+brutal,0.0512
+game,0.0507
+crisis,0.0504
+access,0.0502
+autonomy,0.0476
+media,0.0461
+no,0.0456
+pathologies,0.0440
+continent,0.0422
+foundation,0.0399
+discussion,0.0395
+global standard,0.0330
+control,0.0204
+comparing_to_what_was,0.0189
+power,0.0164
+energy,0.0034
+gdp contraction,0.0023
+gdp contraction,0.0023
+support,0.0017
+satisfaction,-0.0042
+access,-0.0056
+bforeast,-0.0214
+neighbors,-0.0259
+politics,-0.0331
+fundamental,-0.0696
+special-services,-0.0951

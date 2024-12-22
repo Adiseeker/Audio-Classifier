@@ -1,0 +1,13 @@
+tag_name,cosine_similarity
+corruption,0.5068
+fraud,0.4840
+crime,0.4452
+scams,0.3879
+justice,0.3728
+government,0.3610
+mafia,0.3349
+police,0.3329
+scam,0.3114
+economy,0.2768
+inflation,0.2178
+regulation,0.2084

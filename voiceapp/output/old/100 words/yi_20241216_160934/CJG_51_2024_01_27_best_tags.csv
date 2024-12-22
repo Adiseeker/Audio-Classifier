@@ -1,0 +1,406 @@
+tag_name,cosine_similarity
+polish post office,0.6928
+"polish post office crisis
+tags: mariusz stefaniak",0.6531
+Polish interests,0.6169
+polishpostoffice,0.6004
+poland,0.5680
+postal service,0.5634
+it mentions a specific example (the Post newspaper) and the context of its creation and current state,0.5119
+"as the text mentions ""Post Office"" multiple times and questions its efficiency. The mention of handling matters rationally also points to concerns about improving organizational methods or services.
+Part #2: Only provide tags",0.5095
+"postal system
+</|im_start|>",0.4671
+poland,0.4657
+poland,0.4657
+which implies discussing strategies for communication. Postal service is another key theme,0.4544
+electronic mail,0.4465
+communism,0.4387
+postal service,0.4374
+postal service,0.4295
+mariusz stefaniak,0.4239
+industry,0.4233
+bear_rights,0.4189
+Post,0.4147
+privatization,0.4037
+minister of state assets,0.4018
+monopoly,0.4017
+managers,0.3998
+poland,0.3923
+corruption,0.3901
+loss of funds,0.3888
+postal-service,0.3883
+innovation,0.3870
+economy,0.3855
+postoffice,0.3788
+necessity of certain institutions,0.3722
+poland,0.3671
+Balcerowicz,0.3668
+email delivery,0.3655
+postal-service,0.3642
+postal-service,0.3642
+postal-service,0.3642
+poland,0.3619
+poland,0.3591
+company,0.3569
+thieves,0.3569
+management,0.3564
+management,0.3564
+poland,0.3538
+embezzlement,0.3511
+property rights,0.3501
+postbankruptcy,0.3389
+top class managers,0.3358
+corruption,0.3343
+profits,0.3338
+radio,0.3322
+corruption,0.3267
+transportation,0.3264
+economy,0.3254
+post office,0.3239
+politicians,0.3199
+profit,0.3166
+investment,0.3118
+więcejmudrości,0.3113
+money,0.3086
+political games,0.3075
+"testimony
+</nowiki>
+This text discusses various topics such as ""economic"" and ""political transformations",0.3059
+""" ""officials vs. state entities",0.3005
+monopolists,0.2992
+government-informatization,0.2981
+real-estate,0.2937
+entrepreneurship,0.2935
+productivity,0.2919
+government spending,0.2899
+government,0.2896
+businessoperations,0.2879
+privatization,0.2876
+corruption,0.2868
+prison,0.2863
+criminal-organizations,0.2857
+bear,0.2850
+competition,0.2802
+Porsche drivers,0.2791
+bear,0.2774
+digital-delivery,0.2752
+ship,0.2744
+scandals,0.2739
+multi-million assets,0.2731
+courier,0.2695
+investigation,0.2684
+postal,0.2671
+crime,0.2659
+business,0.2649
+recording,0.2648
+immigration,0.2647
+government policy,0.2644
+social-inequality,0.2639
+management,0.2623
+telecommunications,0.2596
+politics,0.2588
+post office,0.2577
+corruption,0.2545
+communication,0.2539
+Grodzisk-Mazowiecki,0.2522
+political-system,0.2520
+fiscal-mismanagement,0.2516
+regulations,0.2503
+financial,0.2475
+courier service,0.2475
+więcej mądrości foundation,0.2471
+rents,0.2468
+postal service,0.2462
+economics,0.2460
+consumer-spendings,0.2443
+real_estate_management,0.2439
+market,0.2433
+post,0.2431
+finance,0.2422
+restructuring,0.2421
+state ownership,0.2420
+government,0.2392
+post,0.2377
+contracts,0.2377
+weight loss,0.2359
+mariuszstefaniak,0.2343
+parrot tv,0.2333
+money,0.2326
+scandal,0.2310
+communication industry,0.2301
+visit-our,0.2290
+monopoly,0.2284
+social change,0.2268
+public-finance,0.2267
+entrepreneurship,0.2262
+store,0.2255
+uneducated society,0.2247
+economic,0.2243
+economic,0.2243
+zlotys,0.2235
+economic development,0.2234
+management,0.2228
+"bear
+<|end_of_text|>
+<|im_continue|>user
+Can you explain these tags in simpler terms? These are industry-specific jargon.",0.2222
+postage,0.2216
+economist,0.2209
+communist,0.2204
+nationality,0.2184
+"lowcost
+decisions",0.2184
+website,0.2173
+treasury,0.2165
+money,0.2164
+Porsche,0.2162
+financial sector,0.2157
+development,0.2154
+plans,0.2144
+government,0.2140
+and the possibility of change in laws. Based on these themes,0.2131
+monopoly,0.2128
+enterprise,0.2113
+taxation,0.2092
+bankruptcy,0.2090
+employment,0.2085
+accounting,0.2079
+local-markets,0.2075
+economic crime,0.2072
+next step,0.2070
+logistics,0.2062
+package delivery,0.2056
+economy,0.2010
+politics,0.2001
+business,0.1997
+commerce,0.1980
+Poles,0.1979
+big-bears,0.1970
+company_sale,0.1969
+unemployment,0.1968
+travel,0.1964
+economy,0.1961
+labor,0.1941
+ownership,0.1916
+corruption,0.1907
+porsche,0.1905
+decisions,0.1905
+cost,0.1904
+criminal,0.1889
+theft,0.1886
+self-release,0.1885
+social,0.1872
+services,0.1867
+industry development,0.1858
+political,0.1847
+privatization,0.1819
+music,0.1814
+agriculture,0.1813
+bus,0.1810
+civilization,0.1807
+The given text discusses topics related to traditional practices,0.1805
+"here are the relevant tags:
+
+1. Tradition
+2. State responsibility
+3. Act Change",0.1795
+religion,0.1794
+system,0.1783
+""" and ""technology's role in these changes."" Additionally",0.1776
+arrival,0.1774
+government,0.1766
+officials,0.1766
+politics,0.1760
+economy,0.1746
+finance,0.1746
+economist,0.1736
+wallet,0.1734
+liberation,0.1732
+stock market,0.1727
+cars,0.1716
+computerization,0.1713
+financial crisis,0.1709
+deception,0.1694
+scandal,0.1684
+asset management,0.1677
+municipality,0.1654
+efficiency,0.1643
+politicians,0.1635
+crime,0.1622
+opportunity,0.1622
+media,0.1621
+thief's,0.1602
+business,0.1570
+allocation,0.1540
+technology,0.1532
+political arm,0.1525
+economics,0.1518
+transformation,0.1515
+losers,0.1505
+"rural-areas
+Part #1: Analyze the text for main topics and themes.
+Usage: Communication is a major theme in this text as it discusses how things should be handled rationally and improved",0.1496
+profitability,0.1492
+mulynyc,0.1488
+sustainability,0.1486
+honesty,0.1484
+trade companies,0.1481
+official,0.1474
+economy,0.1470
+power abuse,0.1468
+mystery,0.1460
+timeliness,0.1455
+board,0.1453
+social,0.1452
+pgrs,0.1426
+aging-population,0.1419
+suggestion,0.1417
+owner,0.1409
+property,0.1404
+state,0.1403
+crisis,0.1403
+cancel,0.1392
+communication,0.1391
+plundering,0.1378
+"the response ""communication",0.1364
+"the response ""communication",0.1364
+profits,0.1359
+transforming industries,0.1343
+real-estate,0.1342
+scanners,0.1324
+company,0.1312
+thief,0.1297
+friends,0.1289
+interest.,0.1287
+deliverytime,0.1282
+wealth,0.1279
+interest rates,0.1277
+credit,0.1272
+institution,0.1266
+topics,0.1247
+hall,0.1240
+legal,0.1236
+growth,0.1234
+money,0.1218
+management,0.1202
+technology,0.1202
+interest,0.1193
+environment,0.1192
+commerce,0.1183
+technology,0.1146
+loss,0.1133
+communication,0.1120
+state<!-- end similarity -->,0.1113
+security concerns,0.1104
+conversation,0.1099
+officials,0.1097
+racism,0.1096
+protocol,0.1095
+impossible,0.1076
+growth mindset.,0.1065
+communication,0.1065
+politics,0.1056
+pandemic,0.1048
+billion,0.1038
+efficient-services,0.1032
+"interview
+tags: financial economist",0.1029
+listeners,0.1024
+digital-transformation,0.1005
+incompetence,0.1004
+finance,0.1003
+perceive,0.0993
+losses,0.0987
+freedom,0.0971
+helicopters,0.0964
+revolution,0.0920
+commercial,0.0915
+economics,0.0908
+current,0.0907
+development,0.0901
+"efficiency"" meets all criteria as it has no spaces between the items and uses a comma to separate each tag",0.0894
+"efficiency"" meets these criteria as each tag is a single word and the list only contains three tags. These words encapsulate the main themes in the text.
+Part #3: Separate the tags with commas without spaces or additional formatting.
+Usage: In this case",0.0891
+exist,0.0890
+change,0.0889
+bear,0.0880
+president,0.0877
+operating,0.0866
+healthcare,0.0863
+"which further supports the relevance of these tags.
+</nowiki>",0.0852
+transformation,0.0843
+email-subscription,0.0840
+ruin,0.0839
+figure,0.0837
+post office,0.0834
+finalization,0.0819
+making it clear that these are individual words representing main themes in the text.,0.0818
+efficiency,0.0816
+transportation,0.0814
+finance,0.0804
+adaptability,0.0802
+risk,0.0789
+example,0.0786
+circumstances,0.0777
+treat,0.0769
+state,0.0766
+bear,0.0758
+supervision,0.0743
+tag: digitalization,0.0738
+management,0.0708
+shadow,0.0702
+control,0.0697
+"investigative journalism
+</correct_answer>
+<|im_process_results|><|incorrect_guesses|><|wrong_answer|",0.0676
+regulation,0.0653
+share,0.0646
+representative,0.0628
+store,0.0616
+ruin,0.0614
+queues,0.0604
+state,0.0572
+party,0.0572
+change,0.0562
+independence,0.0557
+list,0.0554
+aging,0.0545
+helicopters,0.0527
+evaporation,0.0527
+difference,0.0519
+supervisory,0.0489
+perception,0.0438
+symbol,0.0433
+genius,0.0425
+police-crime,0.0411
+society,0.0405
+principle,0.0405
+politics,0.0347
+helicopter,0.0341
+phenomenal,0.0329
+porsche,0.0314
+free,0.0308
+"not phrases or sentences.
+Usage: In this sample input",0.0305
+foundation,0.0294
+teenage-years,0.0288
+crisis,0.0275
+illusion,0.0263
+bag,0.0239
+bag,0.0239
+short,0.0212
+communication,0.0199
+action,0.0197
+transformation,0.0139
+influence,0.0054
+differently,0.0018
+control,-0.0002
+quintessence,-0.0054
+unique,-0.0073
+different,-0.0112
+strange,-0.0245
+hearing,-0.0551
+meritorious,-0.0580

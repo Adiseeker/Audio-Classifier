@@ -1,0 +1,109 @@
+tag_name,cosine_similarity
+virus prevention,0.5934
+vaccines,0.5578
+vaccines,0.5188
+virus,0.5176
+virus,0.5121
+virus,0.5121
+virus,0.4958
+virus,0.4921
+virus,0.4921
+global health,0.4920
+virus,0.4832
+virus,0.4832
+virus,0.4800
+virus,0.4768
+virus,0.4768
+covid-19,0.4763
+vaccination,0.4592
+corruption,0.4413
+COVID-19,0.4226
+vaccines,0.4154
+employment,0.3969
+covid-19,0.3951
+prevention,0.3611
+prevention,0.3611
+epidemiology,0.3579
+prevention,0.3531
+vaccine,0.3524
+prevention,0.3468
+prevention,0.3468
+prevention,0.3436
+prevention,0.3425
+prevention,0.3425
+globalization,0.3410
+economy,0.3401
+prevention,0.3368
+prevention,0.3368
+prevention,0.3309
+corporations,0.3219
+vaccination,0.3213
+pandemic,0.3207
+epidemiology,0.3194
+spread,0.3140
+public interest,0.3122
+economic decline,0.3089
+pandemic,0.2987
+law,0.2967
+politics,0.2894
+financial,0.2815
+spread,0.2811
+economy,0.2758
+economy,0.2671
+vaccine skepticism,0.2664
+financial,0.2637
+contracts,0.2581
+government,0.2562
+public health,0.2520
+pharmaceuticals,0.2460
+pandemic control,0.2411
+pandemic,0.2353
+politics,0.2333
+pandemic,0.2285
+monetary,0.2269
+government,0.2267
+pandemic,0.2218
+economic_destruction,0.2170
+politics,0.2166
+pandemic,0.2026
+pandemic,0.1985
+employment,0.1963
+safety concerns,0.1951
+economy,0.1907
+protection,0.1882
+society,0.1852
+ethical_issues,0.1815
+entrepreneurship,0.1800
+decision-making,0.1787
+control,0.1753
+control,0.1680
+refugees,0.1641
+pandemic,0.1610
+political,0.1553
+assessment,0.1550
+government,0.1537
+ignorance,0.1534
+regulations,0.1467
+Politics,0.1455
+responsibility,0.1397
+health,0.1340
+economist,0.1270
+politics,0.1255
+health,0.1240
+health,0.1206
+economist,0.1157
+Health,0.1035
+public health,0.0994
+responsibility,0.0969
+societal_shock,0.0926
+political_deception,0.0893
+legal,0.0854
+public health,0.0828
+lockdowns,0.0802
+public health,0.0740
+public health,0.0740
+public health,0.0674
+guarantees,0.0623
+trade,0.0427
+pointing_out,0.0297
+inequality,-0.0608

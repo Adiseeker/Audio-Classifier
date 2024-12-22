@@ -1,0 +1,91 @@
+tag_name,cosine_similarity
+moment,0.9604
+"mentioning ""moment"" inherently implies a concept of existence or occurrence within it",0.6268
+"existence
+You have used the word ""moment"" which directly refers to a specific instant or occasion in time",0.5680
+"making ""moment"" and ""time"" suitable tags. Additionally",0.5119
+time,0.4669
+box office figures,0.4654
+movie marketing,0.4600
+media business,0.3970
+film industry,0.3959
+movie production,0.3868
+politics,0.3842
+entertainment industry,0.3832
+rings of power,0.3648
+money,0.3633
+movies,0.3349
+earnings,0.3328
+billion-dollar earnings,0.3275
+ring of power,0.3272
+trilogy,0.3270
+revenue,0.3179
+boxoffice,0.3080
+music,0.3054
+movies,0.3050
+ticket sales,0.3044
+cinema,0.2998
+entertainment,0.2905
+financialperformance,0.2894
+television,0.2872
+movies,0.2853
+cinema experience,0.2841
+propaganda,0.2840
+series,0.2818
+production,0.2799
+media,0.2751
+audience expectations,0.2751
+political,0.2672
+entertainment,0.2670
+influence on public opinion,0.2660
+cinema,0.2598
+advertising,0.2568
+blockbuster,0.2555
+society,0.2413
+industry,0.2327
+rings of power expectation,0.2251
+money,0.2220
+government,0.2210
+billion,0.2151
+power,0.2144
+amazon,0.2091
+AmazonStudio,0.2066
+societal shaping,0.2049
+profitability,0.2010
+influence,0.1967
+investment,0.1961
+cashflows,0.1931
+"so ""existence"" also fits well as a tag for this text.",0.1852
+mr mariusz,0.1850
+culture,0.1791
+steel production,0.1783
+successes,0.1742
+industry,0.1678
+"blockbuster
+</|im_start|>",0.1649
+language,0.1524
+communication,0.1446
+money,0.1424
+investment,0.1394
+impact,0.1379
+studio,0.1264
+series,0.1190
+car manufacturing,0.1173
+communication strategy,0.1030
+JeffBezos,0.0949
+modesty,0.0784
+industry,0.0761
+ai,0.0749
+hobbit,0.0655
+flop,0.0577
+life decisions,0.0577
+opinion,0.0576
+signs,0.0488
+boastful,0.0451
+vulgar,0.0394
+boom,0.0355
+conversation,0.0309
+industry differences,0.0105
+economy,-0.0043
+decision,-0.0090
+transformations,-0.0529

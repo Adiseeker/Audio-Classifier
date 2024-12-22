@@ -1,0 +1,97 @@
+tag_name,cosine_similarity
+radio,0.4815
+corruption,0.4649
+ukraine,0.4445
+Ukraine,0.4440
+reconstruction,0.4438
+Ukraine,0.4410
+broadcast,0.4216
+gold trade,0.3898
+reconstruction,0.3879
+illicit mining,0.3790
+international politics,0.3473
+wealth,0.3432
+corruption,0.3356
+ukraine,0.3328
+Russia,0.3226
+economy,0.3105
+corruption,0.3050
+diplomacy,0.3035
+corruption,0.2963
+corruption,0.2955
+corruption,0.2909
+funding,0.2833
+corruption,0.2807
+politics,0.2687
+corruption,0.2660
+economy,0.2634
+Ukraine,0.2614
+political influence,0.2575
+economy,0.2555
+future,0.2553
+episode,0.2502
+fraud,0.2501
+scams,0.2460
+economy,0.2414
+politics,0.2308
+diplomacy,0.2272
+scandal,0.2186
+investment,0.2153
+corruption,0.2114
+leadership,0.2084
+geopolitical,0.2039
+war,0.2000
+military,0.1960
+conflict,0.1928
+Africa,0.1905
+geopolitics,0.1904
+reform,0.1837
+silencing,0.1813
+international relations,0.1768
+conflict,0.1765
+corruption,0.1749
+international relations,0.1717
+politics,0.1708
+oligarchy,0.1686
+rebellion,0.1653
+financial influence,0.1649
+crime,0.1648
+influence,0.1588
+military,0.1560
+politics,0.1557
+politics,0.1542
+money,0.1510
+justice,0.1444
+politics,0.1380
+global politics,0.1351
+control,0.1318
+financial,0.1304
+power,0.1234
+generational,0.1212
+politics,0.1158
+uncertainty,0.1088
+warfare,0.1074
+investment,0.1059
+conflict,0.1056
+military,0.0979
+technology,0.0926
+military,0.0913
+money,0.0886
+politics,0.0861
+power,0.0822
+Africa,0.0779
+reconstruction,0.0772
+power,0.0768
+military,0.0760
+politics,0.0649
+confiscation,0.0595
+economics,0.0544
+law enforcement,0.0411
+economy,0.0395
+gold,0.0381
+power,0.0171
+politics,0.0089
+power,0.0038
+nato,-0.0028
+military,-0.0144
+espionage,-0.0201

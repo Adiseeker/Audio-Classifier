@@ -1,0 +1,654 @@
+tag_name,cosine_similarity
+billionares,0.4963
+billionaires,0.4842
+company value,0.4615
+billionare,0.4540
+billionairs,0.4390
+billion,0.4368
+billionaire,0.4309
+billioner,0.4299
+billionere,0.4095
+billionairee,0.3960
+billionairess,0.3790
+richest,0.3784
+"Mr. Mariusz.
+He will talk about the correlation between the financial situation of billionaires and stock markets.
+This is a crucial moment in the history of these companies.
+The whole world is watching.
+We'll be right back after this break.
+Thank you for joining us today.",0.3728
+unprecedented investment,0.3713
+wealth,0.3700
+industrybillionary,0.3676
+investors,0.3656
+property valuation,0.3525
+property prices,0.3468
+property loss,0.3403
+investments,0.3398
+"""investment"" (referring to large amounts of money put into a project)",0.3378
+"and ""car production"" (the specific context in which this investment is made). Therefore",0.3372
+stocks,0.3344
+""" it is simply the indicators that have fallen",0.3133
+speculative investments,0.3125
+stock-market,0.3063
+stock market,0.3056
+millions,0.3054
+real estate sales history,0.3047
+value,0.2962
+wealth_loss,0.2934
+financial crisis,0.2909
+future buyers' expectations,0.2851
+billionair,0.2847
+"wealthloss
+<|im_complete|>",0.2817
+real-estate,0.2814
+lost_wealth,0.2805
+capitalism,0.2795
+investment,0.2792
+real estate,0.2787
+finance,0.2775
+property,0.2765
+revenue,0.2748
+economics,0.2740
+estate,0.2739
+economy,0.2738
+"they are diversifying more than ever before to mitigate the impact of this crisis.
+Diversification is the key to managing risks associated with this global trend.
+This is not just an issue for tech investors but also for all investors.
+The trend towards crisis is real and has been building up over time.
+It's important to recognize that it's a long-term trend rather than a short-term event.
+Investors need to prepare themselves for this trend by diversifying their portfolios accordingly.
+They should also stay informed about the developments in the tech industry",0.2734
+worth,0.2733
+business failure,0.2711
+businesses,0.2707
+companies,0.2702
+business_value_drop,0.2681
+"here are 3 highly relevant tags:
+
+1. Crisis
+2. Tech Industry
+3. Stock Market",0.2678
+financial,0.2677
+"crose billions for the company and their shareholders. 
+
+The following tags apply to this text:
+price",0.2673
+funds,0.2672
+""" but they are still declining.
+The decline is quite clear.
+What people do not see is that this crisis has been brewing for years.
+And it was a warning from the universe to wake up.
+We have ignored this and continue on our path.
+Now",0.2662
+in my opinion. And what does it mean? It means that all indicators of the tech industry are going down. The stock market shows this,0.2662
+"economy
+<|im_continue|>user
+Can you explain the first tag ""loss"" in detail? Why is it relevant to the entire text?",0.2595
+real_estate_fall,0.2567
+real estate market,0.2537
+"economy
+</|im_start|> 
+The text discusses various themes such as the impact of artificial intelligence on industries like healthcare",0.2534
+industry-crisis,0.2529
+profit,0.2515
+supply and demand,0.2463
+math,0.2436
+cryptocurrency,0.2408
+sell,0.2402
+stock,0.2368
+economic factors,0.2368
+buyout,0.2367
+income,0.2364
+real_estate,0.2356
+technology decline,0.2353
+assets,0.2338
+opinion buying,0.2331
+economic-impact,0.2320
+""" but it is definitely noticeable.
+The crisis is becoming more visible every day.
+That's a trend that has been unfolding for years.
+It's not just the tech industry; it's affecting all industries.
+Investors are worried about this trend.
+They see it as a significant risk and uncertainty in their portfolios.
+As a result",0.2310
+Financial,0.2301
+decrease,0.2283
+industries crisis,0.2247
+loss,0.2236
+economic law,0.2232
+sales,0.2198
+economic crisis,0.2196
+speculation,0.2193
+stock_market,0.2177
+estimation,0.2175
+"economy
+Part #1: Analyze a given text and return 3 highly relevant tags to the main topics and themes of the text.
+Usage: ""china",0.2173
+reality,0.2117
+that's an exaggeration. But there is definitely a crisis,0.2117
+"economy"" only contains tag items without additional information or explanations",0.2077
+economic,0.2076
+big budget production,0.2073
+"the consequences of ignoring this have become evident.
+It's important to recognize these signs so we can prepare ourselves better for future crises.
+The world is changing fast",0.2072
+economic influence,0.2055
+diversification,0.2031
+"what are your thoughts?
+What do you think about this crisis and its implications for us?
+Let's discuss and share our insights.
+And remember",0.2018
+globalization,0.2018
+product acquisition,0.2012
+losses,0.2002
+it's not a catastrophic crash,0.1980
+calculate,0.1973
+trends,0.1972
+markets,0.1968
+collapse,0.1964
+economic_uncertainty,0.1931
+coca cola,0.1927
+corporate_fortunes,0.1918
+investment_failure,0.1897
+entrepreneurship,0.1897
+money,0.1893
+bargain,0.1886
+personal finance,0.1880
+volatility,0.1876
+business,0.1868
+"economy"" consists of individual words that are used to identify specific themes within the text - China (geography)",0.1867
+"we need to realize that crisis is a sign from nature.
+It's not an enemy or a failure",0.1862
+economic indicators,0.1858
+"economy"" is an example response because it identifies the main geographical (country) focus on Tesla's investments in China as well as economic implications due to geopolitical tensions between the US and China. These are the central themes that the provided text revolves around. 
+
+Part #2: Only provide the tags",0.1844
+estimate,0.1841
+valuation,0.1834
+"we can start to work on solutions to mitigate the impact of this crisis.
+It will require effort from all industries",0.1833
+real estate agents,0.1832
+real estate brokers,0.1825
+demand,0.1803
+blockchain,0.1803
+fortune,0.1801
+innovation,0.1791
+american_companies,0.1764
+Tesla (company name),0.1755
+it mentions crises in the entertainment industry during recent years and the pandemic's effect on cinema networks. Therefore,0.1752
+coca-cola,0.1739
+financier,0.1733
+market conditions,0.1732
+marketing,0.1721
+future outlook,0.1718
+market,0.1685
+"business
+</dialo<p>
+The text discusses the financial impact of cinema productions and their distribution model. Therefore",0.1684
+portfolio,0.1682
+trend,0.1681
+popularity,0.1658
+pricing,0.1657
+productions,0.1637
+economist,0.1628
+shares,0.1624
+evaluate,0.1622
+consumer culture,0.1621
+falling,0.1606
+"but we're experiencing something significant nonetheless.
+
+Based on these guidelines and the content of the text",0.1604
+evaluators,0.1593
+car industry,0.1587
+unpredictability,0.1564
+crisis,0.1559
+world's largest,0.1558
+intellectualism,0.1557
+prices,0.1554
+"which is at the center of this crisis.
+So",0.1553
+"crisis"". No",0.1540
+social media,0.1517
+destruction,0.1513
+commercial real estate,0.1512
+technology,0.1512
+evaluating,0.1507
+"Economy (subject matter). These single-word tags fulfill this criterion as they do not contain any additional phrases or concepts. 
+
+Part #4: Separate the tags with commas",0.1492
+cinemas,0.1469
+"but still.
+The crisis has become clear to everyone now.
+But what does this mean for us?
+What are the implications of this crisis?
+These are important questions that need to be addressed.
+We cannot just sit back and watch as things fall apart.
+We must take action to address this crisis and its implications.
+The first step is to recognize that there is indeed a crisis.
+Then",0.1465
+gigantic company,0.1461
+viewers,0.1460
+influence,0.1456
+crises,0.1449
+film industry,0.1449
+box office,0.1439
+industry,0.1418
+car production.,0.1416
+recession,0.1410
+interest,0.1398
+media claims,0.1397
+business activities,0.1397
+unprecedented,0.1396
+sale,0.1395
+cinema,0.1350
+industries,0.1341
+evaluation,0.1340
+skyrocket,0.1338
+movie industry funding<|/im_start|>,0.1335
+buying,0.1333
+mathematical,0.1330
+"2022 breakout year
+</im_start|>",0.1300
+hollywood blockbuster,0.1289
+apple,0.1269
+calculation,0.1266
+absurdity,0.1263
+entrepreneur,0.1260
+increase,0.1259
+horrible situation,0.1249
+absurdities,0.1246
+"economy"" adheres to this guideline by using only a comma between each tag item and does not include any other characters like spaces or line breaks in between. This ensures that the response meets the criteria of being clearly formatted as required.",0.1244
+market_mistake,0.1242
+hollywoodproduction,0.1239
+bottle,0.1239
+mathematics,0.1238
+hollywood,0.1237
+"the only way to fight a problem is to understand it first.
+Stay informed and stay ahead of the curve.
+The future is in our hands.
+That's what it's all about.",0.1236
+next few decades,0.1229
+history,0.1227
+similar properties,0.1225
+people,0.1221
+ordinary viewers,0.1220
+intellectual conflict,0.1219
+Miracles,0.1212
+fiction,0.1200
+assess,0.1170
+share,0.1154
+company,0.1146
+loss of faith,0.1135
+extraordinary claim,0.1133
+product development,0.1133
+literally,0.1126
+"we can overcome this crisis.
+The future is bright if we take action now.
+We must be proactive and not reactive in dealing with this crisis.
+So",0.1116
+government,0.1115
+miracles,0.1115
+mass-culture,0.1112
+years,0.1109
+violence,0.1109
+literature,0.1109
+mainstream media,0.1104
+world,0.1097
+china,0.1094
+disney,0.1091
+success,0.1088
+2022,0.1078
+human needs,0.1069
+China,0.1063
+and transportation. Additionally,0.1054
+compare,0.1053
+independent experts,0.1038
+ordinary,0.1002
+change,0.1002
+biggest,0.0991
+satire,0.0986
+branding,0.0984
+"nothing else.
+Usage: ""china",0.0980
+"2022
+</im_start|>",0.0979
+growth,0.0972
+movies,0.0947
+purchase,0.0944
+topics,0.0940
+foundation,0.0931
+entertainment,0.0930
+series,0.0927
+shock,0.0914
+number one hit,0.0913
+psychology,0.0910
+creativity,0.0909
+scandal,0.0909
+"social commentary
+</en>>",0.0904
+amazon,0.0902
+fantasy,0.0900
+car,0.0900
+business_decline,0.0892
+trendsetters,0.0887
+showrunners,0.0880
+crypto,0.0866
+negative or neutral. Also provide examples from your analysis that support this classification.,0.0865
+brands,0.0865
+PeterJackson,0.0859
+social commentary,0.0857
+blockbuster,0.0850
+media,0.0842
+batteries,0.0835
+recent,0.0834
+failure,0.0830
+Music,0.0827
+"trade war
+<|next_turn|>Part #2: Analyze a Text for Sentiment and Emotion.
+Explain how you would analyze the sentiment and emotion in the text provided to understand if it is generally positive",0.0827
+great experts,0.0820
+"and we need to be prepared.
+Preparation requires awareness and understanding of what is happening around us.
+We must listen to our inner voice and understand that crisis is coming.
+Only then can we make the necessary changes to avoid disaster.
+Finally",0.0816
+media critique,0.0813
+internet,0.0808
+drop,0.0808
+not too many,0.0805
+impact,0.0796
+space,0.0793
+transactions,0.0790
+tesla,0.0785
+mystery,0.0782
+comedy,0.0776
+storytelling,0.0774
+"without spaces or additional formatting.
+Usage: ""china",0.0774
+tech,0.0768
+bought,0.0765
+series production,0.0765
+"as it's not a direct answer to the question. Let me clarify my approach: I will analyze the text and provide tags based on the main themes or topics found within it. 
+
+Upon analyzing the text",0.0762
+risk,0.0757
+production,0.0754
+laughter,0.0749
+movie evaluators,0.0741
+opinions,0.0741
+trendsetter,0.0739
+expectation,0.0734
+breakthroughs,0.0733
+future.,0.0732
+"the relevant tags are: 
+
+cinema",0.0715
+events,0.0709
+interpretation,0.0701
+drama,0.0696
+opinion,0.0696
+real,0.0695
+people like us,0.0695
+music,0.0693
+peter,0.0687
+"entertainment
+</|im_end|><|im_continue|>What's the story behind this?
+Mariusz is here to explain.
+Please tell us more about it",0.0687
+cinema history,0.0685
+"quality
+</end>",0.0683
+societal norms,0.0682
+humor,0.0673
+americans,0.0667
+nature,0.0667
+recovery,0.0666
+expert opinions,0.0664
+entertainment-boom,0.0658
+question,0.0656
+asset,0.0656
+creation,0.0646
+"let us heed this call and prepare ourselves for what lies ahead.
+The tags for this text are: crisis",0.0637
+mai,0.0631
+film production,0.0630
+listen,0.0626
+fan outrage,0.0622
+social satire,0.0618
+loud,0.0617
+"the primary themes include ""expectation"" (as in people expecting something significant from the production)",0.0614
+decline,0.0610
+moment,0.0598
+community reaction,0.0598
+nostalgia,0.0593
+"the main tags relevant to the text are:
+
+crisis",0.0591
+uncertainty,0.0590
+sapkowski's book,0.0589
+expectation fail,0.0583
+fluctuation,0.0579
+films,0.0579
+terrifying blow,0.0571
+incredible success,0.0568
+survival,0.0568
+relevant tags include: ai,0.0567
+political control,0.0565
+comparable,0.0565
+leading actor departure,0.0561
+netflix controversy,0.0559
+j.r.r.tolkien,0.0558
+cancellation,0.0557
+"not a phrase.
+Usage: ""china",0.0557
+film,0.0551
+supply,0.0550
+index,0.0541
+"culture
+</|im_start|>endertainment",0.0538
+manhattan,0.0530
+battery,0.0526
+you know. So yes,0.0524
+pandemic,0.0521
+transposition,0.0516
+movie ranking,0.0514
+movie,0.0508
+distribution,0.0506
+language,0.0502
+psychotic,0.0475
+chip,0.0474
+anticipation,0.0472
+rings of power,0.0467
+russian drama,0.0463
+ai,0.0461
+improvement,0.0461
+expected,0.0459
+"entertainment
+</|im_start|>",0.0458
+hbo,0.0457
+5,0.0446
+criticism,0.0443
+hedge,0.0439
+gigantic,0.0436
+breakthrough,0.0434
+skoda,0.0430
+violent disputes,0.0430
+chinese,0.0428
+gaming,0.0424
+wiedzmin,0.0421
+no,0.0409
+comparison,0.0407
+expected outcome,0.0403
+people delighted,0.0401
+similar,0.0399
+"pandemic-effects
+</|im_start|>",0.0398
+chips,0.0398
+samsung,0.0394
+bricks,0.0393
+Manhattan,0.0389
+transformation,0.0388
+legacy,0.0386
+legal matters,0.0381
+desert,0.0375
+tv,0.0374
+slice-of-life,0.0360
+relationship,0.0351
+netflix,0.0351
+"car production
+</d>
+<|im_mid|>1",0.0345
+authenticity,0.0341
+"theatre
+</|im_start|>",0.0339
+brand,0.0335
+strike,0.0333
+international relations,0.0332
+surprise,0.0327
+control,0.0323
+game of thrones,0.0323
+novelty,0.0316
+tv-culture,0.0308
+movie theaters,0.0300
+identity,0.0295
+crushing,0.0287
+preparation,0.0281
+gaming studio,0.0274
+curiosity,0.0263
+thirst,0.0263
+factory,0.0262
+disappointed fans,0.0261
+sectors,0.0259
+truthful portrayal,0.0250
+manufacturing control,0.0245
+"car production
+</|im_start|>",0.0239
+amazon studio,0.0234
+sector,0.0231
+artificial,0.0223
+culture,0.0222
+book adaptation,0.0219
+industry standard,0.0217
+polish culture,0.0216
+event,0.0216
+meeting,0.0206
+jackson,0.0203
+disrespect,0.0198
+radio,0.0192
+geralt of rivia,0.0189
+disappointment,0.0189
+brutal,0.0186
+goodbye,0.0185
+opinion clash,0.0183
+covid-19,0.0178
+possibility,0.0165
+dispute,0.0162
+actor,0.0158
+success dispute,0.0158
+but together,0.0150
+giants,0.0140
+us,0.0126
+Polish culture,0.0119
+witcher series,0.0117
+tolkien,0.0116
+adventure,0.0107
+translation,0.0098
+Threats,0.0095
+tide,0.0091
+action,0.0084
+adaptation,0.0083
+curious,0.0074
+ringsthepower,0.0074
+"but rather a call to action.
+So",0.0066
+conversation,0.0063
+poland,0.0061
+tradition,0.0060
+brutal fight,0.0057
+disagreement,0.0057
+American,0.0056
+independence,0.0055
+fight,0.0051
+dbye,0.0049
+protest,0.0048
+violent dispute,0.0047
+urban planning,0.0045
+supply-chain,0.0039
+mourning,0.0034
+fan reaction,0.0031
+controversy,0.0029
+ridden with criticism,0.0026
+expert,0.0020
+"meta
+</|im_start|>",0.0016
+actor rebellion,0.0016
+automation,0.0015
+contemporary,0.0009
+global,-0.0004
+alfira,-0.0012
+leading actor,-0.0022
+differently,-0.0022
+need,-0.0026
+screenings,-0.0027
+network,-0.0037
+critics,-0.0055
+sapkowski's work,-0.0064
+delighted,-0.0068
+purchased,-0.0072
+polish,-0.0076
+nstream,-0.0090
+localization,-0.0093
+reason,-0.0095
+Rivia,-0.0103
+broadcast,-0.0115
+rely,-0.0134
+fans,-0.0135
+taiwan-china line,-0.0139
+tv adaptation,-0.0144
+nstream media,-0.0152
+viewer,-0.0160
+yes,-0.0170
+creator,-0.0175
+indie,-0.0180
+boom,-0.0203
+independent,-0.0209
+decision,-0.0211
+communication,-0.0224
+taiwan,-0.0231
+"distribution
+</im_start|>",-0.0233
+sapkowski,-0.0235
+Polish,-0.0262
+black clouds,-0.0272
+current practice,-0.0275
+Sapkowski,-0.0277
+peaceful coexistence,-0.0284
+usa,-0.0287
+radio_stations,-0.0292
+mask,-0.0297
+standard,-0.0301
+particular delight,-0.0308
+inner voice,-0.0381
+streaming,-0.0395
+my tags are: expectation,-0.0405
+streaming service,-0.0405
+paid,-0.0408
+studio,-0.0416
+"radio
+</|im_start|>",-0.0425
+mistake,-0.0436
+threat,-0.0466
+cultural representation,-0.0487
+streaming platform,-0.0499
+interactive,-0.0512
+conflict,-0.0535
+"aligning with the guidelines set out in this task definition. This response meets the criteria as it directly addresses the request for tagging and does not include any extra commentary beyond that. 
+
+Part #3: Each tag must be a single word",-0.0603
+warning,-0.0621
+"6<|im_end/>""#
+The response seems off",-0.0677
+ranks,-0.0712
+"warning signals
+</|im_start|>`",-0.0890

@@ -1,0 +1,53 @@
+tag_name,cosine_similarity
+russia,0.4517
+corruption,0.4199
+Russia,0.4092
+Corruption,0.3790
+Putin,0.3771
+putin,0.3738
+bribes,0.3470
+diplomacy,0.3312
+Sanctions,0.2885
+africa,0.2845
+russian,0.2843
+mafia,0.2655
+smuggling,0.2577
+funds,0.2573
+bribery,0.2548
+wealth,0.2369
+resources,0.2358
+Africa,0.2340
+money,0.2301
+politics,0.2293
+conflict,0.2149
+war,0.2098
+Money,0.2057
+justice,0.1873
+gold,0.1817
+heroism,0.1809
+business,0.1683
+Prigozhin,0.1679
+profits,0.1673
+minerals,0.1627
+powerstruggle,0.1480
+military,0.1477
+history,0.1417
+wagner,0.1282
+I didn't receive any input text. Could you please provide the text you would like me to analyze?,0.1187
+power,0.1163
+prigozhin,0.1115
+Wagner,0.1015
+finance,0.0935
+rebellion,0.0816
+illegal,0.0785
+Please provide the text you would like me to analyze.,0.0760
+hero,0.0760
+survival,0.0640
+fsb,0.0507
+shoigu,0.0420
+None,0.0412
+it's impossible to generate relevant tags. Please provide a meaningful text for analysis.,0.0366
+Based on the provided empty input,-0.0074
+Sorry,-0.0155
+I'm sorry,-0.0460
+but it seems that the input text provided is empty. Could you please provide a valid text so that I can generate the appropriate tags?,-0.0729

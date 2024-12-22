@@ -1,0 +1,23 @@
+tag_name,cosine_similarity
+housing,0.4484
+housingmarket,0.4216
+economy,0.4109
+corruption,0.3883
+inflation,0.3821
+markets,0.3608
+poland,0.3398
+mortgages,0.3301
+politics,0.3276
+crisis,0.3207
+investment,0.3149
+government,0.3083
+loans,0.3036
+finance,0.3028
+realestate,0.2712
+banking,0.2656
+policy,0.2562
+prices,0.2386
+This input text does not provide enough context to generate relevant tags. Please provide a more substantial passage or sentence.,0.2312
+predictions,0.1966
+taxes,0.1917
+china,0.1711

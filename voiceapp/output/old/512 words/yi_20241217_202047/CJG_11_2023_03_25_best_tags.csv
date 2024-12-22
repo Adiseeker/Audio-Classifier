@@ -1,0 +1,1209 @@
+tag_name,cosine_similarity
+frailty of banks,0.6035
+bank failure,0.5823
+fall of banks,0.5622
+modern banking,0.5407
+bank closure,0.5301
+central bank oversight,0.5132
+bank reserves,0.5034
+and specific financial problems. These topics are best represented by the provided tags: central_bank,0.5011
+banking crisis,0.4971
+banking disruption,0.4931
+central banks,0.4865
+bank,0.4852
+cyprus banking,0.4717
+financial crisis|,0.4709
+Polish banking,0.4700
+bank assets,0.4664
+national-bank-of-switzerland,0.4650
+banks,0.4644
+bank runs,0.4633
+national bank of poland,0.4615
+central bank,0.4595
+uk banks,0.4555
+traditional banking practices,0.4546
+fall-of-banks,0.4534
+bank heists,0.4489
+banking practices,0.4430
+banking safety,0.4405
+bank fall,0.4380
+banking sector control,0.4354
+bank robberies,0.4347
+bank balance,0.4333
+National Bank of Poland,0.4332
+protection of savings,0.4316
+national bank,0.4286
+bankruptcy,0.4285
+idea bank,0.4277
+banking system,0.4273
+central-bank,0.4205
+financial institutions,0.4159
+financial system,0.4159
+banking regulation,0.4147
+liquidity crisis,0.4130
+banking regulations,0.4121
+specific banks mentioned (GetInHolding,0.4073
+banking-industry,0.4064
+"idea<br/>
+The text discusses the impact of financial restructuring on Polish banks and their relationship with communism. Key topics include banking crises",0.4059
+bank run,0.4042
+financial sector evolution.,0.4035
+financial-crises,0.4029
+financial systems,0.3997
+banking compliance,0.3994
+international banking,0.3985
+banking laws,0.3972
+financialcrises,0.3956
+banks-profits,0.3954
+financial stability,0.3949
+banking industry,0.3929
+money reserves,0.3922
+money shortage,0.3907
+centralbank,0.3884
+bankruptcies,0.3863
+Idea Bank Ukraine,0.3822
+credit-suisse,0.3822
+financial crisis,0.3814
+getinobl bank,0.3812
+banking law,0.3801
+"share of high interest rates
+</|im_start|>",0.3789
+"banking industry
+</s>",0.3747
+financial-system,0.3727
+central_bank,0.3721
+economic collapse,0.3719
+"banking industry (due to phrases like ""big",0.3712
+financial regulation,0.3693
+Idea Bank,0.3649
+"banking
+</|im_start|>",0.3626
+banking,0.3591
+financial policy,0.3577
+banking_system,0.3562
+financial risk management,0.3561
+financial-institutions,0.3538
+financial turmoil,0.3530
+economic disaster<|im_end>>,0.3519
+cashless society,0.3515
+"banking
+</im_start>",0.3499
+financial control,0.3486
+likely related to banking),0.3486
+"conversation
+</|im_start|>The given text discusses a situation in which the company is closed down and talks about big matters related to banking. The tags represent the main topics covered in the conversation: artificial intelligence (ai)",0.3471
+banking operations,0.3469
+Idea Bank),0.3457
+bad loans,0.3453
+nobelbank,0.3447
+financial-regulation,0.3440
+financialrisk,0.3426
+bankruptcy_2008,0.3409
+insolvency,0.3407
+banking sector,0.3393
+banking-instruments,0.3384
+financial_crises,0.3375
+credit risk,0.3371
+loan management,0.3356
+financial safety net,0.3352
+financial regulations,0.3348
+financial_crisis,0.3344
+deposit reserves,0.3324
+financial-supervision,0.3298
+financial risks,0.3287
+getnobellbank,0.3281
+bankingsector,0.3277
+"the tags for this text are ""bankruptcy",0.3277
+financeliquidity,0.3271
+Open Finance,0.3258
+"banking-instruments
+</s>",0.3242
+monetary policy,0.3242
+investment protection,0.3236
+financial risk,0.3227
+financial situation,0.3225
+collateral bubble,0.3208
+deposit protection,0.3185
+GetNobelBank,0.3184
+reserve security,0.3173
+getnobelbank,0.3171
+financial institution,0.3169
+lending practices,0.3159
+savings and loans,0.3152
+deposit security measures,0.3146
+banking_crash,0.3134
+deposits risk,0.3118
+financial_system,0.3101
+credit management,0.3096
+finance,0.3093
+debt,0.3090
+creditworthiness,0.3076
+financial-security,0.3075
+"economic_problem
+The text discusses issues related to the central bank",0.3054
+economy-crises,0.3053
+debts,0.3034
+mortgages,0.3024
+banknote,0.3018
+polish economy,0.2991
+financial services,0.2988
+currency risk,0.2979
+financial sector,0.2976
+"interview
+</|im_start|>
+The text discusses AI and banking",0.2970
+openfinance,0.2968
+closure of businesses,0.2944
+financial loss,0.2936
+open finance,0.2934
+capital security,0.2933
+financial-distress,0.2931
+liquidity problems,0.2920
+market crash,0.2914
+financier,0.2911
+financial guarantees,0.2906
+banks_wealth,0.2899
+liquidity risk,0.2882
+money control,0.2879
+"finance
+</d>",0.2861
+difficult loans,0.2860
+financial obligations,0.2853
+economic crisis,0.2845
+interest rates,0.2840
+capitalism,0.2832
+investment_failures,0.2820
+economic downturn,0.2818
+deposit security,0.2813
+financials,0.2784
+blockchain,0.2783
+credit default,0.2773
+financialmanagement,0.2772
+cryptocurrency,0.2750
+savings,0.2742
+deposit insurance,0.2717
+Poland economy,0.2713
+financial-transactions,0.2708
+financial,0.2698
+fraudulent schemes,0.2696
+lending,0.2690
+money management,0.2687
+crisis management,0.2685
+interest rate policies,0.2683
+deposit accounts,0.2678
+payment systems,0.2677
+resistance against collapse,0.2629
+monetary issue,0.2598
+currency management,0.2589
+monetary_policy,0.2565
+funds,0.2564
+virtual-money,0.2559
+money market,0.2555
+"loud matters"" and ""banking"" being mentioned more than once)",0.2536
+"investments
+</end_of_transcript>",0.2530
+risk-management,0.2526
+cash flow,0.2517
+investments,0.2510
+100 zlotys,0.2504
+loans,0.2492
+economic-situations,0.2480
+investment mistakes,0.2475
+money creation,0.2470
+economic instability,0.2470
+liquidity,0.2470
+switzerland,0.2469
+risk management,0.2462
+restructuring,0.2459
+deposit obligations,0.2459
+collapse,0.2427
+systemic-risk,0.2427
+reserve ratio,0.2405
+economic loss,0.2403
+foreclosure,0.2402
+"financial markets
+Part #1: Identifying main themes/topics within the text.
+Usage: gambling",0.2402
+financial-rights,0.2397
+money handling,0.2397
+financial crimes,0.2395
+regulatory failures,0.2394
+the overall economic system,0.2374
+investment,0.2357
+crisis,0.2353
+insurance-funds,0.2349
+capitalistic,0.2336
+bribe,0.2328
+customers,0.2319
+high interest,0.2313
+amortize,0.2307
+systemic risk,0.2294
+"economic policies
+</im_start|>",0.2289
+money_management,0.2284
+casino collapse,0.2282
+savings transfers,0.2277
+currencies,0.2269
+currency,0.2252
+monetary policy implementation,0.2250
+financial_instruments,0.2232
+money-management,0.2209
+economic stability,0.2202
+"virtual-currency
+</s>",0.2195
+mortgage-backed securities,0.2193
+"musical_interlude
+</im_start|>
+1) ai - refers to the mention of artificial intelligence in the context of banking and discussions around it.
+2) banking - explicitly mentioned as an industry subject throughout the text.
+3) interview - suggested by the question posed at the end ""What's going on",0.2189
+globalization,0.2187
+digital-currency,0.2185
+asset loss,0.2179
+economic policies,0.2167
+economic policy,0.2159
+billionaire,0.2155
+accounts,0.2145
+"Mr. Mariusz?"" implying that this might be a discussion from an interview setting.",0.2141
+economic theory,0.2139
+money-creation,0.2134
+stop_of_the_reserve,0.2133
+powerful institutions,0.2111
+socialism,0.2105
+asset management,0.2097
+financial-duties,0.2091
+fraudulent practices,0.2090
+loan,0.2089
+reserves,0.2086
+economy,0.2085
+cyprus,0.2081
+risk_management,0.2079
+mortgage,0.2068
+bailout|,0.2065
+risk-taking,0.2049
+reserve,0.2039
+business ownership,0.2037
+securities,0.2027
+wealth,0.2025
+stock exchange,0.2009
+bureaucracy,0.2007
+Cyprus,0.2007
+restructurings,0.2003
+high profits,0.2002
+cash,0.2001
+"economics
+</|im_start|>",0.1998
+monetarycontrol,0.1996
+corruption,0.1995
+currency exchange,0.1989
+fiat currency,0.1974
+market fluctuations,0.1970
+economies,0.1964
+higher profits,0.1961
+financial entities,0.1961
+economic-system,0.1953
+money-laundering,0.1940
+securing,0.1925
+closure,0.1922
+mortgage_bubble,0.1920
+wallet,0.1908
+"accounts
+</s>",0.1903
+customer loyalty,0.1899
+management skills,0.1898
+"risk assessment
+</s>",0.1886
+business,0.1883
+bailout,0.1882
+withdraw,0.1881
+panic-free,0.1871
+token economy,0.1864
+collateral,0.1856
+bribery,0.1856
+poverty,0.1846
+moneytransfer,0.1835
+failure,0.1830
+trust-breakdown,0.1827
+panic,0.1826
+economics,0.1819
+gambling,0.1811
+revolution,0.1801
+revolutionize,0.1791
+"it is manipulated by those who can control ""free markets"" with their power and influence. This text discusses manipulation of economies through controlling statistics and creating crises for personal gain.
+
+Tags: Economy",0.1786
+foundation,0.1786
+greed,0.1780
+fraud,0.1775
+global_economics,0.1767
+embezzlement,0.1764
+economic impact,0.1754
+companies,0.1751
+unemployment,0.1729
+capital,0.1720
+mariusz stefaniak,0.1703
+high rate,0.1700
+corruption scandals,0.1698
+dramatic situations,0.1691
+governments,0.1686
+profit_growth,0.1680
+"indicating a central theme of financial instability and its consequences.
+2. Entrepreneurship - The mention of Mr. Czarnecki as an entrepreneur suggests this aspect of his character plays a significant role in the narrative.
+3. Czarnecki Empire - Refers to the specific social or economic power structure involving Mr. Czarnecki's influence and actions",0.1672
+deposits,0.1670
+socioeconomic systems,0.1663
+2-3%,0.1660
+corpocracy,0.1657
+economic inequality,0.1657
+asset disappearance,0.1649
+risk,0.1646
+transfermoney,0.1645
+money laundering,0.1645
+business (business),0.1642
+insurance,0.1641
+social injustice,0.1641
+saving,0.1637
+regulatory oversight,0.1635
+economic_issues,0.1627
+money politics,0.1623
+survival strategies,0.1618
+sustainability,0.1616
+economic development,0.1607
+wealth_distribution,0.1602
+integrity,0.1597
+"foundation
+</|im_start|>",0.1597
+governance,0.1591
+mafia systems,0.1590
+management,0.1589
+profits,0.1583
+modernity,0.1578
+government intervention,0.1576
+government regulation,0.1576
+mortgage_backed_securities,0.1572
+consumer behavior,0.1566
+bubble,0.1554
+government,0.1548
+ownership,0.1545
+free-market,0.1544
+political corruption,0.1534
+"profit
+</im_start|>",0.1531
+Mariusz Stefaniak,0.1526
+fortune,0.1526
+corporate-power,0.1520
+chaos,0.1516
+social inequality,0.1514
+leszek,0.1512
+accountability,0.1509
+and the communist/post-communist era in Poland. These tags encompass major themes such as financial entities,0.1500
+entrepreneurs,0.1497
+realization,0.1495
+philanthropy,0.1488
+betting,0.1487
+assets,0.1486
+exchange,0.1484
+"czarnecki empire"".",0.1482
+organized crime,0.1474
+restructuring implications,0.1463
+credibility,0.1463
+share rates,0.1459
+loss,0.1459
+safeguards,0.1458
+security measures,0.1458
+online-payments,0.1454
+leverage,0.1452
+secrecy,0.1450
+illegal transactions,0.1449
+monetary,0.1444
+terrorism,0.1439
+online_payments,0.1439
+criminal enterprises,0.1435
+restructurations,0.1430
+"profit_growth
+</|im_start|>",0.1430
+robbery,0.1423
+ideabank,0.1423
+rich,0.1421
+economist,0.1416
+paper assets,0.1414
+futures,0.1405
+companies-rights,0.1404
+real estate market,0.1403
+demand,0.1396
+czarnecki,0.1394
+reality,0.1387
+"exchange rate). They are therefore chosen for our first three tags because they encapsulate the major ideas presented.
+
+Part #2: Ensuring each tag is a single word.
+Usage: gambling",0.1381
+money transfer,0.1377
+millionaire,0.1373
+unprofitable,0.1372
+businessman,0.1372
+can fall,0.1366
+elite interests,0.1364
+bets,0.1363
+power structures,0.1362
+holding company,0.1355
+scams,0.1353
+customer-service,0.1351
+poland,0.1350
+fraudulent-activities,0.1349
+stealing,0.1348
+reserve_ratio,0.1344
+social justice,0.1339
+seriousness,0.1333
+and economic_problem.,0.1332
+protect,0.1330
+economic crimes,0.1330
+serious situations,0.1327
+stabilization,0.1325
+fraudulent,0.1322
+payment,0.1321
+"non-existent strategies
+</|im_end|>",0.1318
+trust,0.1309
+communism,0.1306
+futures market,0.1302
+mariusz-stefaniak,0.1299
+"fundgivback
+</en>>",0.1294
+serious,0.1288
+theft,0.1272
+supply,0.1270
+humanity,0.1268
+welfare,0.1268
+crash,0.1267
+liquidate,0.1253
+protection,0.1251
+limit,0.1250
+safety,0.1247
+interest,0.1246
+money,0.1244
+bourgeoisie,0.1244
+czarnecki empire,0.1241
+seizure,0.1238
+mariusz,0.1233
+insurer,0.1233
+political risk,0.1227
+takeover,0.1217
+mafia,0.1215
+revolutionaries,0.1212
+society,0.1209
+amount,0.1208
+security,0.1205
+managing,0.1201
+fairy_tale_investments,0.1199
+fall,0.1195
+sales,0.1195
+taking over,0.1190
+employment,0.1185
+decision-making,0.1185
+criminal systems,0.1179
+citizen protection,0.1167
+rescue efforts,0.1166
+stock,0.1159
+first in poland,0.1156
+ordinary citizens,0.1153
+crypto,0.1152
+consequences,0.1151
+commerce,0.1149
+profit,0.1146
+employees,0.1145
+"poland
+</s>",0.1145
+fairy tale,0.1142
+"but in fact they don't really exist at all.
+falsification",0.1141
+fundacja,0.1139
+break,0.1136
+payments,0.1136
+systemic,0.1134
+distribution,0.1133
+decisionmaking,0.1126
+responsibility,0.1125
+intimidation,0.1125
+market prediction,0.1125
+equity,0.1123
+efficiency,0.1118
+and historical context.,0.1115
+depository,0.1109
+problems,0.1106
+defaults,0.1103
+repression,0.1102
+modern system,0.1100
+credit,0.1099
+regime change,0.1089
+knowledge,0.1089
+public relations,0.1088
+situation,0.1087
+"musical-intervals. These tags reflect the main topics and themes in the given text - artificial intelligence (through its mention as part of ""close the company"")",0.1078
+revolutionary,0.1071
+wisdom,0.1069
+america,0.1068
+stations,0.1065
+closing,0.1064
+anarchy,0.1063
+policy,0.1062
+few,0.1057
+lack,0.1056
+industry,0.1055
+falsification,0.1053
+company,0.1052
+russia,0.1051
+limitations,0.1038
+decisions,0.1034
+tax evasion,0.1034
+inclusive society,0.1032
+labour,0.1028
+"czarnecki empire
+</|im_start|>Complicated relationships often involve many intricate factors that are hard to understand. We can use tags to help categorize and analyze these nuanced connections between characters in a story or situation. Here is how we might do it for the given text:
+
+1. Bankruptcy - This word appears multiple times",0.1025
+income,0.1024
+time,0.1024
+Poland,0.1022
+entrepreneurship,0.1019
+real estate scams,0.1019
+investment_strategies,0.1018
+plunder,0.1015
+belkid tax,0.1012
+real estate,0.1012
+discrimination,0.1010
+getinholding,0.1008
+głuchołazie,0.1004
+current issues,0.1003
+regulation,0.1002
+charitable donation,0.1002
+ambitious,0.1001
+crp,0.0999
+lose,0.0996
+er their account,0.0996
+threat,0.0993
+big threat,0.0990
+regulatory,0.0990
+crime syndicate,0.0988
+risks,0.0983
+government_regulation,0.0983
+regulationviolations,0.0983
+supervision,0.0973
+employee welfare,0.0972
+modern_policy,0.0971
+stolen-property,0.0970
+scam,0.0970
+real-estate,0.0964
+summary,0.0962
+"power dynamics
+</en_US>",0.0961
+strategy,0.0961
+mądrości,0.0961
+realities,0.0954
+security risks,0.0953
+more,0.0948
+inability,0.0945
+oppression,0.0945
+privacy,0.0945
+transformation of industries,0.0940
+"business_operations
+</|im_start|>",0.0940
+economic activities,0.0937
+influence,0.0932
+potential reasons,0.0931
+false_securing,0.0931
+bahamas,0.0930
+transactions,0.0929
+resistance,0.0927
+cyber,0.0927
+marketing,0.0926
+forecasting,0.0925
+sexism,0.0925
+system danger,0.0919
+employee payment,0.0918
+subtlety,0.0915
+economic,0.0914
+non-profit,0.0914
+solution,0.0914
+economic disparity,0.0909
+power struggles,0.0908
+identity theft,0.0906
+stephaniak,0.0902
+post-communism,0.0901
+economic_activities,0.0898
+unacceptable-truth,0.0896
+industry transformation,0.0896
+take,0.0894
+market research,0.0893
+doubt,0.0892
+powerlessness,0.0891
+prediction,0.0890
+belief,0.0889
+workforce,0.0888
+taxation,0.0887
+guarantees,0.0885
+interrogation,0.0882
+enslavement,0.0881
+choice,0.0875
+market,0.0874
+extortion,0.0865
+real_estate,0.0864
+systemic mistake,0.0858
+authority,0.0857
+clash,0.0856
+thief,0.0852
+discuss,0.0847
+workers,0.0847
+nerk,0.0846
+premises,0.0845
+super-well-known,0.0843
+justice,0.0842
+as well as a broadcasting scenario that could involve interviews. Therefore,0.0839
+automation (automation),0.0836
+scam-activities,0.0835
+patriarchy,0.0834
+mayhem,0.0831
+crime-ridden,0.0830
+democracy,0.0829
+moral obligation,0.0829
+unauthorized transactions,0.0827
+rescue,0.0826
+stop,0.0826
+deprived,0.0824
+waste management,0.0823
+regulations,0.0823
+"choice
+</|im_start|>",0.0821
+obligation,0.0821
+backstabbing,0.0821
+cr,0.0820
+private,0.0819
+community,0.0819
+super-well-known ones.,0.0817
+life,0.0816
+compliance,0.0815
+intelligence,0.0810
+truths,0.0808
+opportunity,0.0807
+false-conclusion,0.0806
+authority-redistribution,0.0805
+manage,0.0800
+social mobility,0.0795
+obligations,0.0794
+rebellion,0.0793
+automation,0.0790
+100%,0.0790
+practice,0.0787
+deceptive practices,0.0785
+ordinary people,0.0783
+pillars,0.0782
+foundations,0.0776
+communist,0.0767
+więcej,0.0766
+artificial intelligence,0.0766
+legal consequences,0.0762
+injustice,0.0761
+value fluctuation,0.0758
+consequence,0.0756
+disinformation,0.0754
+penalties,0.0750
+production,0.0749
+dialogue,0.0745
+casino,0.0744
+"end
+</|im_start|>",0.0742
+taxes,0.0738
+recovery,0.0736
+ordinary,0.0733
+post-communist countries,0.0732
+default,0.0730
+possession,0.0728
+legislation,0.0727
+leave,0.0723
+pillaging,0.0719
+contracts,0.0718
+restriction,0.0718
+chance,0.0716
+struggle,0.0714
+national,0.0714
+rate,0.0712
+end,0.0709
+politics,0.0709
+calculate,0.0708
+speculation,0.0708
+investigation,0.0707
+fairness,0.0703
+fear,0.0703
+exploitation,0.0703
+polish_case,0.0702
+employee error,0.0702
+debate,0.0700
+revolt,0.0699
+regulations compliance,0.0698
+seniority,0.0698
+prevention,0.0696
+consumption,0.0692
+fiction,0.0691
+public,0.0690
+disorder,0.0690
+truth,0.0684
+confiscation,0.0684
+history,0.0684
+sovereign,0.0682
+world,0.0675
+racism,0.0675
+timing,0.0675
+"which is central to the story.
+
+Therefore",0.0673
+gov,0.0672
+climate change,0.0667
+negotiation tactics,0.0665
+transfer,0.0664
+effectiveness,0.0660
+fundamental,0.0660
+margin,0.0657
+technology (technology),0.0656
+problem,0.0656
+warning,0.0651
+argument,0.0650
+founding,0.0648
+local government,0.0645
+persecution,0.0643
+ukraine,0.0640
+client,0.0639
+discussion,0.0639
+controversy,0.0639
+abuse,0.0636
+response,0.0635
+education,0.0634
+estate_planning,0.0633
+boundaries,0.0632
+uncertainty,0.0629
+interview,0.0628
+public service,0.0626
+bet,0.0624
+decision,0.0624
+rategies,0.0621
+social,0.0621
+insight,0.0614
+advertising,0.0612
+future,0.0609
+blackmail,0.0608
+progressive values,0.0602
+legal system,0.0602
+riot,0.0598
+warfare,0.0591
+property crimes,0.0589
+deception,0.0585
+coercion,0.0581
+interview (interview),0.0580
+eugenio_zarnecki,0.0573
+thank,0.0572
+"speculation - All three words meet this criterion; no additional phrases or longer terms were used.
+
+Part #3: Keeping separate with commas and ensuring no spaces between tags.
+Usage: gambling",0.0570
+class,0.0562
+ATMs,0.0562
+reasons,0.0559
+issue,0.0558
+political influence,0.0557
+legends,0.0554
+manager,0.0550
+conspiracy,0.0549
+win,0.0545
+grain,0.0545
+jurisdiction,0.0544
+rebel,0.0543
+communist era,0.0536
+"geopolitics
+</|im_start|>",0.0535
+idea,0.0533
+trading,0.0532
+polish,0.0530
+GetInHolding,0.0526
+marketplace,0.0526
+ambition,0.0525
+proletariat,0.0522
+effective,0.0521
+power abuse,0.0520
+paper,0.0517
+us,0.0516
+liberté Égalité Fraternité,0.0515
+"danger
+</i>",0.0512
+abnormal-shift,0.0512
+surveillance,0.0512
+drop,0.0511
+system,0.0509
+guarantee,0.0509
+truth revealing,0.0508
+bandit,0.0507
+leadership roles,0.0507
+people,0.0507
+equitable access,0.0505
+important,0.0504
+earning,0.0499
+human rights abuses,0.0497
+goods,0.0496
+share,0.0493
+agenda,0.0492
+information,0.0488
+welfth part,0.0487
+commodities,0.0487
+protest,0.0486
+homeless,0.0486
+card,0.0486
+legal-issues,0.0486
+crime,0.0485
+control,0.0477
+post-communist,0.0473
+bubble_burst,0.0473
+urgency,0.0473
+victim,0.0473
+transparency,0.0471
+wage,0.0467
+discussions,0.0465
+value,0.0459
+criminal-justice,0.0455
+paper_assets,0.0453
+crusts,0.0453
+betrayal,0.0450
+contingency,0.0450
+rogue,0.0449
+garbage,0.0449
+inequality,0.0448
+agent,0.0447
+moneys,0.0446
+environment,0.0445
+emission,0.0444
+imagination,0.0444
+conclusion,0.0443
+give,0.0442
+timing adjustments,0.0440
+question,0.0439
+shaping,0.0439
+property,0.0439
+there are numerous platforms,0.0438
+print,0.0438
+abuse of power,0.0437
+squalor,0.0435
+increase in the gap,0.0434
+power-structure,0.0433
+reactions,0.0430
+conversation or dialogue about topics (in this case,0.0429
+speculation - These are key topics that appear multiple times in the text and can be seen as overarching concepts affecting other themes mentioned (e.g.,0.0424
+danger,0.0423
+uprising,0.0423
+looting,0.0416
+desperation,0.0416
+job,0.0414
+housing,0.0414
+"with its catchy beat and humorous lyrics about a lemon.
+2. ""Mr. Roboto"" by Bow Wow – A techno-pop hit from 2018 featuring a futuristic vibe",0.0410
+narrative,0.0409
+slave-trade,0.0409
+caymans,0.0401
+"Control
+</|im_start|><|im_complete|>",0.0400
+number,0.0400
+illusion,0.0399
+whole,0.0397
+ai,0.0392
+sensitivity,0.0392
+know,0.0391
+property_decline,0.0391
+printing,0.0384
+secret,0.0383
+salary,0.0382
+rights,0.0380
+expert,0.0380
+trick,0.0379
+largest,0.0377
+president,0.0373
+central,0.0372
+customizable settings,0.0370
+forecast,0.0369
+violence,0.0363
+transactional-processes,0.0362
+political_system,0.0362
+government-agreements,0.0362
+lawlessness,0.0360
+legal-framework,0.0358
+music,0.0358
+digital identity,0.0357
+suspense,0.0356
+potential,0.0356
+intervention,0.0355
+employee,0.0353
+term contracts,0.0353
+high-quality lyrics screens,0.0353
+earn,0.0351
+return,0.0348
+correction,0.0341
+modern,0.0335
+demonstration,0.0335
+healthcare,0.0330
+conflict,0.0328
+power,0.0327
+autonomy,0.0326
+labor,0.0325
+need,0.0323
+legendary figure,0.0323
+rule,0.0322
+barrel,0.0322
+instability,0.0318
+symbolic,0.0307
+little,0.0306
+legacy,0.0305
+hero,0.0302
+intermediary,0.0301
+area,0.0296
+fake-evidence,0.0295
+government agreement,0.0292
+sheshels,0.0289
+effect,0.0288
+"which are also just a form of ""work""",0.0286
+deposit,0.0285
+heirs,0.0281
+safe,0.0281
+state capture,0.0280
+crazy,0.0275
+actionable-responses,0.0274
+featuring a user-friendly interface,0.0267
+evidence,0.0260
+warning light,0.0251
+conversation,0.0249
+global,0.0248
+"music
+</|im_start|>
+Hello! Based on the provided text",0.0244
+duties,0.0244
+do,0.0242
+martyrdom,0.0241
+who,0.0239
+possibility,0.0238
+human rights,0.0238
+colonization,0.0236
+action,0.0236
+communication,0.0236
+"with its emotional lyrics about longing for love and summer days without someone special.
+10. ""One more Light"" by Luna Sea – A powerful rock ballad that has made a strong impact on the karaoke scene in Japan as well as worldwide",0.0235
+belkid,0.0232
+honesty,0.0228
+road safety,0.0224
+country,0.0222
+exposure,0.0220
+morality,0.0218
+UK,0.0214
+"follow these steps: 1. Open the Spotify app and sign in with your account. 2. Go to ""Your Library"" by tapping the hamburger menu (three horizontal lines) at the top-right corner of the screen. 3. Select the album or playlist that contains the song you want to add. 4.
+
+### What are some popular Karaoke songs in Japan?
+
+Some popular karaoke songs in Japan include:
+
+1. ""Lemon"" by Limp Bizkit – This upbeat pop-rock track is one of the most sung karaoke song in Japan",0.0213
+and more!,0.0210
+authoritarian regimes,0.0208
+actions,0.0205
+gap,0.0204
+"there's a conversational tone represented by ""conversation"".",0.0203
+count,0.0199
+commission,0.0197
+options,0.0196
+and more,0.0194
+tax,0.0189
+systemic_mistake,0.0186
+thankyou,0.0182
+abnormally,0.0173
+symbolism,0.0170
+law,0.0169
+slavery,0.0166
+energy,0.0165
+tokens,0.0164
+mvtrade,0.0160
+deceit,0.0155
+customizable settings like pitch,0.0153
+unrest,0.0153
+United States,0.0149
+shifted,0.0148
+gender equality,0.0144
+"this song has caught on airplay as well as being popular for karaoke singing.
+3. ""Lullaby (Goodnight)"" by Kyary Carmen – This soothing and romantic song is another top choice in Japan. Its emotional lyrics and smooth melody make it a favorite among the audience.
+4. ""Dynamite"" by BTS – The explosive popularity of this karaoke track in Japan is no surprise given its massive fan base",0.0143
+tyranny,0.0142
+criminal,0.0139
+despite,0.0137
+"giving you an opportunity to sing your heart out without worrying about pitch and timing issues! This is particularly helpful for karaoke enthusiasts or anyone looking for a fun way to enjoy their favorite songs by hitting all the right notes.
+
+To use Spotify's Karaoke feature: 1. Open the Spotify app on your device (desktop",0.0135
+dictatorship,0.0129
+"with its dramatic lyrics and emotive vocal performance.
+
+### How does Spotify's Karaoke feature work?
+
+Spotify's karaoke feature allows users to sing along to their favorite songs by listening to the instrumental version of the song while reading the lyrics on screen. The lyrics appear in a scroll-like format as you follow along with the music",0.0129
+105.2,0.0129
+play,0.0125
+legalities,0.0119
+digital,0.0119
+persistent,0.0118
+civil rights,0.0118
+war,0.0117
+design,0.0116
+group,0.0116
+pandemic,0.0114
+game,0.0114
+Manipulation,0.0110
+earth,0.0104
+ATM,0.0100
+hypocrisy,0.0100
+eality,0.0097
+inheritance_tax,0.0095
+"musical-intervals
+</im_start|><|im_complete|>ai",0.0092
+law enforcement,0.0092
+radio,0.0090
+scoundrel,0.0089
+envy,0.0089
+"and focus on musical intervals (highlighted by the repeated use of ""[music]"" throughout the conversation.",0.0087
+background,0.0086
+"this song's distinctive lyrics and riffs make it an excellent choice for karaoke singers.
+7. ""Heroes"" by David Bowie – This iconic rock anthem is another hit in Japan for its powerful melody and emotional delivery.
+8. ""Won't You Be My Neighbor?"" by Rilo Kweltz – The nostalgic vibes of this Japanese pop band track have made it popular as a karaoke song in Japan.
+9. ""Nanatsu no Kimi ga Shitaite"" (Summer Days Without You) by Hey! Say! JUMP – This heartfelt ballad is another one of the top choices for karaoke lovers in Japan",0.0084
+emissions,0.0077
+total,0.0074
+something,0.0074
+instruments,0.0050
+trickery,0.0046
+gaming,0.0034
+tiny,0.0034
+transformation,0.0031
+work,0.0028
+civic engagement,0.0027
+2008,0.0024
+children,0.0019
+coercive,0.0017
+compelled,0.0016
+ukgb,0.0015
+rank,0.0012
+attention,0.0005
+entitle,0.0005
+and music. These tags cover the main themes of artificial intelligence,0.0003
+mistake,0.0002
+manipulation,0.0000
+ethical conduct,-0.0006
+hearing,-0.0009
+treachery,-0.0011
+neighborhood,-0.0011
+telephone,-0.0012
+war era,-0.0016
+empathy,-0.0016
+aware,-0.0018
+agreements,-0.0019
+uunderground,-0.0026
+hunger,-0.0028
+and musical elements that play throughout the segment.,-0.0035
+dark web,-0.0036
+"offering a plethora of customization options for both desktops (Windows/macOS) and mobile devices (Android/iOS).
+
+In conclusion",-0.0039
+"the relevant tags are:
+
+ai",-0.0043
+consider,-0.0067
+digital-transformation,-0.0071
+coercation,-0.0077
+citizen,-0.0094
+apps,-0.0094
+law-enforcement,-0.0099
+shifted_boundaries,-0.0099
+illegal activities,-0.0104
+criminal activities,-0.0107
+I have identified the following three highly relevant tags: ai,-0.0109
+barter,-0.0112
+musical_interlude,-0.0113
+political activism,-0.0117
+term,-0.0118
+criminal activity,-0.0118
+martyr,-0.0119
+dishonesty,-0.0130
+earned,-0.0132
+fonts,-0.0133
+wholecountry,-0.0135
+"making it perfect for group singing!
+7. KaraFun – An intuitive karaoke app offering a rich library of songs",-0.0135
+"catchy beat and powerful vocals.
+5. ""Uptown Funk"" by Mark Ronson ft. Bruno Mars – This high-energy hit has made a huge impact on the karaoke scene in Japan as well as worldwide due to its infectious rhythm and smooth vocal performance.
+6. ""Shut Down – Go Away"" by Shōji Kuranohana – A unique blend of rock and hip hop",-0.0158
+cunning,-0.0159
+criminal-infested,-0.0159
+"helping you sing your favorite tune perfectly!
+
+### Can you use any karaoke software besides Spotify?
+
+There are many other karaoke software options available in addition to Spotify's feature",-0.0160
+identity,-0.0163
+jealousy,-0.0165
+and more across various platforms including Android,-0.0168
+iOS,-0.0172
+speculation - The comma separates the different topics effectively without any spaces or breaks in formatting beyond standard punctuation. This makes it clear that each word represents a distinct tag that should not be combined or separated from its peers in an analysis of the text's themes/topics.,-0.0176
+coal,-0.0178
+duty,-0.0184
+state,-0.0194
+trade,-0.0202
+elite,-0.0205
+coercive_mechanisms,-0.0216
+mon,-0.0217
+lie,-0.0224
+legal battles,-0.0229
+"featuring customizable settings and an extensive song library.
+3. BKaraoke Pro – An advanced karaoke application available on Android devices that allows users to choose from a variety of languages",-0.0247
+legal,-0.0249
+guest,-0.0252
+smuggling,-0.0262
+MV Trade,-0.0286
+dark,-0.0287
+pitch,-0.0289
+oldest,-0.0292
+inheritance_laws,-0.0293
+bring,-0.0296
+"ext |im_favorite_song.
+To add a song that you love to your favorite songs list on Spotify",-0.0306
+as well as customizable settings like font style,-0.0308
+accepted,-0.0311
+playback options,-0.0315
+as well as the ability to play multiple songs at once! 10. Sing2K – A user-friendly and visually appealing karaoke software with an extensive song library,-0.0327
+536-286-286,-0.0333
+"tablet). 2. Go to ""Your Library"" from within the app. 3. Select the song you want to karaoke by tapping on it. 4. Select the instrumental version of the song by tapping on the three dots or vertical lines next to it. 5. Spotify will then display a lyrics scroll as you listen and follow along with the music",-0.0339
+event,-0.0340
+token,-0.0340
+econmy,-0.0344
+illegal,-0.0393
+civil-war,-0.0398
+iOS),-0.0411
+and musical interlude (musical_interlude). Additionally,-0.0425
+and an extensive song library. 6. Karaoke Plus – A sleek and stylish karaoke software with the ability to sync multiple devices together and enjoy full screen immersion,-0.0425
+"musical-intervals
+</im_complete|>
+The tags provided are: ai",-0.0439
+led,-0.0440
+illegal-activity,-0.0457
+such as: 1. KaraK – A popular karaoke app for Android and iOS users that offers a wide range of songs with high-quality lyrics screens,-0.0460
+mobile,-0.0471
+"and Windows/macOS. 8. Karaoke Master Pro – A robust and versatile karaoke software designed for both desktops (Windows/macOS) and mobile devices (Android/iOS).
+9. KaraK Pro – Another top-notch karaoke app that stands out due to its stunning high-quality lyrics screens",-0.0486
+operation,-0.0511
+price,-0.0525
+dark-activities,-0.0531
+illegality,-0.0544
+as well as the option for screen mirroring across different platforms like Android,-0.0586
+"iOS and Windows/macOS.
+5. GigaKaraoke – Another popular karaoke app designed specifically for mobile use (Android",-0.0638
+legality,-0.0654
+and software available to choose from that cater to your karaoke needs – whether you're looking for a fun way to enjoy your favorite Spotify tracks or need advanced customization options like pitch shifting,-0.0679
+and even has the capability to connect multiple screens together! 4. Karaoke Box – A powerful karaoke software offering an impressive library of songs,-0.0684
+outlaw,-0.0726
+allowing you to sing along to your favorite tracks. 2. Karaoke Master – A versatile karaoke software designed specifically for Windows and MacOS,-0.0728
+invite,-0.0729

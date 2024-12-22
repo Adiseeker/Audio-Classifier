@@ -1,0 +1,991 @@
+tag_name,cosine_similarity
+schools) while also mentioning their work in business and emphasizing practical knowledge transfer rather than mere academic learning. Thus,0.4619
+education|,0.4539
+"education
+</|im_start|>",0.4399
+business professionals (economist,0.4320
+"economics
+</|im_start|>",0.4234
+academic life,0.4212
+social-learning,0.4200
+education,0.4196
+which would be important for an economy magazine. The tags 'economy' and 'business' capture the main themes of the conversation,0.4186
+"radio broadcasting
+The text mainly discusses the topics of economist",0.4180
+"""learning"" and ""brain-research"" are relevant to the main themes",0.4122
+education choice,0.4087
+business,0.4026
+exploitation of students,0.3996
+"media
+
+The text mentions ""economist"" which relates to economic discussions and analysis; ""financier"" refers to individuals involved in finance or financial matters; and ""program was led by Krzysztof Strauchman"" suggests a focus on the leadership of projects. Together",0.3928
+"""business""",0.3898
+economics,0.3886
+intellectual growth,0.3851
+mentorship,0.3848
+"I identified ""business"" as a primary tag to represent the professional context of the person's activities",0.3847
+personal development,0.3845
+"academia
+</|im_start|>
+The given text discusses several topics such as the perception of practicality vs. coolness in technology",0.3839
+business advice,0.3829
+"entrepreneurship
+</|im_end|>",0.3806
+scholarly discourse,0.3744
+"education
+<|im_complete|>",0.3666
+learning from books (education),0.3651
+"zoo management
+</>
+1. environment
+2. taxation
+3. development",0.3650
+lectures,0.3644
+professional journey,0.3634
+lifelong learning,0.3595
+and transportation; education in gaining expertise; and knowledge sharing for effortful learning experiences. Thus,0.3592
+"professionalism
+</im_start|>",0.3582
+teaching,0.3577
+media critique,0.3571
+student-teacher relationships,0.3568
+academic environment,0.3568
+"and ""knowledge"" and ""career"" for the broader career trajectory and pursuit of practical value mentioned in the text.",0.3545
+Gaining Knowledge,0.3532
+and working hard towards goals (motivation). These are all relevant topics that can be identified as main themes in the given context.,0.3526
+academia,0.3489
+expertise,0.3470
+professional development,0.3437
+career development,0.3431
+education system,0.3429
+philanthropy,0.3419
+courses,0.3413
+"multiplication-of-strategies
+The text discusses learning processes and how people often rely on others' advice rather than understanding the underlying concepts themselves",0.3396
+professional experience,0.3389
+mentoring,0.3377
+conservative thesis,0.3373
+"expertise
+</|im_start|>These tags are derived from the text provided. The main themes and topics include artificial intelligence (AI) as a transforming force through industries like healthcare",0.3360
+and mentions radio stations in Głuchołazy and their broadcasts on 105.2 FM. These themes are related to entertainment (specifically financial entertainers),0.3356
+"learning
+I used the definition by analyzing the text for main themes and topics that are consistently present throughout. The text discusses gaining knowledge",0.3337
+modern-society,0.3316
+learning,0.3313
+academic choice,0.3301
+professionalism,0.3292
+student-teacher relationship,0.3290
+student,0.3286
+"education
+</en>>",0.3286
+economic-policy,0.3271
+financial-advice,0.3262
+entrepreneurship,0.3262
+political-skills,0.3249
+bureaucracy,0.3236
+economic policy,0.3232
+management,0.3229
+university avoidance,0.3210
+personal growth,0.3208
+youth,0.3205
+"anniversary
+</im_start|>The text is mainly about the following themes:
+1. Music and its importance in broadcasting.
+2. Economic topics discussed on radio.
+3. Anniversary of a long-running broadcast.
+
+Therefore",0.3191
+political-science,0.3186
+economic-competence,0.3144
+Critical Thinking,0.3141
+"university
+</im_start>",0.3137
+"profession
+</|im_end|>",0.3133
+studies,0.3123
+social-reactions,0.3108
+"and transportation.
+
+Part #2: Return 3 highly relevant tags to the main topics and themes
+Usage: From our analysis in Part#1",0.3097
+"career development
+</im_start|>",0.3091
+business (commercial activities),0.3082
+and learning.,0.3077
+"""economy""",0.3075
+senior management,0.3069
+and expertise emerge as the three most relevant tags.,0.3062
+personal-reflection,0.3020
+environmentalism,0.3010
+philosophy,0.3009
+"environmentalism
+</im_start|>",0.3000
+career opportunities,0.2997
+"""skepticism"" to highlight the questioning attitude towards certain educational approaches",0.2991
+communications,0.2979
+social changes,0.2975
+"discussions<|im_complete|>
+</d>
+I have analyzed the given text and identified the main topics and themes. Based on the guidelines provided",0.2974
+and media (broadcasting or radio stations).,0.2968
+"entrepreneurial spirit
+</nowrap>
+I used the definition to come up with these tags by analyzing the main themes and topics in the text. The text discusses an individual's experiences as a teacher across various settings (universities",0.2959
+media,0.2950
+"""education"" and ""expertise"" to highlight the educational aspect of teaching",0.2921
+self-motivation,0.2918
+doctorate,0.2913
+globalization,0.2905
+social impact|,0.2904
+encouragement,0.2896
+modernity,0.2887
+educational_institution,0.2887
+career choice,0.2883
+public administration,0.2881
+communication,0.2876
+"""knowledge"" to highlight the subject matter discussed",0.2876
+political career,0.2874
+"topics
+</im_end:True></b>
+These tags are relevant because the text discusses economic and business-related topics",0.2866
+dialogue,0.2855
+tourism,0.2830
+conversations,0.2830
+environmental,0.2829
+career path,0.2824
+pessimistic outlook,0.2823
+university,0.2823
+media criticism,0.2822
+being open to discussions,0.2807
+modern society,0.2807
+Knowledge,0.2804
+career,0.2797
+"management
+</im_start|>",0.2793
+economic,0.2787
+financialization,0.2774
+while 'topics' indicates that multiple subjects are being discussed over time.,0.2757
+educational_system,0.2756
+free-market,0.2755
+brain-research,0.2751
+social media discourse,0.2743
+alumni connections,0.2742
+self-determination,0.2741
+self-exploration,0.2729
+"social experiments
+</|im_start|>",0.2726
+work-life balance,0.2721
+"and transportation."" We need to understand its main topics and themes. The guideline explicitly states that we should analyze the whole sentence without splitting it into parts. So analyzing the entire sentence we find that the main theme of the text is about AI's impact on various sectors such as healthcare",0.2708
+worldview,0.2707
+social dynamics,0.2698
+leadership,0.2698
+discussions,0.2697
+social,0.2694
+collaboration,0.2692
+and recognizing ignorance in oneself or others as a means of learning. These topics directly correspond with the generated tags: knowledge,0.2686
+critique,0.2684
+and academic assessments. Therefore,0.2680
+music,0.2674
+"and ""academia"" representing the field of study involving education and degrees.",0.2672
+discussion,0.2670
+Mr. Mariusz Stefaniak,0.2661
+social commentary,0.2657
+"poland
+
+The given text mainly revolves around topics related to radio broadcasting",0.2655
+financial,0.2650
+political views,0.2645
+Politics,0.2635
+worklife-balance,0.2634
+"effort
+</|im_start|>These tags are based on the main themes and topics identified in the provided text. The text discusses the importance of knowledge gained through years of effort and the satisfaction derived from this experience. Therefore",0.2625
+advice giving,0.2618
+environment,0.2617
+innovation,0.2615
+economy,0.2613
+psychology,0.2609
+"experience
+</im_start|>",0.2602
+methodology,0.2596
+"will
+The text contains repetitive use of ""the twelfth part"" which makes it clear that these are likely the main topics or themes discussed in the passage.",0.2594
+"writing
+You correctly identified the main topics based on the repeated structure of the text and provided tags that seem relevant to the theme of ""the twelfth part."" The other guidelines were followed by providing a single word tag each without any additional formatting or phrases.",0.2593
+influence,0.2588
+personal decisions,0.2587
+management_experience,0.2586
+questions,0.2578
+life skills,0.2573
+economic situation,0.2572
+capitalism,0.2566
+criticism,0.2564
+political discourse,0.2561
+society,0.2560
+professional,0.2555
+dialogues,0.2550
+career advancement,0.2549
+"motivation
+</>
+Explanation: The text mentions the concepts of artificial intelligence",0.2541
+ideologies,0.2539
+European Funds Affairs,0.2537
+politics,0.2537
+"secret
+Part #1: Analyze a given text
+Usage: In this case",0.2530
+reform,0.2528
+intellectual,0.2507
+warsaw economics,0.2503
+"we got along really well.
+technology",0.2499
+political_views,0.2493
+pessimistic view,0.2486
+knowledge,0.2486
+audition,0.2485
+sustainability,0.2484
+quotes,0.2482
+employment trends,0.2482
+politician,0.2476
+literature,0.2470
+practices,0.2464
+finance,0.2455
+recession,0.2451
+wisdom,0.2450
+critical thinking,0.2443
+self-improvement,0.2443
+economic changes,0.2435
+policymaking,0.2431
+profession,0.2431
+work ethic,0.2430
+alumni relations,0.2424
+sentence,0.2417
+"writing
+Part of the task is to analyze the text and come up with relevant tags based on its main topics and themes. In this case",0.2410
+intellectual debate,0.2408
+and broadcasting/radio channels.,0.2392
+science career,0.2392
+professional contact,0.2386
+politicians,0.2380
+infrastructure,0.2379
+self-employment,0.2379
+mentor-mentee,0.2375
+ideology,0.2372
+these topics relate primarily to finance (money management),0.2371
+financial crisis,0.2367
+propaganda,0.2367
+"modernization
+</|im_start|>",0.2363
+academic_field,0.2359
+"doctoral_thesis
+</d>",0.2358
+we found AI was impacting industries. So,0.2353
+credibility,0.2353
+optimistic views,0.2352
+corporate,0.2351
+academic dishonesty,0.2346
+"the input is ""Artificial intelligence is transforming industries like healthcare",0.2343
+quote,0.2336
+persuasion,0.2327
+growth,0.2322
+resources,0.2319
+joblessness,0.2310
+strategy,0.2302
+"I've generated the following tags:
+- Ignorance
+- Knowledge
+- Debate
+- Effort
+- Openness
+- Learning
+- Arguments
+- Majority
+- Growth
+- Discussions",0.2302
+universities,0.2301
+specialist,0.2292
+success,0.2290
+family-time,0.2288
+policy,0.2288
+"automation which cover both AI's role and impact on those sectors.
+
+Part #3: Each tag must be a single word
+Usage: 'ai'",0.2282
+film industry,0.2282
+human-behavior,0.2282
+expert,0.2279
+radio,0.2275
+revolution,0.2274
+political,0.2267
+political ambition,0.2259
+personal responsibility,0.2255
+self-directed learning,0.2253
+conventionality,0.2246
+practitioner,0.2241
+"whirlpool of history
+</|im_start|>",0.2240
+Ministry,0.2238
+research_topic,0.2234
+Italian politics,0.2234
+competence,0.2230
+'technology',0.2228
+practicality,0.2219
+alumni,0.2216
+advice seeking,0.2211
+social-norms,0.2211
+telecommunications,0.2207
+cognitive-biology,0.2207
+finance (in the sense of financiers or being related to finances),0.2201
+policy maker,0.2198
+humanities,0.2191
+government,0.2188
+history,0.2187
+healthcare,0.2186
+investment,0.2181
+meeting,0.2176
+motivation,0.2174
+developing,0.2172
+"and ""effort"" to represent the hard work and dedication involved in gaining such knowledge.",0.2172
+"multiplicitous-strategies
+</s>",0.2172
+we tag 'ai' for artificial intelligence being the most significant theme of the sentence. The other two tags could be related to the sectors mentioned (healthcare,0.2162
+future,0.2162
+manifestation,0.2161
+forecasting,0.2157
+experience,0.2155
+strategies,0.2152
+entertainment,0.2149
+colleagues,0.2148
+productivity,0.2144
+intelligence,0.2144
+free_market,0.2140
+companies,0.2137
+"companies
+</|im_end|>",0.2124
+trends,0.2121
+real estate,0.2118
+financial stability,0.2115
+narrative,0.2110
+family relationships,0.2106
+development.,0.2101
+banking,0.2098
+industries,0.2098
+views,0.2092
+art,0.2091
+choice,0.2089
+cognitive biases,0.2087
+empathy,0.2077
+crisis,0.2075
+assessment,0.2065
+conservatism,0.2065
+work,0.2060
+argumentation,0.2059
+debate,0.2057
+employer,0.2051
+surveillance,0.2045
+"sentence
+</|im_end|>",0.2026
+human behavior,0.2017
+technology,0.2013
+avoidance,0.2013
+financier),0.1998
+thoughtfulness,0.1995
+"program management
+</|im_start|>\n```python
+text = ""economist",0.1985
+analysis,0.1981
+learned,0.1976
+observation,0.1973
+conservative_views,0.1971
+"quotes
+</|im_start|>",0.1969
+leaders,0.1967
+resource,0.1967
+resignation,0.1961
+respect,0.1960
+questioning,0.1958
+leading to a multiplication of strategies over time. Therefore,0.1956
+profit,0.1955
+books,0.1951
+demand,0.1943
+billionaires,0.1940
+capital,0.1938
+future care,0.1936
+practical value,0.1936
+relevance,0.1930
+data analysis,0.1925
+research,0.1925
+skills,0.1923
+profitability,0.1922
+challenges,0.1919
+Debate,0.1918
+development,0.1915
+relationship,0.1912
+merit-preparation,0.1906
+funding,0.1897
+Eurozone,0.1896
+tolerance,0.1896
+knowledge transfer,0.1893
+analytics,0.1887
+transition,0.1886
+science,0.1885
+modelling,0.1883
+wise-people,0.1881
+competition,0.1878
+rhetoric,0.1878
+excellence,0.1874
+but they may not perfectly encapsulate every theme or idea present.,0.1870
+perspective,0.1867
+reality,0.1864
+technological advancement,0.1855
+caregiving,0.1853
+"years
+<|im_continue|>user
+Can you explain how you came up with these tags?",0.1851
+ecological,0.1849
+"the relevant tags are ""music""",0.1844
+production,0.1837
+understanding,0.1836
+developement,0.1834
+ministerial,0.1833
+Openness,0.1827
+housing,0.1826
+radio station,0.1825
+disappointment,0.1819
+"freedom
+</im_start|>",0.1817
+honesty,0.1814
+knowledge_facts,0.1814
+tactics,0.1810
+predictive,0.1809
+life,0.1804
+advice,0.1802
+mariusz,0.1801
+repetition,0.1798
+"transformation
+These tags are derived from analyzing the text and identifying recurring themes and keywords which point towards ""twelfth"" as a central theme",0.1797
+chronological,0.1792
+difficulties,0.1791
+approach,0.1790
+Mariusz Stefaniak,0.1790
+money museum,0.1788
+guidance,0.1786
+planning,0.1784
+response,0.1778
+aging,0.1774
+development industry,0.1768
+tv,0.1761
+confirmation bias,0.1760
+wealth,0.1760
+world-complexity,0.1760
+theory,0.1759
+nature conservation,0.1753
+trend,0.1752
+autocracy,0.1752
+change,0.1749
+argument,0.1748
+usefulness,0.1745
+discovery,0.1744
+"will
+Part of the text is repeatedly mentioning ""the twelfth part"" which makes it the main theme. ""Twelfth"" serves as a significant identifier for this recurring idea and suggests that there might be a story or narrative revolving around different instances of the twelfth part being involved in events. Hence",0.1743
+arguments,0.1738
+spending,0.1734
+public,0.1733
+reasoning,0.1733
+principle,0.1733
+"and the program was led by Krzysztof Strauchman.\nIn the next episode\nOther radio stations in Głuchołazy and the area\n105.2\n105.2""
+tags = set()
+for word in text.split():
+    if word[0].isupper():
+        tags.add(word)
+print('",0.1732
+meet,0.1728
+fiction,0.1725
+merit-based-preparation,0.1723
+population growth,0.1722
+skepticism,0.1722
+Jacek Makarewicz,0.1720
+ukraine crisis,0.1720
+principles,0.1717
+guest speaker,0.1716
+"the repetitive structure of ""The twelfth part will be in the twelfth part"" suggests a focus on a central theme or story element",0.1715
+"brain-multiplication
+</|im_start|>Keep in mind that these tags are highly relevant to the text based on its content and context",0.1715
+wise person,0.1713
+mentor,0.1711
+"repetition
+</|im_start|>",0.1709
+manufacturing,0.1708
+evaluation,0.1706
+autonomy,0.1697
+market,0.1691
+filmmaking,0.1685
+inspiration,0.1684
+interpretation,0.1683
+whirlpool of history,0.1671
+poverty,0.1671
+training,0.1671
+taxation,0.1667
+time,0.1665
+conservative,0.1664
+"loneliness
+</im_start>",0.1660
+textual,0.1650
+interactions,0.1650
+financier,0.1649
+peer review,0.1649
+social reaction,0.1649
+quest,0.1646
+people_discussion,0.1646
+end,0.1639
+money,0.1637
+Conservative,0.1627
+cultural norms,0.1625
+optimism,0.1621
+thesis,0.1619
+scientific knowledge,0.1617
+evolutionary,0.1616
+struggle,0.1614
+anti_statism,0.1612
+responsibility,0.1611
+support,0.1609
+telecoms,0.1608
+interaction,0.1598
+sequential,0.1596
+ethical,0.1595
+office,0.1595
+film,0.1591
+nature,0.1588
+dynamics,0.1584
+humanity,0.1575
+Money Museum,0.1574
+cool-logic,0.1570
+migration,0.1568
+logical fallacies,0.1566
+European Union,0.1565
+animal behavior,0.1564
+ritual.,0.1560
+social_reactions,0.1558
+language,0.1554
+freedom,0.1553
+"the relevant tags are ""radio""",0.1551
+inflation,0.1544
+care,0.1542
+democracy,0.1538
+turning,0.1524
+IT,0.1523
+truth,0.1518
+museum,0.1517
+contact,0.1516
+projects,0.1514
+Museum,0.1512
+financial implications,0.1511
+scientific,0.1511
+pension,0.1509
+"""transformation"" could be considered due to the process described in the given text (the twelfth part transforming or influencing other parts).",0.1502
+future value,0.1501
+cooperation,0.1493
+openness,0.1492
+stage,0.1489
+ignorance,0.1489
+connection,0.1483
+supply,0.1477
+courage,0.1474
+opinion,0.1468
+pessimism,0.1466
+revelation,0.1463
+secrets,0.1462
+solutions,0.1461
+affect,0.1460
+answers,0.1459
+transformation,0.1456
+bankruptcy,0.1451
+methods,0.1451
+connectivity,0.1451
+combining all these themes and elements into a single list of highly relevant tags,0.1448
+manipulation,0.1448
+part,0.1447
+"data analysis
+<|im_complete|>",0.1439
+timeline,0.1432
+"zoo
+</im_start|>",0.1431
+authorities,0.1431
+rise,0.1430
+policymaker,0.1427
+structure,0.1424
+mention,0.1420
+point,0.1419
+trust,0.1416
+"while ""multiplication-of-strategies"" captures this specific concept in the text.",0.1405
+"""humanity"" to denote the general societal context",0.1399
+automatization,0.1394
+continuous,0.1391
+personal_reflection,0.1390
+twelfth part,0.1390
+transportation). But since there are only three tags required per sentence and each sector is closely connected with AI in this context,0.1386
+"the repeated phrase ""The twelfth part will be in the twelfth part"" suggests that the text is about a specific writing or composition. Therefore",0.1386
+sensible,0.1381
+majorities,0.1380
+failure,0.1377
+loneliness,0.1377
+valuation,0.1376
+authority,0.1372
+revenue,0.1370
+insight,0.1369
+movements,0.1362
+scientific truth,0.1347
+reaction,0.1345
+self_deprecation,0.1343
+outcome,0.1340
+contacts,0.1339
+pensions,0.1338
+networking,0.1336
+evolution,0.1333
+return,0.1330
+"'automation' are all single words and fit within the guideline requirements. The definition is clear-tags should be one word only. They directly represent key topics or themes in the input text without any phrases or additional formatting. 
+
+Part #4: Separate the tags with commas",0.1328
+movement,0.1327
+"lfth
+Part <|sempre_1|> is about repeating patterns and themes within a text that might indicate certain underlying meanings or messages. In this case",0.1326
+conclusion,0.1325
+vacation,0.1315
+deficit,0.1312
+protest,0.1309
+ethical conduct,0.1305
+ideas,0.1297
+consequence,0.1297
+plan,0.1297
+top,0.1294
+sectional,0.1293
+"the relevant tags are ""ai"" (artificial intelligence) to emphasize the context of modern times",0.1291
+performance,0.1289
+financing,0.1285
+office buildings,0.1284
+we get: theme,0.1283
+networks,0.1282
+families,0.1274
+"man
+</|im_start|>",0.1270
+family,0.1268
+Effort,0.1268
+control,0.1267
+ai,0.1260
+viewpoints,0.1256
+housing bubble,0.1253
+"'.join(tags))
+```",0.1251
+zoo,0.1245
+power struggle,0.1244
+building,0.1237
+children,0.1237
+delight,0.1237
+power,0.1233
+eco,0.1232
+meaninglessness,0.1231
+making,0.1227
+framework,0.1227
+caution,0.1225
+direction,0.1223
+a program led by Krzysztof Strauchman,0.1222
+video,0.1220
+cautiousness,0.1218
+"anniversary
+</im_start|>",0.1213
+disturb,0.1210
+"effort
+</|im_start|>These tags are based on the main themes and topics identified within the text:
+1. ai - Artificial Intelligence (mentioned several times)
+2. knowledge - sharing of acquired expertise
+3. effort - perseverance and hard work",0.1205
+rebellion,0.1200
+twelfth-part,0.1199
+prediction,0.1199
+sub-section,0.1199
+disturbance,0.1197
+curiosity,0.1195
+follow,0.1193
+shifts,0.1190
+repeat,0.1187
+effect,0.1180
+iteration,0.1176
+bubble burst,0.1170
+acceptance,0.1170
+automation,0.1158
+artificial intelligence,0.1156
+individual,0.1153
+debt,0.1149
+from,0.1143
+identity,0.1139
+foundation,0.1138
+connections,0.1136
+repeating,0.1131
+logic,0.1127
+decline,0.1120
+taxes,0.1120
+experiment,0.1114
+interdependence,0.1114
+people,0.1112
+decision,0.1108
+housing market,0.1105
+inflation rate,0.1103
+disbelief,0.1097
+expense,0.1094
+effort,0.1092
+opposition,0.1084
+inclusion,0.1080
+optimistic,0.1078
+belief,0.1074
+integrity,0.1066
+scenario,0.1066
+breakup,0.1065
+periodical,0.1065
+uncertainty,0.1060
+protest rally,0.1059
+waves,0.1059
+deficits,0.1051
+pay,0.1051
+reality checks,0.1048
+finances,0.1047
+error,0.1046
+"leading to other relevant tags:
+- Number
+- Symbolism
+- Ritual
+
+Therefore",0.1045
+shambo,0.1035
+value,0.1032
+I chose these 3: ai,0.1028
+planetary,0.1024
+agreement,0.1012
+shift,0.1007
+budget,0.1005
+experiments,0.1004
+"delighted
+</s>",0.0998
+free man,0.0989
+not,0.0988
+polish,0.0983
+dependency,0.0977
+deflation,0.0974
+mistake,0.0970
+laughter,0.0965
+renewable|im_end|>,0.0964
+workload,0.0963
+delighted,0.0959
+rights,0.0957
+bubble,0.0957
+forecast,0.0950
+reality check,0.0950
+ukraine,0.0950
+moral,0.0945
+believe,0.0945
+entering,0.0945
+consensus,0.0942
+structural,0.0941
+"twelfth
+</|im_end|>",0.0940
+data,0.0940
+"anniversary
+</im_end:1>|>",0.0939
+succession,0.0937
+water resources,0.0931
+practice,0.0931
+techniques,0.0930
+meaning,0.0929
+withdrawal,0.0927
+funds,0.0922
+position,0.0921
+scientific method,0.0920
+brain-multiplication,0.0916
+survival,0.0912
+twelfth,0.0910
+allocation,0.0907
+Ukrainians,0.0901
+belief_disturbance,0.0898
+misinformation,0.0896
+value today,0.0895
+processes,0.0893
+machine,0.0889
+mortality,0.0882
+based on that information,0.0881
+progress,0.0878
+years,0.0866
+leasing,0.0864
+energy,0.0864
+coolness,0.0862
+system,0.0859
+power struggles,0.0855
+capacity,0.0854
+model,0.0853
+"the most relevant tags are ""twelfth"" and ""writing"". The other words like ""part"" could also relate to the theme but might not stand out as strongly due to their repetition in the context provided.",0.0852
+tags related to numbering systems (twelfth) and actions (will) are suitable.,0.0852
+isolation,0.0846
+facts,0.0842
+poland,0.0841
+protested,0.0837
+water,0.0836
+plot,0.0835
+efficiency,0.0833
+I,0.0830
+year,0.0829
+process,0.0827
+broken,0.0826
+disturbed,0.0824
+numbering,0.0824
+proven,0.0816
+european,0.0816
+step,0.0814
+reveal,0.0813
+risk,0.0809
+it,0.0807
+insurance,0.0805
+legislation,0.0805
+divergence,0.0805
+margin,0.0802
+air quality,0.0799
+plans,0.0798
+merit preparation,0.0798
+scheduling,0.0798
+positions,0.0794
+measurement,0.0792
+circuit,0.0792
+distribution,0.0789
+scientific_facts,0.0787
+artificial,0.0784
+shock,0.0782
+parts,0.0780
+close,0.0774
+and after talking for hours,0.0773
+"measurable decline
+</|im_end|><|model_14869d72538a0b57fbf2|<tagger>",0.0772
+impact,0.0772
+automation follows this guideline perfectly as it separates our three identified tags using commas and ensures there are no spaces between them or extra characters. This meets the requirement for formatting our output.,0.0769
+free,0.0758
+citizens,0.0756
+complexity,0.0753
+suggesting division or separation into parts. Lastly,0.0743
+Euro area,0.0742
+Majority Openness,0.0738
+wrocław,0.0737
+Poland,0.0736
+banks,0.0735
+procedure,0.0734
+incremental,0.0730
+immigration,0.0725
+phase,0.0725
+russian,0.0713
+and possibly Poland due to the mention of a specific frequency (105.2 FM). Therefore,0.0708
+manual,0.0701
+AI,0.0698
+break,0.0687
+yield,0.0682
+loop,0.0682
+thankyou,0.0680
+statistics,0.0675
+cycles,0.0673
+warsaw,0.0667
+progression,0.0660
+procedures,0.0655
+existential dread,0.0651
+Warsaw,0.0649
+symbolism,0.0648
+cycle,0.0647
+fuel,0.0636
+PLN,0.0632
+fall,0.0622
+golden-cap,0.0620
+chapter,0.0612
+guest,0.0598
+completion,0.0597
+order,0.0595
+"vulnerability
+<|im_complete|></d>",0.0591
+processing,0.0589
+buildings,0.0585
+u20% increase,0.0583
+series,0.0583
+oposition,0.0579
+"sequence
+</|im_start|>",0.0576
+"which can lead to tags such as:
+- Theme
+- Repetition
+- Narrative
+
+Additionally",0.0574
+burst,0.0572
+countryside,0.0560
+millions,0.0548
+counting,0.0533
+inequality,0.0533
+segment,0.0526
+Ukraine,0.0521
+estimation,0.0520
+characters,0.0519
+invitation,0.0508
+auto,0.0507
+"and ""anniversary"".",0.0506
+air,0.0490
+payment,0.0454
+fact,0.0452
+"billions
+</|im_start|>",0.0446
+pink scenario,0.0431
+anniversary,0.0424
+stagnation,0.0414
+comparison,0.0404
+episode,0.0381
+convergence,0.0381
+recovery,0.0376
+estimates,0.0375
+optimization,0.0360
+season,0.0355
+ukraine population,0.0354
+housing prices,0.0348
+whirlpool,0.0347
+previously,0.0344
+"indicating some kind of cycle or order being established. The term ""part"" is repeated throughout",0.0340
+numeration,0.0325
+polarization,0.0317
+prices,0.0310
+sequence,0.0300
+"without spaces or additional formatting
+Usage: ai",0.0298
+truncation,0.0293
+increment,0.0289
+billions,0.0288
+lfth,0.0282
+estimated,0.0262
+stability,0.0262
+division,0.0259
+integration,0.0254
+costs,0.0242
+duration,0.0230
+majority,0.0214
+fearless,0.0214
+giant,0.0211
+population,0.0211
+tools,0.0211
+"and ""poland"".",0.0208
+"the mention of ""twelfth"" and ""lfth"" hints at numbers and possibly numerology",0.0200
+numbers,0.0197
+breathing,0.0189
+subdivision,0.0182
+scattered,0.0180
+partitions,0.0172
+cost,0.0163
+housing market deficit,0.0154
+number,0.0146
+golden cap,0.0141
+waiting,0.0118
+pink,0.0076
+simulation,0.0072
+human life expectancy,0.0062
+battlefield,0.0052
+rebels,0.0014
+green,-0.0008
+co2,-0.0134
+parking,-0.0166
+pink clouds,-0.0219

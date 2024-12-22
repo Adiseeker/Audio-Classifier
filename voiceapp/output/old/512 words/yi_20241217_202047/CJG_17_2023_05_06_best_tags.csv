@@ -1,0 +1,861 @@
+tag_name,cosine_similarity
+National Bank of Poland,0.5939
+national bank of poland,0.5732
+National Bank of Poland.,0.5709
+"National Bank of Poland
+</im_start|>
+Okay",0.5697
+bank of poland,0.5367
+polish economy,0.5146
+he talked about the so-called inflation rate. He explained that the price jump was brought to Poland by high fuel and gas prices. But now these prices are much lower than they used to be. His statement was also deceitful,0.5039
+National Central Bank,0.4603
+bank crisis,0.4124
+central banking system,0.4106
+glapiński-president,0.4034
+national bank,0.3950
+national_central_bank,0.3949
+poland,0.3906
+central-bank,0.3902
+Monetary policy,0.3889
+current_bank_crisis,0.3864
+India-Poland-comparison,0.3853
+unexpected inflation,0.3843
+monetary policy,0.3800
+financial-instruments,0.3689
+"finance
+</|im_start|><|im_continue|>Each tag is a theme that can be found in the given text:
+1) ""PARROT TV"" - It's mentioned multiple times indicating it could be relevant.
+2) ""streaming"" - It refers to online video content which seems to be discussed in the text.
+3) ""economics"" and ""finance"" - These are two main topics that were mentioned throughout the conversation. The guest is an economist and they discuss the situation of the National Bank of Poland",0.3684
+central banking,0.3678
+central bank council,0.3623
+central banks,0.3609
+central bank,0.3519
+financial loss,0.3513
+monetary_policy,0.3506
+financial stability,0.3501
+public finance,0.3500
+financial statements analysis,0.3489
+economy crisis,0.3478
+Poland,0.3458
+uncontrolled spending,0.3458
+economy reporting,0.3450
+financial-crises,0.3433
+economic loss,0.3432
+economic controversy,0.3414
+financial losses,0.3405
+inflation fight,0.3402
+high inflation,0.3399
+"communication
+</|im_start|>The identified tags for the given text include: Poland",0.3387
+central_bank,0.3385
+economy-analysis,0.3376
+"the primary theme is about ""education"" as it discusses a student's experience with an incompetent economics teacher at university. It also mentions ""finance"" in relation to Financial Policy Council discussions and economic knowledge. The third tag ""economics"" directly relates to expertise or economic knowledge being questioned. This meets the criteria because all three selected tags are central to the themes of the text",0.3373
+Mr. Adam Glapiński's term,0.3371
+fights inflation,0.3351
+"economic policy
+</|im_end|",0.3350
+economic discussion,0.3336
+"poland
+</im_start|>|<|im_continue|>",0.3335
+economic policy,0.3327
+banking system,0.3307
+monetary policy actions,0.3298
+bank,0.3295
+financial crisis,0.3285
+financial systems,0.3277
+economist discussion,0.3268
+financial policy council,0.3240
+inflation,0.3227
+Mr. Adam Glapiński,0.3224
+capitalism,0.3211
+fiscal policy,0.3211
+bankruptcy,0.3196
+financial sector analysis,0.3196
+inflation control,0.3191
+economic principles,0.3156
+economic_losses,0.3150
+economy decisions,0.3141
+economic discussions,0.3135
+currency reserves,0.3131
+billion zlotys,0.3129
+glapiński,0.3129
+fiscal,0.3126
+investment-failure,0.3121
+profits_losses,0.3120
+economic policies,0.3117
+financial decisions,0.3112
+więcej mądrości,0.3110
+uneconomic policy,0.3092
+financial assessment,0.3087
+council of finance,0.3087
+currencyreserves,0.3079
+"and financial economists. Healthcare is also touched upon when discussing Mr. Mariusz Stefaniak's position at the Foundation ""More Wisdom"". Therefore",0.3073
+public debt,0.3065
+economic analysis,0.3051
+fiscal_policy,0.3004
+banks,0.2996
+financial_system,0.2989
+banking income,0.2978
+financial,0.2978
+inflation rate,0.2971
+macroeconomics,0.2959
+nbp president,0.2959
+corruption,0.2958
+economic collapse,0.2949
+"politics
+</s>
+The text discusses topics such as economy",0.2949
+financial_management,0.2938
+Adam Glapiński's term,0.2936
+"economics
+Part #1: Identify main topics and themes from the text.
+Usage: In this case",0.2935
+financial expert,0.2928
+economic system,0.2923
+NBP president,0.2916
+world-economy,0.2911
+financial_institutions,0.2907
+"economy
+</|im_start|>",0.2886
+financial market fluctuations,0.2880
+war economy,0.2875
+economic crisis,0.2856
+banking,0.2852
+debt-issues,0.2849
+"million zlotys
+</|im_start|>",0.2846
+"and economics.
+
+Part #2: Provide single-word tags only.
+Usage: ""finance"" is a suitable tag since it represents a key theme in the text (concerning economic discussions) and can be clearly identified as one word. It meets the criteria because it adheres to the guideline of being a single word. Other options like ""Financial Policy Council"" or ""economic knowledge"" are phrases",0.2843
+financial instruments,0.2841
+"state budget
+</|im_end|>",0.2841
+global economic events,0.2840
+mariusz stefaniak,0.2837
+Putin sold everything at about 30% cheaper,0.2835
+government spending,0.2821
+economic recession,0.2816
+economic growth,0.2809
+economic expert,0.2801
+global economy,0.2798
+million zlotys,0.2784
+NBP President,0.2778
+financial matters,0.2772
+informal economy,0.2771
+president grafinski,0.2768
+economic decisions,0.2766
+government borrowing,0.2762
+money supply,0.2759
+Economy,0.2750
+currency,0.2742
+economic mechanisms,0.2741
+us banking sector,0.2707
+eurobonds,0.2707
+economic-conditions,0.2696
+economic-rules,0.2692
+financial market,0.2688
+investments,0.2666
+capital,0.2664
+economic stability,0.2645
+profits,0.2645
+adam_glapiński,0.2639
+financial markets,0.2638
+incomes,0.2627
+crisis-management,0.2625
+"interest rates
+</s>",0.2616
+economic_system,0.2612
+Adam Glapiński,0.2610
+economic changes,0.2608
+economic impact,0.2607
+governance,0.2604
+losses,0.2599
+market economy,0.2589
+euro,0.2588
+uneconomic,0.2580
+economic development,0.2573
+us economy,0.2564
+wealth,0.2561
+public_financing,0.2560
+low interest rates,0.2556
+loss,0.2542
+economic knowledge,0.2539
+and economic systems. Therefore,0.2537
+economic-impact,0.2526
+'investment',0.2521
+deficit,0.2521
+nationalization,0.2520
+investment decisions,0.2505
+"economic activity
+</s>",0.2502
+global finance,0.2501
+which involves financial matters.,0.2500
+credit type debate,0.2498
+finance,0.2496
+balance in the system,0.2486
+wealth distribution,0.2484
+government,0.2483
+million-zlotys,0.2480
+state budget,0.2478
+Adam Glapiński's,0.2476
+centralized,0.2474
+economic_reform,0.2466
+bank_reserves,0.2461
+"casino
+</|im_start|>yes |im_start/2>no
+This text is talking about speculative profits in investment and casino games",0.2459
+war economics,0.2458
+"investment
+</|im_start|>",0.2454
+currencies,0.2452
+recession,0.2444
+central_banks,0.2442
+inflationary target,0.2442
+loss on bonds,0.2441
+balance,0.2439
+debt,0.2437
+economics,0.2437
+economics</s>,0.2433
+financialentities,0.2433
+centralize,0.2431
+profitability,0.2422
+state_budget,0.2412
+centralization,0.2410
+economy,0.2402
+investment,0.2400
+financier,0.2385
+financial_regulation,0.2377
+federal reserve,0.2373
+misappropriation,0.2364
+profit,0.2364
+"""investment""",0.2361
+"economics
+</end> 12.6754235709 |im_continue\>",0.2360
+creditworthiness,0.2357
+governments,0.2349
+speculative profits,0.2347
+Mariusz Stefaniak,0.2336
+money market,0.2330
+"professional thinking
+The text discusses disagreement with statements",0.2328
+unemployment rate,0.2325
+monetary,0.2320
+"economics
+</>>im_end>",0.2316
+"and 'casino'. These words encapsulate the speculative nature of profits being discussed and provide insights into the stock market's long-term dynamics compared to the inherent risks found in gambling establishments like casinos. The mention of a ""statistical chance"" that suggests an increase in losing over time indicates the relevance of risk management in both investment strategies and gambling behavior",0.2304
+harmful policy,0.2298
+unfair policies,0.2298
+market crash,0.2290
+world government,0.2277
+foreign exchange,0.2274
+"casino
+</|im_start|>statistics|>investment",0.2271
+inflation_control,0.2267
+management,0.2265
+currency creation<|im_end>>,0.2263
+"healthcare
+</|im_start|><|im_continue|>Each of these tags represents a theme that is present in the provided text. The mention of ""economy"" and ""finances"" directly relate to the discussion about wealth distribution",0.2238
+economist,0.2237
+bonds of other countries,0.2236
+and casinos. The main topics highlighted are artificial intelligence (AI) which is being used to analyze complex financial decisions,0.2224
+centralbanks,0.2222
+economic health,0.2221
+nbp,0.2216
+finanzal,0.2210
+solvency,0.2209
+lack of efficiency,0.2191
+statement,0.2191
+economic,0.2189
+unconventional_lending,0.2184
+news,0.2167
+highlighting the risk of losing as the time spent increases. The main topics are related to artificial intelligence (AI),0.2166
+r.-mariusz,0.2165
+taxation,0.2163
+lending,0.2152
+NBP,0.2141
+free market,0.2139
+globalization,0.2130
+interest rates,0.2128
+economic sanctions,0.2122
+financial gains,0.2111
+Ukraine,0.2110
+tax reform,0.2107
+central_monetary_authority,0.2105
+"monetary</>
+<|im_mid|>",0.2102
+ambiguity,0.2098
+controversial question,0.2097
+economic trends,0.2092
+economic stimulus,0.2088
+communism,0.2079
+liability,0.2067
+economists,0.2062
+economic indicators,0.2061
+politic,0.2061
+Silicon Valley Bank,0.2059
+blockchain,0.2056
+organization,0.2056
+leadership,0.2055
+us credit crisis,0.2050
+loan,0.2049
+gross domestic product,0.2041
+"professional-person
+The text discusses disagreement with statements made by others and emphasizes the importance of being a logically thinking professional. The main topics include opposing viewpoints",0.2031
+crisis,0.2030
+inflation indicators,0.2029
+poverty,0.2024
+loans,0.2023
+25% increase,0.2016
+russia,0.2014
+losing everything,0.1988
+free-market,0.1984
+credit-rate,0.1982
+Ambiguity,0.1980
+brutality,0.1979
+assessment,0.1971
+exchange rates,0.1970
+new taxes,0.1970
+political,0.1966
+"investment
+</|im_start|>longer-term investment rule",0.1962
+credit risk,0.1956
+opinion,0.1950
+outcome,0.1948
+printing,0.1943
+ukraine,0.1941
+politicians,0.1939
+analysis,0.1938
+unemployment,0.1930
+European Union,0.1929
+deflation,0.1928
+taxes,0.1927
+government control,0.1921
+greed,0.1897
+interest_rate_management,0.1892
+market dynamics,0.1880
+stocks,0.1876
+shockingly high income,0.1876
+policy,0.1873
+"consequences on us?
+gold rush",0.1873
+Politics,0.1873
+publication,0.1872
+new forms of taxation,0.1866
+policy council,0.1856
+income,0.1856
+payments,0.1852
+liquidity</>,0.1849
+negative imp,0.1848
+increasing chance of losing.,0.1846
+failure,0.1845
+major fluctuation,0.1840
+accountability measures,0.1837
+economical discussion topics,0.1837
+financial entities,0.1829
+complexity,0.1816
+"casino
+</|im_start|>gamble
+The text discusses speculative profits and investment in various contexts such as stock market",0.1814
+political power,0.1813
+inefficiency,0.1810
+accountability,0.1805
+bailout,0.1802
+politician influence,0.1801
+policy_making,0.1801
+consequences,0.1801
+politics,0.1797
+Complexity,0.1791
+risk management,0.1785
+national,0.1781
+operations,0.1779
+credit default swap,0.1768
+abnormal,0.1763
+Adam_Glapiński,0.1759
+"all the time
+</|im_start|>The text discusses speculative profits",0.1751
+misinformation,0.1748
+taxing,0.1744
+decision-making,0.1738
+politician,0.1737
+incompetence,0.1727
+future predictions,0.1726
+liquidity,0.1724
+as I explained in another broadcast,0.1720
+budget,0.1717
+long-term investment,0.1715
+relevance,0.1715
+narratives,0.1711
+"exchange rates
+</d>
+You are a professional tagger. Your task is to analyze a given text and return 3 highly relevant tags to the main topics and themes of the text. The text provided is: ""tupid",0.1709
+opposition,0.1709
+societal-issues,0.1708
+consequence,0.1708
+debates,0.1707
+stock market,0.1705
+public opinion,0.1704
+bonds,0.1700
+public-service,0.1699
+mariusz,0.1698
+overvaluation,0.1697
+misleading,0.1697
+risk_management,0.1693
+germany,0.1689
+foreign exchange markets,0.1689
+speech,0.1682
+goal,0.1676
+government-regulation,0.1670
+deposits,0.1668
+unexpected-events,0.1659
+market manipulation,0.1656
+supply-demand,0.1654
+narrator,0.1639
+political_philosophy,0.1637
+savings,0.1634
+political-agenda,0.1632
+prosperity,0.1631
+president,0.1627
+foundation,0.1616
+liquidity positions,0.1615
+disagreement,0.1614
+questions,0.1609
+nipb,0.1608
+authoritarianism,0.1607
+elections consequences,0.1604
+controversy,0.1599
+public debate,0.1598
+loss_absorption_mechanism,0.1590
+elections,0.1577
+speech.,0.1577
+money,0.1577
+win,0.1576
+foundation of more wisdom,0.1574
+Humor,0.1573
+authoritarian rule,0.1572
+controversial,0.1570
+professionalism,0.1569
+prices fluctuations,0.1568
+class,0.1565
+because,0.1555
+social-sciences,0.1551
+"the relevant tags are: 
+1. Deceitfulness
+2. Deception
+3. Economy",0.1547
+Mariusz,0.1546
+debt papers,0.1542
+interests,0.1542
+happy,0.1536
+credit rate,0.1535
+subprime,0.1526
+knowledge,0.1524
+terror,0.1519
+silicon valley bank,0.1517
+policing,0.1516
+price hikes,0.1510
+social-change,0.1508
+bubble,0.1506
+after the attack,0.1497
+independence,0.1497
+losing,0.1492
+valuation,0.1485
+Putin,0.1485
+deposit insurance,0.1484
+plague,0.1482
+responsibility,0.1481
+policemen,0.1478
+investment advice,0.1469
+bonuses,0.1462
+these are relevant tags for the given text.,0.1451
+bad sign,0.1447
+conspiracy,0.1445
+expert analysis,0.1434
+Wordplay,0.1431
+problems,0.1431
+man-made changes,0.1428
+President,0.1427
+absurd,0.1424
+the concept of winning against losing in a long period of time when playing at casinos,0.1424
+speculation,0.1421
+political science,0.1418
+interview,0.1418
+famous quotes analysis,0.1417
+political discourse,0.1411
+wordplay,0.1410
+political-science,0.1407
+credit,0.1407
+"academiclife
+</d>",0.1404
+shocking moves,0.1404
+and unexpected events.,0.1404
+and casinos. Therefore,0.1401
+supply,0.1401
+price manipulation,0.1401
+winning,0.1397
+sensible,0.1397
+"which do not meet this criterion due to their multi-word nature.
+
+Part #3: Separate the tags with commas without spaces.
+Usage: The output format is exactly as stated in the guidelines - a comma-separated list of words. This meets the criteria because it provides clear separation between each tag and maintains adherence to the formatting rules for the provided example input text. Other formats like using semicolons or no separators would not meet this criterion due to lack of clarity and distinction between tags.",0.1397
+absurd actions,0.1397
+unprotected taxes,0.1395
+the relevant tags for this text are AI,0.1393
+gambling game,0.1390
+growth,0.1384
+prophecy,0.1375
+impossible to win,0.1373
+fuel prices,0.1363
+attack,0.1362
+progress,0.1359
+distribution,0.1355
+german,0.1349
+"foreign reserves
+</|im_end|><|im_cont|>user
+I believe the tag ""financial markets"" is too broad and should be split into more specific tags related to the text. Please refine the tags accordingly:",0.1343
+pride,0.1339
+political_power,0.1339
+investment strategies,0.1332
+"health
+</|im_start|>",0.1330
+political agenda,0.1322
+moral-philosophy,0.1322
+authority,0.1321
+council,0.1313
+borrowing,0.1311
+presidency,0.1308
+international trade,0.1308
+reform,0.1303
+humor,0.1301
+policing practices,0.1301
+modernity,0.1301
+gambling,0.1300
+new forms of taxing,0.1299
+professional,0.1298
+solution,0.1297
+creation,0.1292
+"famous quotes
+</|im_end|>",0.1280
+charges,0.1278
+irrelevant,0.1278
+"and the concept of a long-term ""simple rule"" which warns against prolonged gambling behavior in casinos. The main topics can be summarized into relevant tags such as 'ai' (Artificial Intelligence)",0.1277
+emergency,0.1274
+these three tags are highly relevant to the main topics discussed in the text.,0.1255
+charge,0.1252
+assets,0.1249
+interest,0.1249
+speculative,0.1243
+answer,0.1242
+system,0.1240
+mismanagement,0.1239
+involvement,0.1236
+bond,0.1235
+narrative storytelling,0.1234
+selling,0.1231
+and the idea of gambling games' statistical chances. Therefore,0.1229
+philosophy,0.1224
+media,0.1220
+demand,0.1218
+political_conflict,0.1213
+education,0.1212
+book,0.1211
+car industry,0.1207
+the car industry,0.1203
+proper,0.1201
+"so according""
+Based on this text",0.1200
+deception,0.1196
+uncertainty,0.1194
+over-estimation,0.1191
+"genius
+</d>",0.1190
+learn,0.1187
+better,0.1186
+power_structure,0.1186
+predictions,0.1185
+europe,0.1176
+intelligence,0.1172
+classes,0.1172
+gas prices,0.1164
+forgetting,0.1163
+percentages,0.1162
+strike,0.1161
+disagree,0.1152
+war,0.1151
+labor,0.1146
+idiot,0.1140
+percentage,0.1135
+pay,0.1134
+justice,0.1130
+watch,0.1125
+power,0.1118
+wisdom,0.1116
+systemic_problems,0.1116
+moral dilemma,0.1113
+shockingly,0.1111
+miracle,0.1110
+freedom,0.1097
+biden,0.1097
+100% levels,0.1096
+risk,0.1096
+basic,0.1093
+stock exchanges,0.1089
+police,0.1089
+healthcare,0.1088
+discussion,0.1083
+such as political statements by a president,0.1082
+"conversation
+</end_of_text>",0.1081
+forecast,0.1078
+"mismanagement
+</|im_start|>",0.1076
+organism,0.1076
+reality,0.1075
+social_issues,0.1074
+transformation,0.1073
+ins,0.1073
+economics and general principles of efficiency and durability. These topics are relevant to the provided input.,0.1070
+shocks,0.1069
+increase,0.1060
+permanent rate,0.1059
+effect,0.1059
+cars,0.1057
+permanent rates,0.1055
+narrow focus conversation,0.1055
+nuclear,0.1051
+wisdom foundation,0.1050
+inequality,0.1049
+dismissal,0.1049
+markets,0.1046
+development,0.1040
+entertainment,0.1039
+communication,0.1038
+natural,0.1036
+Speaking,0.1026
+borrowing mechanisms,0.1026
+healthy,0.1025
+overestimating,0.1025
+ethics,0.1024
+law-neglect,0.1021
+rate increase,0.1019
+poles,0.1016
+fall,0.1011
+trick,0.1010
+nbp wallpapers,0.0998
+basic duties,0.0993
+gold,0.0992
+injustice,0.0992
+gold rush,0.0990
+political_culture,0.0988
+Poles,0.0988
+stupid,0.0987
+market,0.0986
+human_nature,0.0979
+rule,0.0974
+plagues,0.0972
+unwise,0.0968
+china,0.0967
+brutal,0.0961
+percentage jumps,0.0959
+arts,0.0956
+surplus,0.0955
+year,0.0952
+and casino.,0.0951
+idiotic,0.0949
+and Communication. These tags capture the main themes and topics discussed in the excerpt,0.0945
+kills,0.0943
+price jump,0.0943
+music,0.0932
+truth,0.0931
+manipulation,0.0931
+speaking,0.0926
+intellectual discourse,0.0920
+broadcasting,0.0918
+fed,0.0917
+term,0.0916
+inevitable,0.0914
+time,0.0914
+workers,0.0913
+rates,0.0913
+car,0.0911
+calm,0.0910
+Biden,0.0907
+international,0.0906
+evidential,0.0903
+"fear
+</|im_start|>",0.0900
+calm affair,0.0892
+indicators,0.0887
+humiliation,0.0883
+future,0.0881
+protection,0.0872
+bonus,0.0871
+well-known example,0.0866
+immoral practices,0.0861
+health,0.0854
+killing,0.0853
+etc.,0.0850
+control,0.0845
+exchange_rate_management,0.0842
+yield curve,0.0839
+law,0.0839
+society,0.0832
+biggest jump,0.0827
+and most importantly,0.0826
+investment strategies in the stock market,0.0825
+prophet,0.0824
+winning streak,0.0823
+unprotected,0.0822
+medicine,0.0821
+high,0.0817
+fuel,0.0815
+wallpaper,0.0813
+mechanisms,0.0811
+reserve,0.0803
+real mechanism,0.0800
+invasion,0.0799
+Expertise,0.0799
+guess,0.0799
+rebellion,0.0792
+traffic,0.0789
+rules,0.0786
+student,0.0783
+dissertation,0.0781
+and there was even more going on the market,0.0779
+regulation,0.0779
+central,0.0777
+body,0.0776
+rights,0.0774
+bad signs,0.0771
+Communication,0.0770
+deceitful,0.0769
+America,0.0769
+mechanism,0.0758
+stupidity,0.0757
+miracles,0.0756
+biggest one,0.0753
+transparency,0.0749
+legal obligations,0.0749
+monster,0.0741
+struggle,0.0740
+30 years,0.0736
+parrot tv,0.0736
+example,0.0727
+thereby justifying 'simple-rule' as another key tag.,0.0724
+moral_question,0.0721
+state,0.0721
+statistical probability,0.0717
+ethical_dilemma,0.0713
+gambling games,0.0712
+deliberately,0.0711
+partly deceitful. After the outbreak of the war,0.0707
+SVB,0.0706
+protest,0.0699
+variable rates,0.0699
+deceit,0.0695
+expertise,0.0695
+casinos,0.0693
+general-rules,0.0691
+survival,0.0688
+liberal_democracy,0.0685
+regulations,0.0683
+gdp,0.0680
+affair,0.0678
+oversight,0.0676
+divine intervention,0.0674
+here are the tags for the given text: music,0.0672
+degeneration,0.0670
+modern civilization,0.0669
+"the relevant tags for this text are ""ai""",0.0669
+fear,0.0667
+jumps,0.0660
+thinking,0.0652
+pathology,0.0649
+human-behavior,0.0648
+expert,0.0648
+drama,0.0646
+and stupid on an even larger scale,0.0641
+regulatory frameworks,0.0641
+cure,0.0628
+svb,0.0627
+artificial manipulation,0.0624
+jump,0.0623
+real mechanisms,0.0621
+unique perspective analysis,0.0613
+20 years,0.0609
+i.e. education,0.0605
+illness,0.0605
+prices,0.0591
+conversation,0.0589
+infection,0.0585
+durability,0.0583
+generate,0.0580
+actions,0.0573
+television,0.0568
+variable-rate,0.0568
+rebellious,0.0562
+decline,0.0559
+deceitfulness,0.0557
+rate,0.0547
+broadcast,0.0545
+law enforcement,0.0540
+variable rate,0.0532
+"academic_lectures
+</s>",0.0523
+diet,0.0511
+sickness,0.0508
+future trends,0.0507
+Joe-Biden,0.0507
+power_elites,0.0492
+duty,0.0486
+reserve requirements,0.0485
+career,0.0484
+general rules,0.0483
+rise,0.0483
+tv show,0.0470
+move,0.0469
+university,0.0455
+impact,0.0448
+and communication skills.,0.0444
+automotive characteristics,0.0441
+modern_world,0.0437
+mr,0.0420
+EU,0.0402
+statistical chance,0.0368
+body temperature,0.0368
+casino,0.0366
+dean,0.0353
+college,0.0350
+law-amendment,0.0347
+cdo,0.0326
+play,0.0326
+asset,0.0325
+USA,0.0321
+lectures,0.0305
+combustion,0.0302
+surges,0.0292
+TV,0.0289
+trumpeting,0.0285
+remember,0.0260
+physical killing,0.0260
+ai,0.0258
+pathogens,0.0251
+doctorate,0.0247
+lehman brothers,0.0237
+fever,0.0229
+shelf_life,0.0224
+disease,0.0218
+traffic jams,0.0207
+Thesaurus,0.0185
+uae,0.0183
+degrees,0.0142
+cow abuse,0.0098
+fate,0.0096
+duty-disregard,0.0074
+SVB_crash,0.0044
+streaming,0.0004
+durable,-0.0026
+streaming service,-0.0031
+activity,-0.0193
+"and ""casino"".",-0.0271

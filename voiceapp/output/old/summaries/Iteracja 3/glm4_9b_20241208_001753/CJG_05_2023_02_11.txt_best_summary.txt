@@ -1,0 +1,24 @@
+---
+
+### Key Themes:
+- **Entrepreneurial Attitude in Poland**: Despite a strong global reputation for entrepreneurship, there is a growing trend among Polish entrepreneurs to suspend or close companies and avoid starting new ones.
+- **Media Perception of Business**: The media's portrayal of business negatively impacts the entrepreneurial spirit, with significant decreases in positive perceptions over time.
+- **Economic Conditions**: Economic factors such as income levels, support from the state, and business complexity contribute significantly to the environment for entrepreneurship.
+
+### Impacts:
+- **Economic**: Declining numbers of new businesses may impact economic growth due to a reduced contribution to GDP.
+- **Technological**: A lack of startup activity might hinder technological innovation and adaptation.
+- **Political**: The perception that the government is not supportive could affect policies aimed at fostering business growth.
+- **Social**: Negative perceptions of entrepreneurship can have social implications, affecting the societal mindset towards business ownership.
+
+### Examples and Evidence:
+- **Entrepreneurial Attitude**: Poles have a high percentage (78%) who believe running their own business is a good idea, but the number of people looking to start companies has dropped significantly.
+- **Media Impact**: Studies show a drop from 58% to 37% of positive media portrayals of entrepreneurship over three years.
+- **Economic Conditions**: Poland ranks second in Europe for the complexity of running a business according to the Global Business Complexity Index, and last in the National Index of Entrepreneurship Conditions.
+
+### Opportunities and Risks:
+- **Opportunities**: There may be opportunities for governments and organizations to improve conditions that support entrepreneurship by reducing regulatory hurdles and providing more incentives.
+- **Risks**: Continued negative perceptions and economic barriers could lead to a decline in entrepreneurial activity, negatively impacting the economy.
+
+### Conclusion:
+The data suggests a concerning trend in Poland regarding the willingness of entrepreneurs to start new businesses. A combination of factors including media portrayal, government policies, and economic conditions contribute to this issue. It is essential for stakeholders to consider these insights as they work to create an environment that fosters entrepreneurship and economic growth. Potential future actions should focus on improving business regulations, enhancing support systems for entrepreneurs, and promoting a more positive narrative around entrepreneurship in the country.

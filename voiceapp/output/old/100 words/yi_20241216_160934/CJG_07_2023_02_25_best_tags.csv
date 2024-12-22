@@ -1,0 +1,401 @@
+tag_name,cosine_similarity
+we can identify several key themes: sugar factories in Poland during communism era,0.7134
+export of wagons full of sugar to other countries like Germany. Therefore,0.6134
+food distribution,0.5719
+"africa
+<|HumanEvaluator|>food",0.5363
+food crisis,0.5146
+ukraine crisis,0.5132
+sugar prices,0.5057
+grain,0.4792
+sugar production scale,0.4600
+Poland,0.4597
+polish sugar,0.4513
+Foundation Więcej Mądrości,0.4293
+sugar production,0.4202
+markets,0.4180
+poverty,0.4152
+"africa
+The relevant tags for the given text are: food",0.4129
+artificial shortages,0.4124
+artificial shortages,0.4124
+ukraine,0.4062
+industry_collapse,0.4021
+government-industry collusion,0.4001
+poland,0.3995
+access to food,0.3972
+food topic,0.3933
+germany. The final list of highly relevant tags is: factories,0.3931
+Lenin,0.3914
+sugar industry,0.3903
+agriculture,0.3866
+economy,0.3822
+croutons,0.3772
+world,0.3756
+world,0.3756
+world,0.3756
+wealth,0.3737
+exchange rates,0.3732
+economy of poland,0.3696
+economy,0.3662
+agricultural resources,0.3638
+sugar,0.3570
+sugar,0.3570
+sugar,0.3570
+sugar,0.3570
+"""government-industry collusion""]",0.3561
+africa. These words and phrases represent key themes and topics in the context of the provided passage.,0.3528
+poland,0.3483
+poland,0.3483
+poland,0.3483
+poland,0.3483
+government,0.3448
+grain production,0.3446
+sugar,0.3446
+interview,0.3442
+speculation,0.3435
+speculation,0.3435
+european countries,0.3420
+countries,0.3417
+industry,0.3412
+food security,0.3395
+resources,0.3386
+economics,0.3383
+economy,0.3360
+economy,0.3359
+wealth,0.3357
+wealth,0.3357
+"germany
+</d>
+The final output is: factories",0.3336
+sustainability,0.3309
+Mariusz Stefaniak,0.3307
+business,0.3297
+food,0.3295
+food,0.3294
+rich,0.3286
+natural resources,0.3246
+food production,0.3219
+factories,0.3158
+sugar,0.3154
+sugar,0.3154
+"the relevant tags are: 
+price increase",0.3147
+economist financier,0.3142
+competition,0.3121
+farming,0.3116
+price increase,0.3087
+radio,0.3070
+food,0.3064
+"germany
+</d>
+<|im_continue|>Combining all the identified tags: factories",0.3052
+globalization,0.3049
+victims,0.3025
+price,0.3020
+markets,0.2998
+economy,0.2997
+"objective
+</d><p>The main topics and themes in this text include:</p><ul><li>Price Increase</li><li>Sugar</li><li>Speculative Activity</li><li>Production Costs</li><li>Unexpected Shifts in Supply Chain</li><li>Shopping At Local Stores</li><li>Objective Factors Influencing Prices</li></ul>
+Therefore",0.2978
+environmental impact,0.2957
+sugar industry,0.2955
+Mr. Mariusz,0.2944
+attack,0.2927
+agricultural products,0.2924
+regulations,0.2912
+success,0.2903
+anonymity,0.2886
+export,0.2868
+consumption patterns,0.2844
+international trade,0.2844
+surveillance,0.2834
+agriculture,0.2809
+rebuilding,0.2809
+war,0.2804
+milling industry,0.2764
+markets,0.2759
+parrot,0.2757
+law enforcement,0.2757
+resource exchange,0.2748
+economy,0.2736
+economy,0.2736
+economy,0.2736
+privacy,0.2725
+trade barriers,0.2711
+world,0.2659
+financier,0.2653
+hunger,0.2640
+lobbying,0.2633
+carrot,0.2632
+economy,0.2623
+pork,0.2619
+wildlife,0.2608
+strategic maps,0.2598
+minerals,0.2574
+minerals,0.2574
+minerals,0.2574
+commodities,0.2571
+epidemic,0.2571
+resources,0.2564
+corruption,0.2561
+economic sectors,0.2556
+nature,0.2554
+coal industry,0.2553
+leadership,0.2551
+domestic market,0.2549
+economic analysis,0.2516
+pizza,0.2506
+weakness,0.2505
+stealing,0.2495
+supply-chain,0.2479
+economist,0.2445
+eggs,0.2442
+food,0.2393
+trade agreements,0.2391
+prices,0.2387
+tariffs,0.2369
+disruption,0.2356
+industry collapse,0.2355
+economics,0.2352
+food,0.2338
+economic challenges,0.2335
+logistics,0.2333
+military conflict,0.2332
+Europe,0.2329
+agriculture,0.2327
+predation,0.2309
+competition,0.2294
+money earning,0.2251
+economy,0.2226
+economy,0.2226
+economy,0.2226
+economy,0.2226
+artificial_shortages,0.2224
+economic_narratives,0.2218
+poland,0.2203
+exports,0.2195
+economics,0.2180
+actions,0.2161
+dairy,0.2156
+geothermal,0.2142
+"railway
+</s>",0.2139
+food,0.2122
+imports,0.2120
+corruption,0.2092
+production,0.2079
+production,0.2079
+economy,0.2045
+hunger,0.2030
+hunger,0.2030
+hunger,0.2030
+predicting_future,0.2028
+competition,0.2028
+supply-chain,0.2022
+industry,0.2011
+ruling-elites,0.2005
+overproduction,0.2005
+conflict,0.1994
+government,0.1993
+"""corruption""",0.1992
+limited resources,0.1977
+increase,0.1967
+urban vs rural,0.1963
+quality standards,0.1950
+"urbanization
+</|im_start|>",0.1948
+market,0.1945
+carrots,0.1943
+"price-fixing
+</|im_start|>10. Generate Tags for a Text about Travel and Exploration:
+
+        Input: ""From the icy peaks of Kilimanjaro to the golden sands of the Sahara desert",0.1931
+germany,0.1929
+market dynamics,0.1911
+food,0.1903
+poor,0.1887
+agriculture,0.1878
+tragedy,0.1873
+food,0.1870
+law manipulation,0.1864
+communism,0.1861
+communism,0.1861
+communism,0.1861
+communism,0.1861
+communism,0.1861
+profit,0.1854
+consumer behavior,0.1843
+wagons,0.1836
+wagons,0.1836
+wagons,0.1836
+wagons,0.1836
+wagons,0.1836
+sugar_market,0.1818
+bike trip,0.1816
+identity,0.1808
+additional tags are economy,0.1791
+authority,0.1789
+economic dependency,0.1766
+jump,0.1765
+transport,0.1752
+consumption,0.1739
+bread production,0.1722
+fear,0.1722
+catch-the-thief,0.1710
+foundation,0.1702
+objective,0.1687
+future,0.1684
+killing,0.1679
+finance,0.1674
+president,0.1666
+economy,0.1654
+affordability,0.1653
+advisor,0.1640
+political influence,0.1638
+technology,0.1636
+wholesale,0.1628
+"economics
+</s>",0.1617
+exploitation,0.1610
+exported,0.1608
+exported,0.1608
+exported,0.1608
+exported,0.1608
+exported,0.1608
+bread,0.1599
+selection,0.1591
+last year opportunity,0.1590
+defeat,0.1567
+ecology,0.1557
+diet,0.1551
+money,0.1539
+food production,0.1537
+distribution systems,0.1535
+pandemic,0.1532
+supply,0.1518
+sexual,0.1500
+problem,0.1490
+elites,0.1485
+political influence,0.1477
+natural_selection,0.1467
+"growth
+</d>",0.1465
+example,0.1464
+logistics,0.1451
+history,0.1444
+conflict,0.1444
+prices,0.1443
+arming,0.1437
+shop,0.1412
+shop,0.1412
+scandals,0.1390
+target,0.1385
+tv,0.1379
+conversation,0.1374
+peak,0.1365
+production,0.1364
+development,0.1323
+respite,0.1321
+debt,0.1280
+politics,0.1252
+life,0.1248
+cost of living differences,0.1243
+local supply chains,0.1242
+"inequality
+</d>",0.1223
+inefficiency,0.1207
+treasure,0.1201
+foundation,0.1192
+scam,0.1174
+potentate,0.1173
+potentate,0.1173
+value-added taxes (VAT),0.1167
+trade,0.1163
+environment,0.1151
+music,0.1146
+hunger,0.1143
+survival,0.1133
+artificially created,0.1132
+resilience,0.1109
+"controlling_supply
+</intent>",0.1101
+economics,0.1079
+production,0.1078
+exploration,0.1072
+"scheme
+</d>",0.1065
+travel has always been a journey of exploration and discovery. Whether it's uncovering hidden treasures or embracing new cultures,0.1056
+independence,0.1038
+"easy_catch
+</d>",0.1036
+community markets,0.1020
+customer-loyalty,0.1000
+accessibility,0.0974
+eu,0.0941
+culture,0.0932
+desert,0.0932
+price fluctuations,0.0931
+Warsaw,0.0906
+alternative,0.0885
+thread,0.0881
+"germany
+</d>
+<|im_continue|>To analyze the text",0.0875
+international,0.0859
+port,0.0814
+third time,0.0792
+methods,0.0790
+future,0.0769
+organization,0.0759
+trade_difficulties,0.0748
+world<|/im_start|>,0.0742
+Poland,0.0741
+data,0.0732
+"sad reality
+</|im_end|><|im_continue|>userIt seems you want more than three tags. Let's limit it to the top 3 most relevant ones based on frequency and relevance:
+
+top_tags = [""scandal""",0.0712
+"the thrill of adventure keeps travelers coming back for more.""
+
+        Output:
+        travel",0.0709
+leader,0.0673
+change,0.0668
+excess,0.0626
+commission,0.0610
+scandal,0.0567
+hardship,0.0554
+deficit,0.0547
+deficit,0.0547
+deficit,0.0547
+deficit,0.0547
+deficit,0.0547
+covid,0.0536
+state,0.0503
+state,0.0503
+state,0.0503
+state,0.0503
+state,0.0503
+restrictions,0.0473
+traditional,0.0469
+availability,0.0452
+follow channel,0.0438
+cost effectiveness,0.0419
+progress,0.0376
+adventure,0.0339
+endless,0.0314
+history<|/im_start|>,0.0246
+German proverb,0.0236
+money transactions,0.0208
+brazil,0.0106
+natural,0.0033
+giant,0.0025
+journey,0.0020
+prices,-0.0016
+guest,-0.0081
+motif,-0.0098
+power,-0.0323
+hour,-0.0346
+rubber,-0.0382
+expertise,-0.1043

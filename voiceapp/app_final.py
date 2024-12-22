@@ -99,12 +99,7 @@ def list_notes_from_db(query, word2vec_model, search_type="semantic"):
     if not query:
         notes = qdrant_client.scroll(collection_name=QDRANT_COLLECTION_NAME, limit=10)[0]
         return [{"title": note.payload.get("title", ""), "text": note.payload["text"], "score": None} for note in notes]
-    
-    # if search_type == "full_text":
-    #      # Note: Qdrant does not support full-text search with the filter as intended
-    #     # You might want to implement a workaround if you expect many results
-    #     st.warning("Full-text search is not supported directly in Qdrant. Please use semantic search.")
-    #     return []
+
     if search_type == "full_text":
         notes = []
         qdrant_client = get_qdrant_client()
@@ -149,7 +144,7 @@ def extract_text_from_files(uploaded_files):
     return texts
 
 # Main application
-st.set_page_config(page_title="Audio Notatki", layout="centered")
+st.set_page_config(page_title="Wyszukiwarka Audycji", layout="centered")
 
 # Check for Qdrant URL and API Key
 if not st.session_state.get("qdrant_url") or not st.session_state.get("qdrant_api_key"):
@@ -173,14 +168,14 @@ if not st.session_state.get("qdrant_url") or not st.session_state.get("qdrant_ap
 if "note_texts" not in st.session_state:
     st.session_state["note_texts"] = []
 
-st.title("Audio Notatki")
+st.title("Wyszukiwarka Audycji")
 assure_db_collection_exists()
 
 # Load the Word2Vec model once
 word2vec_model = load_word2vec_model(model_name)
 
 # Create tabs for adding and searching notes
-add_tab, search_tab = st.tabs(["Dodaj notatkę", "Wyszukaj notatkę"])
+add_tab, search_tab = st.tabs(["Dodaj transkrypt", "Wyszukaj transkrypty"])
 
 with add_tab:
     uploaded_files = st.file_uploader("Upload your text files (txt, zip, rar)", type=["txt", "zip", "rar"], accept_multiple_files=True)
@@ -211,7 +206,7 @@ with add_tab:
                 st.success("All notes have been saved to the database.")
 
 with search_tab:
-    query = st.text_input("Wyszukaj notatkę", key="search_query")
+    query = st.text_input("Wyszukaj audycje", key="search_query")
 
     # Add a toggle to choose between full-text and semantic search
     search_type = st.toggle("Semantic search", value=True)

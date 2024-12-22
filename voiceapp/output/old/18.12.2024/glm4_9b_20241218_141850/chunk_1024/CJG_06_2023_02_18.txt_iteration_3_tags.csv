@@ -1,0 +1,43 @@
+tag_name,cosine_similarity
+environment,0.8676
+usa,0.8653
+eu,0.8566
+mining,0.8610
+policy,0.8675
+energy,0.8654
+trade,0.8587
+development,0.8661
+health,0.8580
+business,0.8675
+finance,0.8771
+Russia,0.8590
+poland,0.8793
+climate change,0.8939
+ukraine war,0.8865
+pollution_control,0.8916
+pandemic,0.8757
+financial,0.8603
+russia,0.8682
+sulfur content,0.8813
+suicide,0.8703
+energy crisis,0.8939
+pollution,0.8840
+starvation,0.8688
+diplomacy,0.8761
+politics,0.8657
+coal-mining,0.8790
+climate_change,0.8924
+economics,0.8794
+Ukraine,0.8604
+cost,0.8583
+depression,0.8728
+economic policy,0.8905
+europe,0.8751
+sanctions,0.8783
+environmental_issues,0.8899
+economy,0.8850
+china,0.8688
+fossil fuels,0.8928
+coal,0.8602
+China,0.8629
+air_quality,0.8787

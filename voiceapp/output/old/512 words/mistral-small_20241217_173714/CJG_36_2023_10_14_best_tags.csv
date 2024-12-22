@@ -1,0 +1,66 @@
+tag_name,cosine_similarity
+china,0.3697
+bankruptcy,0.3552
+evergrande,0.3265
+stockmarket,0.3184
+stocks,0.3169
+finance,0.3062
+debt,0.2586
+corruption,0.2543
+realestate,0.2513
+economy,0.2399
+overbuilding,0.2255
+market,0.2093
+communism,0.1963
+end,0.1953
+but there isn't enough context in the given text to accurately generate relevant tags. Please provide more detailed content for analysis.,0.1909
+The provided text does not contain sufficient context to determine highly relevant tags. Please provide a complete sentence or paragraph for analysis.,0.1798
+government,0.1724
+scam,0.1712
+ending,0.1699
+housing,0.1636
+part,0.1553
+story,0.1541
+beginning,0.1525
+building,0.1457
+first,0.1436
+profits,0.1403
+developers,0.1365
+development,0.1332
+saveface,0.1302
+conclusion,0.1293
+reputation,0.1223
+repetition,0.1178
+"""The end of the first part of the series",0.1169
+I need a complete and coherent sentence or paragraph. Could you please provide more information?,0.1157
+respect,0.1112
+The provided text appears to be a repetitive phrase,0.1109
+construction,0.1093
+cliffhanger,0.1062
+series,0.1037
+completion,0.1036
+""" possible relevant tags could be:
+
+end",0.0984
+authorities,0.0966
+,0.0957
+the provided text seems to be incomplete or missing. Please provide a full sentence or paragraph so I can accurately generate the relevant tags.,0.0901
+Unfortunately,0.0745
+books,0.0744
+text,0.0743
+The provided text is incomplete. Please provide a complete sentence or paragraph for accurate tagging.,0.0710
+""" repeated multiple times. Given the lack of meaningful content or variation",0.0647
+apartments,0.0635
+fiction,0.0598
+media,0.0595
+control,0.0561
+episode,0.0534
+there isn't enough context provided in the given input to generate relevant tags. To provide meaningful tags,0.0499
+"based on the repetition and mention of a ""series",0.0487
+culture,0.0393
+it is difficult to extract relevant tags. However,0.0348
+manipulation,0.0348
+face,0.0325
+tv,0.0172
+Sorry,-0.0069
+I'm sorry,-0.0117

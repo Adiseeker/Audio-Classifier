@@ -1,0 +1,185 @@
+tag_name,cosine_similarity
+economic theory,0.5490
+an unhealthy market system,0.5394
+"and its effects on the Polish economy and real estate market. These are the primary subjects of the text. They meet the criteria because they represent the central ideas discussed throughout the passage. 
+
+Part #2: Provide only relevant single-word tags.
+Usage: The chosen tags ""economics"" and ""economic theory"" are appropriate as they are single words that closely relate to the topics mentioned in the text. Other phrases",0.5353
+housing-price-decline<|/im_start|>,0.4952
+inflation,0.4835
+economic downturn,0.4818
+housing markets. So they're able to pay those credit sums off a lot quicker than you or me. You know what? I don't even need to analyze this text anymore. The obvious answer is: capitalism,0.4557
+market dynamics,0.4432
+economic theory). This meets the criteria because it accurately represents the provided text's main topics and themes in a concise and clear manner.,0.4310
+economics,0.4238
+economics,0.4238
+ukrainian crisis,0.4225
+poland,0.4172
+european economy,0.4075
+więcej mądrości,0.4009
+housing crisis,0.3981
+economist,0.3891
+"market system
+Part #1: Analyze the text for main topics and themes.
+Usage: The given text discusses economic knowledge",0.3886
+rents,0.3833
+mariusz stefaniak,0.3817
+polish authorities,0.3812
+housing affordability,0.3772
+"property market ideas
+</|im_start|>",0.3723
+Mariusz Stefaniak<|/im_start|>,0.3639
+loans,0.3627
+poland,0.3620
+"preferential loans
+</d>",0.3532
+"real-estate-market
+<|response finished|>",0.3449
+finance,0.3372
+slowing down,0.3345
+"economic principles
+<|analyze_continue|></s>
+Remember",0.3314
+financier,0.3305
+loans,0.3193
+housing market,0.3183
+housing,0.3178
+politics,0.3167
+economy,0.3160
+investing,0.3131
+radio-stations,0.3084
+real estate market,0.3076
+and social issues impacting wealth distribution.,0.3036
+property prices,0.3012
+"financial crisis
+</d>",0.2969
+estate_ownership,0.2938
+economist,0.2910
+real estate,0.2886
+housing,0.2883
+financial markets,0.2882
+ukraine,0.2874
+consumer behavior,0.2859
+recession,0.2841
+parrot tv,0.2816
+FED,0.2801
+finance,0.2796
+economy<|/im_start|>,0.2770
+taxes,0.2770
+housing_market,0.2755
+companies,0.2734
+Poland,0.2729
+regulations,0.2727
+real estate market,0.2709
+economic_impact,0.2698
+construction,0.2686
+politics,0.2614
+financing,0.2587
+credit information,0.2585
+conversation,0.2582
+"such as ""unhealthy market system"" or ""Polish economy"" do not meet this criteria because they are not single words. 
+
+Part #3: Separate tags with commas without spaces.
+Usage: The output format is specified as a comma-separated list of tags (e.g.",0.2569
+economy,0.2554
+real estate,0.2538
+housing,0.2532
+price-fall,0.2487
+housing,0.2486
+regulations_exploitation|</|im_start|>,0.2458
+wisdom,0.2449
+happiness,0.2440
+financial|,0.2438
+economist,0.2423
+refugee-increase,0.2418
+industry,0.2410
+economy,0.2377
+economics,0.2374
+economics,0.2355
+real_estate,0.2281
+mortgages,0.2272
+tragedy,0.2259
+government,0.2210
+bank lending,0.2207
+government intervention,0.2202
+misconceptions,0.2171
+economy,0.2146
+sayings,0.2136
+fishing,0.2127
+tax_relief,0.2126
+finance,0.2126
+banks,0.2121
+office of credit information,0.2100
+economy,0.2076
+audition,0.2051
+economy,0.2033
+housing rental,0.2021
+economy,0.2011
+finance,0.1956
+radio,0.1946
+mortgage,0.1932
+entities,0.1903
+china,0.1902
+financial,0.1900
+economic,0.1889
+situation,0.1849
+real-estate,0.1845
+interest,0.1822
+to keep the tags relevant and concise for a clear understanding of the text's main themes. The provided tags cover important aspects such as financial strategies,0.1815
+market,0.1772
+governance,0.1727
+loan,0.1715
+market,0.1691
+unemployment,0.1685
+super_lawyers,0.1664
+economy,0.1662
+bribery_and_lobbying,0.1650
+real estate,0.1645
+fee,0.1607
+foundation,0.1606
+bank,0.1589
+maintenance,0.1571
+corporate,0.1502
+cheating,0.1479
+finance,0.1477
+competition,0.1429
+economy,0.1406
+intelligence,0.1368
+powerful,0.1345
+growth,0.1340
+financially_advantageous_strategies,0.1304
+facts,0.1291
+greatness,0.1267
+crisis,0.1264
+development board,0.1256
+advice,0.1205
+receivers,0.1189
+reference rate,0.1161
+corporate_power,0.1129
+specialists,0.1107
+finance,0.1049
+borrower,0.0968
+affordability,0.0943
+science,0.0871
+influence,0.0869
+unhealthy structure,0.0860
+prices,0.0848
+debt,0.0828
+government,0.0738
+faith,0.0729
+inequality,0.0542
+unfortunately,0.0534
+foundation for wisdom,0.0516
+ordinary_people,0.0504
+break,0.0504
+future,0.0501
+gdp,0.0420
+elephant,0.0309
+unnatural-situation,0.0259
+moods,0.0128
+banks,0.0090
+guest,0.0074
+artificial-intelligence,0.0020
+inaction,0.0008
+credit,-0.0333
+murky_water,-0.0406

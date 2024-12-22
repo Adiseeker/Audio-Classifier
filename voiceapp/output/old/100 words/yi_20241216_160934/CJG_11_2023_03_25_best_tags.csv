@@ -1,0 +1,349 @@
+tag_name,cosine_similarity
+bank failures,0.6077
+non-existent real estate policy,0.6035
+but it's the reality we live in today. Money creation is an important topic because it affects everyone's lives. Governments have allowed this practice because they see benefits as well. But ultimately,0.5843
+banks are just middlemen,0.5535
+real-estate,0.5422
+"it means that our current financial system isn't always grounded in solid truth and can be quite deceptive to those who are not aware of the mechanics behind it all.
+
+Tag(s): banking",0.5286
+betting,0.5126
+"economy
+This text discusses issues related to banking and economic crises",0.4999
+""" and ""financial crisis."" These topics are closely related to the context presented in the input text about banks going bankrupt due to customers withdrawing their money during a financial system where the bank's actual reserves were minimal compared to their perceived power. The final tag",0.4983
+and control over people's money by banks. Therefore,0.4783
+central banks,0.4747
+bankruptcy,0.4695
+financial crime,0.4652
+banking,0.4645
+money creation,0.4636
+high-interest rate,0.4623
+bank history,0.4613
+banknotes,0.4592
+interest rates,0.4556
+"""banking""",0.4495
+bankruptcy,0.4474
+taxes,0.4367
+scammers,0.4346
+bankruptcy,0.4342
+banking,0.4323
+banks,0.4315
+financial abyss,0.4241
+radio,0.4193
+taxation,0.4181
+"banking
+</d> <d>
+Explanation: The text primarily discusses forms of payment",0.4166
+"it is another crucial concept discussed regarding potential bank failures or system instability due to liquidity issues.
+- For 'systeminstability'",0.4112
+"""payment""",0.4099
+"debt
+</s>",0.4097
+banks,0.4062
+credit suisse,0.4047
+""" ""online banking",0.4035
+financial crisis,0.4004
+security in financial transactions,0.3991
+mafia,0.3948
+mariusz stefaniak,0.3946
+corruption,0.3931
+Getinobl Bank,0.3904
+online banking,0.3866
+"and ""economy"" are highly relevant. These terms help identify the primary themes of the conversation which revolve around financial supervision",0.3838
+central-bank,0.3774
+crrency there should be and what interest rates to set. So in essence,0.3746
+closure,0.3713
+"money management
+</s> The tags provided for the given text revolve around the themes of ""bankruptcy",0.3710
+banking,0.3697
+banking,0.3681
+national bank of switzerland,0.3670
+finance,0.3636
+banks,0.3625
+but with a twist that allows them to do this kind of money creation. It may sound like something from a science fiction novel,0.3608
+liquidity,0.3594
+finance,0.3581
+banking,0.3576
+banking,0.3540
+"it represents a significant issue mentioned in the passage which relates to financial instability or crises.
+- For 'bankingcrises'",0.3517
+communist countries,0.3482
+finance,0.3465
+banking,0.3460
+financial institution,0.3445
+government,0.3418
+banking,0.3411
+banking,0.3369
+cash,0.3333
+banking system,0.3332
+stolen assets,0.3321
+banking,0.3309
+free-market,0.3290
+fraud,0.3278
+cybercrime,0.3267
+fraud,0.3258
+centralbank,0.3254
+banks,0.3254
+property value,0.3239
+bankruptcy,0.3238
+debt,0.3224
+""" is included because it directly relates to customers managing their funds and banking activities within the narrative provided by the text.",0.3210
+banking,0.3197
+payment,0.3163
+banks,0.3147
+business,0.3122
+wallet,0.3106
+reserve,0.3099
+economics,0.3082
+finance,0.3079
+"financial-institutions
+</s>",0.3070
+wealth,0.3063
+payments,0.3058
+oil-prices,0.3056
+financial,0.3041
+bankingcrises,0.3035
+bankingcrises,0.3035
+banking,0.3016
+policy,0.2989
+government,0.2976
+financial,0.2954
+"following our guidelines mentioned earlier.
+- ""financialrisk",0.2944
+communism,0.2939
+banking,0.2939
+regulation,0.2936
+repayment,0.2934
+loans,0.2922
+banking,0.2893
+investment,0.2877
+mafia connections,0.2856
+banking,0.2852
+monopolies,0.2813
+contract,0.2803
+idea bank,0.2767
+seizure,0.2759
+terminal,0.2758
+foundation more wisdom,0.2750
+banking,0.2735
+grain,0.2719
+collateral,0.2713
+capital,0.2709
+"and ""banking"" are the most relevant tags.",0.2695
+financialrisk,0.2656
+rights,0.2650
+finance,0.2647
+reserves,0.2627
+non-terminal,0.2627
+fraud,0.2627
+freedom,0.2619
+financial-institution,0.2614
+bribe,0.2613
+finance,0.2596
+finance,0.2591
+greed,0.2574
+identity theft,0.2570
+financial,0.2569
+"we have to find out the key subjects or issues that are primarily discussed within the provided passage.
+- The text mentions ""liquidity"" which is a primary theme. 
+
+Part #2: Create relevant and specific tags for each identified theme/topic - Each tag should be concise and directly related to the identified theme/topic.
+- For 'financialrisk'",0.2561
+banking,0.2560
+finance,0.2559
+silicon valley,0.2545
+consumerism,0.2540
+deposits,0.2516
+financial crisis,0.2495
+financial entities,0.2476
+accounts,0.2474
+crime,0.2464
+economy,0.2455
+crisis,0.2452
+banking,0.2443
+economic-inequality,0.2408
+assets,0.2394
+credit-default,0.2380
+government,0.2374
+"""money management",0.2371
+"this tag is relevant as it discusses the overall threat of a banking crisis causing general instability within the economic system.
+
+Part #3: Output the tags as required - The output should be a single string containing each tag separated by commas without spaces or additional formatting",0.2366
+investment,0.2365
+authority,0.2347
+open finance,0.2340
+business,0.2333
+reserve,0.2322
+trade entities,0.2316
+economy,0.2316
+business entities,0.2307
+government,0.2287
+"crisis
+</im_start>",0.2286
+economy,0.2277
+risk,0.2276
+political influence,0.2250
+financial-institutions,0.2247
+corporate-domination,0.2246
+collapse,0.2237
+hacking,0.2237
+employment,0.2231
+economic impact,0.2228
+"so tags like ""financial""",0.2224
+greed,0.2208
+risk,0.2189
+employees,0.2180
+securities issuance,0.2174
+account,0.2173
+evidence,0.2138
+payment,0.2135
+symbolicdecisions,0.2130
+coal,0.2119
+"systeminstability""",0.2110
+economy,0.2092
+betting,0.2075
+crisis,0.2058
+extortion,0.2054
+illegality,0.2052
+economics,0.2050
+law,0.2044
+"systeminstability
+Part #1: Identify the main themes or topics in the given text - In this case",0.2042
+economy,0.2035
+economy,0.2028
+exchange,0.2019
+economy,0.2000
+fraud,0.1974
+savings,0.1950
+loan,0.1947
+money,0.1934
+illegal activities,0.1928
+customer,0.1925
+savings,0.1915
+business,0.1913
+waste management,0.1911
+and broader economic impacts.,0.1906
+agreements,0.1898
+finance,0.1892
+finance,0.1891
+obligation,0.1887
+break,0.1862
+money,0.1836
+economy,0.1818
+money-laundering,0.1816
+fraud,0.1805
+responsibility,0.1777
+financial,0.1773
+transfer,0.1770
+companies,0.1761
+customer service,0.1751
+money,0.1740
+warning light,0.1735
+authority,0.1713
+threat,0.1699
+economics,0.1685
+regulation,0.1669
+currency,0.1648
+economy,0.1643
+security,0.1636
+service,0.1635
+banking,0.1601
+money,0.1598
+surveillance,0.1589
+money,0.1584
+post-war era,0.1576
+belkid,0.1569
+crisis,0.1567
+free-will,0.1564
+bureaucracy,0.1557
+decision-making,0.1556
+problems,0.1554
+war aftermath,0.1553
+finance,0.1553
+discussion,0.1538
+economy,0.1528
+money,0.1524
+surplus,0.1519
+cybersecurity,0.1495
+economy,0.1475
+interest,0.1470
+risk,0.1457
+unauthorized access,0.1448
+profits,0.1434
+accountability,0.1429
+security,0.1401
+energy,0.1391
+ATM,0.1381
+power,0.1338
+transfer,0.1334
+music,0.1333
+economy,0.1306
+risk,0.1292
+paper,0.1267
+"collapse
+</nowrap>",0.1267
+"scam
+</|im_start|>",0.1264
+coercion,0.1254
+regulations,0.1247
+casino,0.1244
+coercion,0.1230
+finance,0.1227
+economic,0.1172
+economy,0.1154
+state,0.1107
+community</>,0.1101
+transfer,0.1092
+violence,0.1086
+oppression,0.1051
+crisis,0.1034
+government control,0.1024
+security,0.1017
+extra,0.1012
+"reputation
+</|im_start|>",0.1007
+authority,0.1006
+conflict,0.1001
+problem,0.0987
+money,0.0986
+system,0.0982
+crises,0.0980
+card,0.0972
+credit,0.0968
+technology,0.0953
+illegal,0.0932
+control,0.0903
+"""control""",0.0885
+economy,0.0859
+systemic error,0.0859
+deception,0.0846
+communication,0.0756
+massive,0.0733
+coercive,0.0715
+freemarket,0.0592
+control,0.0583
+crisis,0.0572
+crime,0.0564
+boundaries,0.0542
+rebellion,0.0540
+2008,0.0510
+crisis,0.0484
+society,0.0468
+United States,0.0464
+inequality,0.0417
+security,0.0412
+power,0.0411
+abuse,0.0399
+privacy,0.0397
+authenticity,0.0310
+tech,0.0305
+actions,0.0293
+law,0.0269
+sheep,0.0222
+insiders,0.0195
+people,0.0115
+guarantee,0.0049
+stop,-0.0055
+trap,-0.0195
+stubborn,-0.0262
+pandemic,-0.0407

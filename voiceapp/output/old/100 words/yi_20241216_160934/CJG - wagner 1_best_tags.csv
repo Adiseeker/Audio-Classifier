@@ -1,0 +1,179 @@
+tag_name,cosine_similarity
+"among others from Ukrainian gas and fuel oligarchs? I don't think there is anyone in power who would have the clear conscience to act and break such a thieving silence. Now that""",0.6474
+ukraine crisis,0.4827
+"ukraine crisis
+</d Answer: diplomacy",0.4746
+who has been receiving millions of bribes from all over the world for years,0.4615
+Putin,0.4351
+Prigozhin,0.4335
+russia,0.4329
+russia,0.4329
+sanctions,0.3955
+sanctions,0.3955
+"generate suspects for the following text:
+            ""the cut of such a source of funding for Moscow? Why would they influence? All the greats knew about it for years and used these phenomena in many ways. And who would actually oppose it? The bribe-takers from the EU? The bribe-taker Biden",0.3920
+prigozhin-group,0.3918
+private armies,0.3859
+private armies,0.3859
+and illegal activities involving finances and businesses. Therefore,0.3775
+Putin,0.3705
+diplomacy,0.3667
+Putin,0.3642
+corruption,0.3604
+russian-politics,0.3487
+"""money-laundering""",0.3462
+"midas-investments
+</nowrap>
+4. The text discusses the relationship between Prigozhin",0.3385
+russia,0.3354
+russian-politics,0.3354
+regime change,0.3290
+money-laundering,0.3240
+military operations,0.3118
+military operations,0.3118
+diplomatic relations,0.3087
+diplomatic relations,0.3087
+diplomatic relations,0.3087
+political instability,0.3072
+illegal-gold,0.3044
+power-conspiracy,0.3008
+conspiracy,0.2888
+africa,0.2844
+africa,0.2844
+diplomacy,0.2798
+diplomacy,0.2798
+diplomacy,0.2798
+political implications,0.2752
+political implications,0.2752
+wagner's group,0.2734
+wagner's group,0.2734
+Shoigu,0.2696
+african countries,0.2695
+african countries,0.2695
+military conflict,0.2605
+terrorism,0.2544
+political-scandal,0.2536
+international relations,0.2513
+"who has a son of a drug addict and a catcher. Another suspect could be the EU's corrupt official who has been receiving bribes for years from Ukrainian gas and fuel oligarchs.""
+
+            Example Output:
+            bribe-takerBiden",0.2512
+mining,0.2436
+"tags like ""russian-politics""",0.2424
+international relations,0.2422
+international relations,0.2422
+money,0.2361
+power struggle,0.2354
+plane,0.2350
+global economy,0.2343
+business-fraud,0.2322
+"leading to tag ""midas-investments"".",0.2296
+leadership challenge,0.2247
+assassination,0.2070
+rebellion,0.2057
+UN,0.2056
+espionage,0.2021
+dictatorship,0.1993
+embezzlement,0.1960
+security,0.1927
+security,0.1927
+gold,0.1902
+survival strategy,0.1860
+mentioning a specific company (Midas) suggests that there is also an interest in discussing the business sector,0.1842
+United Nations,0.1774
+blackmail,0.1771
+political crisis,0.1749
+"and ""business-fraud"" are highly relevant. Additionally",0.1726
+cookies,0.1723
+hacking,0.1630
+"euofficial
+
+            Now",0.1626
+ransomware,0.1616
+bribery,0.1544
+politics,0.1536
+heroism,0.1501
+politics,0.1484
+European Union,0.1458
+extortion,0.1441
+conflict,0.1378
+government,0.1372
+control loss,0.1363
+cybersecurity,0.1353
+gold,0.1326
+profit-billionaire,0.1254
+rebellion,0.1253
+rebellion-military,0.1193
+public response,0.1182
+conflict,0.1178
+hero,0.1173
+revolution,0.1173
+fame,0.1155
+US,0.1118
+US,0.1118
+military,0.1111
+United States,0.1109
+"ethics
+</correct_answer>
+You are a detective investigating a mysterious case involving several high-profile individuals. Your task is to analyze the given text and identify the main suspects based on the provided clues. 
+
+            Guidelines:
+            1. Identify at least two suspects based on the information provided in the text.
+            2. Each suspect should be a single word",0.1101
+fraud,0.1098
+killing,0.1069
+event,0.1057
+central-africa,0.1055
+militarily,0.1049
+mismanagement,0.0984
+money,0.0951
+state of emergency,0.0921
+Military,0.0865
+infiltration,0.0852
+media coverage,0.0842
+crisis,0.0831
+march,0.0830
+power struggle,0.0829
+cryptocurrency,0.0824
+legal proceedings,0.0821
+spy,0.0808
+crime,0.0735
+intelligence,0.0710
+purposeful,0.0690
+politics,0.0684
+survival,0.0612
+loot,0.0591
+United Kingdom,0.0560
+United Kingdom,0.0560
+"without spaces or additional formatting.
+
+            Example Input:
+            ""The mysterious disappearance of millions of dollars and evidence has left several high-ranking officials puzzled. The first suspect is known as the bribe-taker Biden",0.0515
+history,0.0504
+government,0.0467
+Europe,0.0454
+Europe,0.0454
+Europe,0.0454
+Europe,0.0454
+alliance,0.0431
+intelligence,0.0420
+transition,0.0391
+fighters,0.0374
+ufonessentials,0.0362
+ufonessentials,0.0362
+reality,0.0346
+power,0.0339
+social change,0.0330
+covert operations,0.0298
+public opinion,0.0270
+society,0.0245
+"not a phrase.
+            3. Separate each suspect with a comma",0.0227
+legitimacy,0.0204
+incompetence,0.0192
+kidnapping,0.0169
+EU,0.0105
+perception,0.0058
+hate,0.0039
+trade,-0.0061
+who has a son of a drug addict and a catcher,-0.0363
